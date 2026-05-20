@@ -1,0 +1,418 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-04-01T19:00:00+02:00",
+        "date_ts": 1775062800,
+        "description": null,
+        "signUpDate": "2026-03-12 18:05:35",
+        "profile": {
+            "id": 614883,
+            "name": "Jennifer-Kim Krause",
+            "avatar": "/api/uploads/703d6bfc-aa73-46c7-a5b6-7e3056c7ade7",
+            "isSleeping": 1,
+            "mobile": "+49 176 34565258",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-02T19:00:00+02:00",
+        "date_ts": 1775149200,
+        "description": null,
+        "signUpDate": "2026-04-01 12:24:09",
+        "profile": {
+            "id": 314692,
+            "name": "Marianna Szczesna",
+            "avatar": "/api/uploads/c8bf0c81-ccac-450e-a326-665e459af2cc",
+            "isSleeping": 0,
+            "mobile": "+491743143083",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-04T19:00:00+02:00",
+        "date_ts": 1775322000,
+        "description": null,
+        "signUpDate": "2026-04-03 09:55:46",
+        "profile": {
+            "id": 202505,
+            "name": "Sandra Kauer",
+            "avatar": "/api/uploads/dd9d7f9d-77b5-4d5f-bde2-63cf905e365a",
+            "isSleeping": 1,
+            "mobile": "+49 1575 8431168",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-07T19:00:00+02:00",
+        "date_ts": 1775581200,
+        "description": null,
+        "signUpDate": "2026-03-31 16:54:48",
+        "profile": {
+            "id": 959536,
+            "name": "Veronica Wooge",
+            "avatar": "/api/uploads/36647e51-fe46-4d3a-8a9a-e7edbc803590",
+            "isSleeping": 0,
+            "mobile": "+49 173 3282885",
+            "landline": "+49 173 3282885",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-08T19:00:00+02:00",
+        "date_ts": 1775667600,
+        "description": null,
+        "signUpDate": "2026-04-01 16:25:11",
+        "profile": {
+            "id": 343330,
+            "name": "Bianca Kupper",
+            "avatar": "/api/uploads/39cc4162-aba4-4822-b5d7-d156780dee23",
+            "isSleeping": 0,
+            "mobile": "+49 1512 8128970",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-09T19:00:00+02:00",
+        "date_ts": 1775754000,
+        "description": null,
+        "signUpDate": "2026-04-02 23:23:32",
+        "profile": {
+            "id": 988224,
+            "name": "Katharina Wittmann",
+            "avatar": "/api/uploads/c5c4d8a7-0b68-4cbc-9b3b-58b443bec4de",
+            "isSleeping": 0,
+            "mobile": "+49 172 6438562",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-10T19:00:00+02:00",
+        "date_ts": 1775840400,
+        "description": null,
+        "signUpDate": "2026-03-20 20:58:22",
+        "profile": {
+            "id": 314692,
+            "name": "Marianna Szczesna",
+            "avatar": "/api/uploads/c8bf0c81-ccac-450e-a326-665e459af2cc",
+            "isSleeping": 0,
+            "mobile": "+491743143083",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T19:00:00+02:00",
+        "date_ts": 1775926800,
+        "description": null,
+        "signUpDate": "2026-04-08 18:14:39",
+        "profile": {
+            "id": 985317,
+            "name": "Fadoua Mouch",
+            "avatar": "/api/uploads/a2eb8306-b63d-456f-abda-3d9f9233375f",
+            "isSleeping": 0,
+            "mobile": "+49 176 63646029",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-13T19:00:00+02:00",
+        "date_ts": 1776099600,
+        "description": null,
+        "signUpDate": "2026-03-26 07:18:07",
+        "profile": {
+            "id": 955121,
+            "name": "Nils Warnecke",
+            "avatar": "/api/uploads/2f044e52-78de-4d35-932f-48dc3587af33",
+            "isSleeping": 0,
+            "mobile": "+49 163 3808284",
+            "landline": "+49 69 71431419",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-13T19:00:00+02:00",
+        "date_ts": 1776099600,
+        "description": null,
+        "signUpDate": "2026-04-03 15:30:52",
+        "profile": {
+            "id": 343175,
+            "name": "Ilse Arndt",
+            "avatar": "/api/uploads/c1ac97bf-27c4-4fe7-b02c-16aad11a82b3",
+            "isSleeping": 0,
+            "mobile": "+491711945445",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-14T19:00:00+02:00",
+        "date_ts": 1776186000,
+        "description": null,
+        "signUpDate": "2026-04-12 16:33:48",
+        "profile": {
+            "id": 801886,
+            "name": "Clara Tschullik",
+            "avatar": "/api/uploads/92451f6e-f72f-4d73-975e-e7c3c4e7e985",
+            "isSleeping": 0,
+            "mobile": "+49 176 47312105",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-15T19:00:00+02:00",
+        "date_ts": 1776272400,
+        "description": null,
+        "signUpDate": "2026-03-29 00:42:23",
+        "profile": {
+            "id": 75350,
+            "name": "Kathrin Mittel",
+            "avatar": "/api/uploads/6f14ff94-4a2f-4e6e-b1d3-67db8a878b30",
+            "isSleeping": 0,
+            "mobile": "+4915209088196",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-16T19:00:00+02:00",
+        "date_ts": 1776358800,
+        "description": null,
+        "signUpDate": "2026-04-03 14:19:12",
+        "profile": {
+            "id": 237426,
+            "name": "Sergey Chentsov",
+            "avatar": "/api/uploads/6324cdce-9f16-42d5-8e55-00902f785662",
+            "isSleeping": 0,
+            "mobile": "+49 1578 5073886",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-17T19:00:00+02:00",
+        "date_ts": 1776445200,
+        "description": null,
+        "signUpDate": "2026-03-27 18:00:20",
+        "profile": {
+            "id": 314692,
+            "name": "Marianna Szczesna",
+            "avatar": "/api/uploads/c8bf0c81-ccac-450e-a326-665e459af2cc",
+            "isSleeping": 0,
+            "mobile": "+491743143083",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-18T19:00:00+02:00",
+        "date_ts": 1776531600,
+        "description": null,
+        "signUpDate": "2026-04-15 22:03:23",
+        "profile": {
+            "id": 1003583,
+            "name": "Wahida Ouhssaine - Azaouagh",
+            "avatar": "/api/uploads/1bae82d7-62a8-4097-b529-0b830d95c012",
+            "isSleeping": 0,
+            "mobile": "+49 178 3600009",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-20T19:00:00+02:00",
+        "date_ts": 1776704400,
+        "description": null,
+        "signUpDate": "2026-04-04 20:03:29",
+        "profile": {
+            "id": 970202,
+            "name": "Anna Dück",
+            "avatar": "/api/uploads/66c4a2fb-efeb-45a1-b662-63ceb74ef90b",
+            "isSleeping": 0,
+            "mobile": "+49 1511 7573065",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-20T19:00:00+02:00",
+        "date_ts": 1776704400,
+        "description": null,
+        "signUpDate": "2026-04-20 15:08:55",
+        "profile": {
+            "id": 864086,
+            "name": "Mostapha El Bojaddayni",
+            "avatar": "/api/uploads/eec77ff4-a840-4082-aa86-de8662472164",
+            "isSleeping": 0,
+            "mobile": "+49 1575 1661315",
+            "landline": "+49 1575 1661315",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-21T19:00:00+02:00",
+        "date_ts": 1776790800,
+        "description": null,
+        "signUpDate": "2026-04-19 17:41:49",
+        "profile": {
+            "id": 1003583,
+            "name": "Wahida Ouhssaine - Azaouagh",
+            "avatar": "/api/uploads/1bae82d7-62a8-4097-b529-0b830d95c012",
+            "isSleeping": 0,
+            "mobile": "+49 178 3600009",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-22T19:00:00+02:00",
+        "date_ts": 1776877200,
+        "description": null,
+        "signUpDate": "2026-04-18 07:31:47",
+        "profile": {
+            "id": 988224,
+            "name": "Katharina Wittmann",
+            "avatar": "/api/uploads/c5c4d8a7-0b68-4cbc-9b3b-58b443bec4de",
+            "isSleeping": 0,
+            "mobile": "+49 172 6438562",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-23T19:00:00+02:00",
+        "date_ts": 1776963600,
+        "description": null,
+        "signUpDate": "2026-04-22 06:41:36",
+        "profile": {
+            "id": 973988,
+            "name": "Christian",
+            "avatar": "/api/uploads/734939dc-5538-4649-9dae-2ec82bee9dc4",
+            "isSleeping": 0,
+            "mobile": "+49 1517 0022170",
+            "landline": "+49 1517 0022170",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-24T19:00:00+02:00",
+        "date_ts": 1777050000,
+        "description": null,
+        "signUpDate": "2026-04-03 19:00:14",
+        "profile": {
+            "id": 314692,
+            "name": "Marianna Szczesna",
+            "avatar": "/api/uploads/c8bf0c81-ccac-450e-a326-665e459af2cc",
+            "isSleeping": 0,
+            "mobile": "+491743143083",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-25T19:00:00+02:00",
+        "date_ts": 1777136400,
+        "description": null,
+        "signUpDate": "2026-04-08 20:58:49",
+        "profile": {
+            "id": 614883,
+            "name": "Jennifer-Kim Krause",
+            "avatar": "/api/uploads/703d6bfc-aa73-46c7-a5b6-7e3056c7ade7",
+            "isSleeping": 1,
+            "mobile": "+49 176 34565258",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-27T19:00:00+02:00",
+        "date_ts": 1777309200,
+        "description": null,
+        "signUpDate": "2026-04-26 14:30:17",
+        "profile": {
+            "id": 384287,
+            "name": "Fabiola Opitz",
+            "avatar": "/api/uploads/1d988397-9df3-4d1e-a189-651748d97355",
+            "isSleeping": 0,
+            "mobile": "+49 1578 9287170",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-28T19:00:00+02:00",
+        "date_ts": 1777395600,
+        "description": null,
+        "signUpDate": "2026-04-12 19:35:50",
+        "profile": {
+            "id": 452434,
+            "name": "Michael Kowol",
+            "avatar": "/api/uploads/6e016d2e-6f69-4d85-8003-ce6546faef9a",
+            "isSleeping": 0,
+            "mobile": "+49 1520 8060361",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-29T19:00:00+02:00",
+        "date_ts": 1777482000,
+        "description": null,
+        "signUpDate": "2026-04-23 20:31:41",
+        "profile": {
+            "id": 970202,
+            "name": "Anna Dück",
+            "avatar": "/api/uploads/66c4a2fb-efeb-45a1-b662-63ceb74ef90b",
+            "isSleeping": 0,
+            "mobile": "+49 1511 7573065",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-30T19:00:00+02:00",
+        "date_ts": 1777568400,
+        "description": null,
+        "signUpDate": "2026-04-12 12:19:20",
+        "profile": {
+            "id": 661416,
+            "name": "Ecaterina Petrova",
+            "avatar": "/api/uploads/312619a0-6eaa-416a-8ed4-fff834d71257",
+            "isSleeping": 0,
+            "mobile": "+49 172 7775933",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

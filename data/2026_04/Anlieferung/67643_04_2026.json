@@ -1,0 +1,82 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-04-02T22:00:00+02:00",
+        "date_ts": 1775160000,
+        "description": "Anlieferung Do Abend zw. 18 und 22 Uhr ",
+        "signUpDate": "2026-03-17 16:19:35",
+        "profile": {
+            "id": 703541,
+            "name": "Marit Straub",
+            "avatar": "/api/uploads/ede994ca-a727-4818-bed7-c3d96dd80ed3",
+            "isSleeping": 0,
+            "mobile": "+4915253445270",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-02T22:00:00+02:00",
+        "date_ts": 1775160000,
+        "description": "Anlieferung Do Abend zw. 18 und 22 Uhr ",
+        "signUpDate": "2026-03-30 08:28:21",
+        "profile": {
+            "id": 967920,
+            "name": "Marc Burkhard",
+            "avatar": "/api/uploads/42c703fd-28bd-4c87-8876-73e6e02288a4",
+            "isSleeping": 1,
+            "mobile": "+49 173 6894928",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-16T22:00:00+02:00",
+        "date_ts": 1776369600,
+        "description": "Anlieferung Do Abend zw. 18 und 22 Uhr ",
+        "signUpDate": "2026-03-24 14:03:48",
+        "profile": {
+            "id": 789902,
+            "name": "Maja Krawczyk-Sünder",
+            "avatar": "/api/uploads/260d7f4a-eeeb-4f74-a4d5-a6b4c6171ed7",
+            "isSleeping": 0,
+            "mobile": "+49 1577 1380280",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-23T22:00:00+02:00",
+        "date_ts": 1776974400,
+        "description": "Anlieferung Do Abend zw. 18 und 22 Uhr ",
+        "signUpDate": "2026-03-27 09:42:14",
+        "profile": {
+            "id": 869668,
+            "name": "Marianne Anna Bauder",
+            "avatar": "/api/uploads/a3da78a6-cbe1-4e28-ab27-7f075fad12cd",
+            "isSleeping": 0,
+            "mobile": "+49 171 1716757",
+            "landline": "+49 69 95102823",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-23T22:00:00+02:00",
+        "date_ts": 1776974400,
+        "description": "Anlieferung Do Abend zw. 18 und 22 Uhr ",
+        "signUpDate": "2026-04-22 18:52:22",
+        "profile": {
+            "id": 905187,
+            "name": "Tatjana Abich",
+            "avatar": "/api/uploads/a83e8247-b1b9-4f52-ac50-26ec2105bce7",
+            "isSleeping": 0,
+            "mobile": "+49 173 6508516",
+            "landline": "+49 6172 8552481",
+            "isManager": true
+        }
+    }
+]

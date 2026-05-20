@@ -1,0 +1,562 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-04-02T08:30:00+02:00",
+        "date_ts": 1775111400,
+        "description": "Abholung vom 1.4.",
+        "signUpDate": "2026-04-02 07:45:33",
+        "profile": {
+            "id": 960559,
+            "name": "Katrin Neuser",
+            "avatar": "/api/uploads/31879256-4fae-4f03-aae1-9c646e483e7d",
+            "isSleeping": 0,
+            "mobile": "+49 1577 1528888",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-02T21:50:00+02:00",
+        "date_ts": 1775159400,
+        "description": "Kann zur Abgabestelle ev. Gemeinde Sossenheim gebracht werden",
+        "signUpDate": "2026-04-02 18:28:06",
+        "profile": {
+            "id": 386173,
+            "name": "Jenny Reith",
+            "avatar": "/api/uploads/1ef2230f-f917-4e29-9b99-6e97db3c6a90",
+            "isSleeping": 0,
+            "mobile": "+4915775979699",
+            "landline": "+4915775979699",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-03T21:50:00+02:00",
+        "date_ts": 1775245800,
+        "description": null,
+        "signUpDate": "2026-04-02 19:21:48",
+        "profile": {
+            "id": 960559,
+            "name": "Katrin Neuser",
+            "avatar": "/api/uploads/31879256-4fae-4f03-aae1-9c646e483e7d",
+            "isSleeping": 0,
+            "mobile": "+49 1577 1528888",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-03T21:50:00+02:00",
+        "date_ts": 1775245800,
+        "description": null,
+        "signUpDate": "2026-04-02 21:25:49",
+        "profile": {
+            "id": 804908,
+            "name": "Natalie Heftrig",
+            "avatar": "/api/uploads/8ca224fc-8af0-47e6-8c57-c038336bce4b",
+            "isSleeping": 0,
+            "mobile": "+49 1512 0785457",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-04T21:50:00+02:00",
+        "date_ts": 1775332200,
+        "description": null,
+        "signUpDate": "2026-03-26 05:25:54",
+        "profile": {
+            "id": 136454,
+            "name": "Adelheid Henrich",
+            "avatar": "/api/uploads/f36d8874-8b6d-4aa1-9c19-1fd124f02c76",
+            "isSleeping": 0,
+            "mobile": "+49162 4073797",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-05T21:50:00+02:00",
+        "date_ts": 1775418600,
+        "description": null,
+        "signUpDate": "2026-04-05 10:17:44",
+        "profile": {
+            "id": 620545,
+            "name": "Britta Treber",
+            "avatar": "/api/uploads/c4a81c45-cc25-43d3-b991-52dd70a387e8",
+            "isSleeping": 0,
+            "mobile": "+4915778957935",
+            "landline": "+496171919570",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-05T21:50:00+02:00",
+        "date_ts": 1775418600,
+        "description": null,
+        "signUpDate": "2026-04-05 10:18:11",
+        "profile": {
+            "id": 873907,
+            "name": "Johanna Treber",
+            "avatar": "/api/uploads/b6bc3c9f-8f54-4bb2-84fe-2219dd581ad2",
+            "isSleeping": 0,
+            "mobile": "+49 176 51717781",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-06T21:50:00+02:00",
+        "date_ts": 1775505000,
+        "description": null,
+        "signUpDate": "2026-04-02 11:20:54",
+        "profile": {
+            "id": 597830,
+            "name": "Carolina Beege",
+            "avatar": "/api/uploads/17f929c0-9e3c-489a-a83f-6ba0de4a1e44",
+            "isSleeping": 1,
+            "mobile": "+49 178 2024631",
+            "landline": "+49 6192 44761",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-07T21:50:00+02:00",
+        "date_ts": 1775591400,
+        "description": null,
+        "signUpDate": "2026-04-07 21:15:47",
+        "profile": {
+            "id": 366232,
+            "name": "Christian Kreinert",
+            "avatar": "/api/uploads/ed150961-7676-41f3-af06-e0dc347f227b",
+            "isSleeping": 0,
+            "mobile": "+49 1590 4335327",
+            "landline": "+49 69 30529496",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-08T21:50:00+02:00",
+        "date_ts": 1775677800,
+        "description": "Reserviert Abgabestelle ev. Gemeinde Höchst",
+        "signUpDate": "2026-03-23 15:26:29",
+        "profile": {
+            "id": 586919,
+            "name": "Sigrid Geiß-Steinert",
+            "avatar": "/api/uploads/f171e994-8ac4-4123-80b7-fbfee09d6ddd",
+            "isSleeping": 0,
+            "mobile": "+49 159 06312594",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-09T21:50:00+02:00",
+        "date_ts": 1775764200,
+        "description": "Kann zur Abgabestelle ev. Gemeinde Sossenheim gebracht werden",
+        "signUpDate": "2026-03-23 23:43:29",
+        "profile": {
+            "id": 986554,
+            "name": "Laura Paul",
+            "avatar": "/api/uploads/802fad52-9934-44cb-8438-35d32585b870",
+            "isSleeping": 0,
+            "mobile": "+49 172 6568287",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-10T21:50:00+02:00",
+        "date_ts": 1775850600,
+        "description": null,
+        "signUpDate": "2026-04-09 12:02:58",
+        "profile": {
+            "id": 916985,
+            "name": "Franziska Gorenc",
+            "avatar": "/api/uploads/513bdced-bc22-4443-94b8-ca788f4675f2",
+            "isSleeping": 1,
+            "mobile": "+49 172 6144305",
+            "landline": "+49 172 6144305",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T21:50:00+02:00",
+        "date_ts": 1775937000,
+        "description": null,
+        "signUpDate": "2026-03-31 17:16:44",
+        "profile": {
+            "id": 821407,
+            "name": "Claudia Anders",
+            "avatar": "/api/uploads/311dfd70-2d64-4621-b004-adea67e81925",
+            "isSleeping": 1,
+            "mobile": "+49 176 63181986",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-12T21:50:00+02:00",
+        "date_ts": 1776023400,
+        "description": null,
+        "signUpDate": "2026-04-07 23:59:09",
+        "profile": {
+            "id": 620545,
+            "name": "Britta Treber",
+            "avatar": "/api/uploads/c4a81c45-cc25-43d3-b991-52dd70a387e8",
+            "isSleeping": 0,
+            "mobile": "+4915778957935",
+            "landline": "+496171919570",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-13T22:15:00+02:00",
+        "date_ts": 1776111300,
+        "description": null,
+        "signUpDate": "2026-04-13 22:10:49",
+        "profile": {
+            "id": 661416,
+            "name": "Ecaterina Petrova",
+            "avatar": "/api/uploads/312619a0-6eaa-416a-8ed4-fff834d71257",
+            "isSleeping": 0,
+            "mobile": "+49 172 7775933",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-14T21:50:00+02:00",
+        "date_ts": 1776196200,
+        "description": null,
+        "signUpDate": "2026-04-14 21:13:25",
+        "profile": {
+            "id": 413594,
+            "name": "Tomke Aljets",
+            "avatar": "/api/uploads/1a01f829-f38d-4658-846c-acc3e92b7044",
+            "isSleeping": 0,
+            "mobile": "+49 176 69601438",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-14T21:50:00+02:00",
+        "date_ts": 1776196200,
+        "description": null,
+        "signUpDate": "2026-04-14 21:27:12",
+        "profile": {
+            "id": 447184,
+            "name": "Christian Zindel",
+            "avatar": "/api/uploads/83605e98-e6d6-4d15-82ab-359bd50a5cc6",
+            "isSleeping": 0,
+            "mobile": "+49 176 45635207",
+            "landline": "Auto ist vorhanden",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-15T21:50:00+02:00",
+        "date_ts": 1776282600,
+        "description": "Reserviert Abgabestelle ev. Gemeinde Höchst",
+        "signUpDate": "2026-03-26 05:27:11",
+        "profile": {
+            "id": 136454,
+            "name": "Adelheid Henrich",
+            "avatar": "/api/uploads/f36d8874-8b6d-4aa1-9c19-1fd124f02c76",
+            "isSleeping": 0,
+            "mobile": "+49162 4073797",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-16T21:50:00+02:00",
+        "date_ts": 1776369000,
+        "description": "Kann zur Abgabestelle ev. Gemeinde Sossenheim gebracht werden",
+        "signUpDate": "2026-04-13 16:21:37",
+        "profile": {
+            "id": 267370,
+            "name": "Julia Wagner",
+            "avatar": "/api/uploads/0a004c58-4707-45ed-8d3b-48eb5cf0e947",
+            "isSleeping": 0,
+            "mobile": "+491775909617",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-17T21:50:00+02:00",
+        "date_ts": 1776455400,
+        "description": null,
+        "signUpDate": "2026-04-04 02:02:51",
+        "profile": {
+            "id": 872540,
+            "name": "Stefan Becker",
+            "avatar": "/api/uploads/0681c670-824c-44db-b4f2-8b2f550a5775",
+            "isSleeping": 0,
+            "mobile": "+49 173 3496612",
+            "landline": "+49 69 30838769",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-19T08:00:00+02:00",
+        "date_ts": 1776578400,
+        "description": "Abholung von gestern",
+        "signUpDate": "2026-04-19 07:02:50",
+        "profile": {
+            "id": 960559,
+            "name": "Katrin Neuser",
+            "avatar": "/api/uploads/31879256-4fae-4f03-aae1-9c646e483e7d",
+            "isSleeping": 0,
+            "mobile": "+49 1577 1528888",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-19T21:50:00+02:00",
+        "date_ts": 1776628200,
+        "description": null,
+        "signUpDate": "2026-04-13 17:08:55",
+        "profile": {
+            "id": 136454,
+            "name": "Adelheid Henrich",
+            "avatar": "/api/uploads/f36d8874-8b6d-4aa1-9c19-1fd124f02c76",
+            "isSleeping": 0,
+            "mobile": "+49162 4073797",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-20T21:50:00+02:00",
+        "date_ts": 1776714600,
+        "description": null,
+        "signUpDate": "2026-04-20 13:08:09",
+        "profile": {
+            "id": 974730,
+            "name": "Armela Rashidian",
+            "avatar": "/api/uploads/06991e4b-dcc7-4178-a9b2-2478c3300234",
+            "isSleeping": 1,
+            "mobile": "+49 163 2797378",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-21T21:50:00+02:00",
+        "date_ts": 1776801000,
+        "description": null,
+        "signUpDate": "2026-04-20 08:49:22",
+        "profile": {
+            "id": 898849,
+            "name": "Heike Keppler",
+            "avatar": "/api/uploads/1218aa95-d34e-41b1-9609-76c380e99e00",
+            "isSleeping": 1,
+            "mobile": "+49 1515 5025980",
+            "landline": "+49 1515 5025980",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-22T21:50:00+02:00",
+        "date_ts": 1776887400,
+        "description": "Reserviert Abgabestelle ev. Gemeinde Höchst",
+        "signUpDate": "2026-04-21 14:28:00",
+        "profile": {
+            "id": 552077,
+            "name": "Felix van Elsberg",
+            "avatar": "/api/uploads/13ad119d-b512-4786-ae4a-8ee6b4aba5b3",
+            "isSleeping": 0,
+            "mobile": "+49 1573 2046802",
+            "landline": "+49 69 36703150",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-23T21:50:00+02:00",
+        "date_ts": 1776973800,
+        "description": "Kann zur Abgabestelle ev. Gemeinde Sossenheim gebracht werden",
+        "signUpDate": "2026-04-07 17:29:55",
+        "profile": {
+            "id": 916985,
+            "name": "Franziska Gorenc",
+            "avatar": "/api/uploads/513bdced-bc22-4443-94b8-ca788f4675f2",
+            "isSleeping": 1,
+            "mobile": "+49 172 6144305",
+            "landline": "+49 172 6144305",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-24T21:50:00+02:00",
+        "date_ts": 1777060200,
+        "description": null,
+        "signUpDate": "2026-04-11 13:23:48",
+        "profile": {
+            "id": 266487,
+            "name": "Florian Schöniger",
+            "avatar": "/api/uploads/e1561556-73d4-4928-bfc4-9bbefbf7499c",
+            "isSleeping": 0,
+            "mobile": "+49 179 6913746",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-24T21:50:00+02:00",
+        "date_ts": 1777060200,
+        "description": null,
+        "signUpDate": "2026-04-24 21:33:16",
+        "profile": {
+            "id": 872540,
+            "name": "Stefan Becker",
+            "avatar": "/api/uploads/0681c670-824c-44db-b4f2-8b2f550a5775",
+            "isSleeping": 0,
+            "mobile": "+49 173 3496612",
+            "landline": "+49 69 30838769",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-25T21:50:00+02:00",
+        "date_ts": 1777146600,
+        "description": null,
+        "signUpDate": "2026-04-24 22:40:47",
+        "profile": {
+            "id": 745275,
+            "name": "Habiba Amallah",
+            "avatar": "/api/uploads/2d89ecc7-11f2-4896-9d68-fa3a4be72168",
+            "isSleeping": 0,
+            "mobile": "+49 176 84877775",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-26T21:50:00+02:00",
+        "date_ts": 1777233000,
+        "description": null,
+        "signUpDate": "2026-04-13 17:09:48",
+        "profile": {
+            "id": 136454,
+            "name": "Adelheid Henrich",
+            "avatar": "/api/uploads/f36d8874-8b6d-4aa1-9c19-1fd124f02c76",
+            "isSleeping": 0,
+            "mobile": "+49162 4073797",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-27T21:50:00+02:00",
+        "date_ts": 1777319400,
+        "description": null,
+        "signUpDate": "2026-04-27 20:47:44",
+        "profile": {
+            "id": 413594,
+            "name": "Tomke Aljets",
+            "avatar": "/api/uploads/1a01f829-f38d-4658-846c-acc3e92b7044",
+            "isSleeping": 0,
+            "mobile": "+49 176 69601438",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-27T21:50:00+02:00",
+        "date_ts": 1777319400,
+        "description": null,
+        "signUpDate": "2026-04-27 20:48:36",
+        "profile": {
+            "id": 447184,
+            "name": "Christian Zindel",
+            "avatar": "/api/uploads/83605e98-e6d6-4d15-82ab-359bd50a5cc6",
+            "isSleeping": 0,
+            "mobile": "+49 176 45635207",
+            "landline": "Auto ist vorhanden",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-28T21:50:00+02:00",
+        "date_ts": 1777405800,
+        "description": null,
+        "signUpDate": "2026-04-27 09:44:37",
+        "profile": {
+            "id": 974730,
+            "name": "Armela Rashidian",
+            "avatar": "/api/uploads/06991e4b-dcc7-4178-a9b2-2478c3300234",
+            "isSleeping": 1,
+            "mobile": "+49 163 2797378",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-29T21:50:00+02:00",
+        "date_ts": 1777492200,
+        "description": "Reserviert Abgabestelle ev. Gemeinde Höchst",
+        "signUpDate": "2026-04-16 12:26:27",
+        "profile": {
+            "id": 586919,
+            "name": "Sigrid Geiß-Steinert",
+            "avatar": "/api/uploads/f171e994-8ac4-4123-80b7-fbfee09d6ddd",
+            "isSleeping": 0,
+            "mobile": "+49 159 06312594",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-30T21:50:00+02:00",
+        "date_ts": 1777578600,
+        "description": "Kann zur Abgabestelle ev. Gemeinde Sossenheim gebracht werden",
+        "signUpDate": "2026-04-13 07:46:09",
+        "profile": {
+            "id": 136454,
+            "name": "Adelheid Henrich",
+            "avatar": "/api/uploads/f36d8874-8b6d-4aa1-9c19-1fd124f02c76",
+            "isSleeping": 0,
+            "mobile": "+49162 4073797",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

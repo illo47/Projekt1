@@ -1,0 +1,482 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-04-01T14:10:00+02:00",
+        "date_ts": 1775045400,
+        "description": "+ PA dabei",
+        "signUpDate": "2026-03-22 23:35:46",
+        "profile": {
+            "id": 237426,
+            "name": "Sergey Chentsov",
+            "avatar": "/api/uploads/6324cdce-9f16-42d5-8e55-00902f785662",
+            "isSleeping": 0,
+            "mobile": "+49 1578 5073886",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-01T14:10:00+02:00",
+        "date_ts": 1775045400,
+        "description": "+ PA dabei",
+        "signUpDate": "2026-03-26 08:25:11",
+        "profile": {
+            "id": 803118,
+            "name": "Nadine Feldmann",
+            "avatar": "/api/uploads/d517360b-e679-478b-83d4-bf3a4f67862f",
+            "isSleeping": 0,
+            "mobile": "+49 171 4890491",
+            "landline": "+49 69 27243195",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-02T14:10:00+02:00",
+        "date_ts": 1775131800,
+        "description": "",
+        "signUpDate": "2026-03-11 17:10:23",
+        "profile": {
+            "id": 898849,
+            "name": "Heike Keppler",
+            "avatar": "/api/uploads/1218aa95-d34e-41b1-9609-76c380e99e00",
+            "isSleeping": 1,
+            "mobile": "+49 1515 5025980",
+            "landline": "+49 1515 5025980",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-02T14:10:00+02:00",
+        "date_ts": 1775131800,
+        "description": "",
+        "signUpDate": "2026-04-01 15:49:35",
+        "profile": {
+            "id": 562264,
+            "name": "Gabriele Best",
+            "avatar": "/api/uploads/ca303a8d-9505-49b5-a0c8-8e7d399505b9",
+            "isSleeping": 0,
+            "mobile": "+49 176 43487880",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-07T14:10:00+02:00",
+        "date_ts": 1775563800,
+        "description": " PA dabei",
+        "signUpDate": "2026-03-11 15:12:56",
+        "profile": {
+            "id": 803118,
+            "name": "Nadine Feldmann",
+            "avatar": "/api/uploads/d517360b-e679-478b-83d4-bf3a4f67862f",
+            "isSleeping": 0,
+            "mobile": "+49 171 4890491",
+            "landline": "+49 69 27243195",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-07T14:10:00+02:00",
+        "date_ts": 1775563800,
+        "description": " PA dabei",
+        "signUpDate": "2026-04-07 10:06:16",
+        "profile": {
+            "id": 978517,
+            "name": "Emmanuel Remus",
+            "avatar": "/api/uploads/4e313b85-fa31-477c-9688-59309d5a8fd4",
+            "isSleeping": 0,
+            "mobile": "+49 1511 5417446",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-08T14:10:00+02:00",
+        "date_ts": 1775650200,
+        "description": "",
+        "signUpDate": "2026-03-13 07:01:07",
+        "profile": {
+            "id": 866328,
+            "name": "Monika Weinelt",
+            "avatar": "/api/uploads/8cabcdcf-4e5a-42a3-85d5-6ed1d620544c",
+            "isSleeping": 0,
+            "mobile": "+49 172 6558783",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-09T14:10:00+02:00",
+        "date_ts": 1775736600,
+        "description": "Bitte an Kisten und Backpapier für Pizzen denken!",
+        "signUpDate": "2026-03-12 14:19:54",
+        "profile": {
+            "id": 898849,
+            "name": "Heike Keppler",
+            "avatar": "/api/uploads/1218aa95-d34e-41b1-9609-76c380e99e00",
+            "isSleeping": 1,
+            "mobile": "+49 1515 5025980",
+            "landline": "+49 1515 5025980",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-09T14:10:00+02:00",
+        "date_ts": 1775736600,
+        "description": "Bitte an Kisten und Backpapier für Pizzen denken!",
+        "signUpDate": "2026-04-07 17:07:01",
+        "profile": {
+            "id": 613604,
+            "name": "Eliana Marton",
+            "avatar": "/api/uploads/69575d2f-a2bf-4ac2-8489-bbb857ee5365",
+            "isSleeping": 0,
+            "mobile": "+49 179 6626843",
+            "landline": "+496963199039",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-10T14:10:00+02:00",
+        "date_ts": 1775823000,
+        "description": "",
+        "signUpDate": "2026-03-14 08:33:33",
+        "profile": {
+            "id": 964211,
+            "name": "Alexandra Päzolt",
+            "avatar": "/api/uploads/fa68fe27-1d3d-4084-a8e5-4cabfc855ffc",
+            "isSleeping": 0,
+            "mobile": "+49 172 4271057",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-13T14:10:00+02:00",
+        "date_ts": 1776082200,
+        "description": null,
+        "signUpDate": "2026-03-16 15:04:57",
+        "profile": {
+            "id": 803118,
+            "name": "Nadine Feldmann",
+            "avatar": "/api/uploads/d517360b-e679-478b-83d4-bf3a4f67862f",
+            "isSleeping": 0,
+            "mobile": "+49 171 4890491",
+            "landline": "+49 69 27243195",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-13T14:10:00+02:00",
+        "date_ts": 1776082200,
+        "description": null,
+        "signUpDate": "2026-03-20 09:15:06",
+        "profile": {
+            "id": 331144,
+            "name": "Gabriela Rothenmeyer",
+            "avatar": "/api/uploads/2b21f933-6846-4c1d-b66d-bd8cdb5ab312",
+            "isSleeping": 1,
+            "mobile": "+ 491798663536",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-14T14:10:00+02:00",
+        "date_ts": 1776168600,
+        "description": "",
+        "signUpDate": "2026-04-13 13:03:54",
+        "profile": {
+            "id": 803118,
+            "name": "Nadine Feldmann",
+            "avatar": "/api/uploads/d517360b-e679-478b-83d4-bf3a4f67862f",
+            "isSleeping": 0,
+            "mobile": "+49 171 4890491",
+            "landline": "+49 69 27243195",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-14T14:10:00+02:00",
+        "date_ts": 1776168600,
+        "description": "",
+        "signUpDate": "2026-04-13 14:55:24",
+        "profile": {
+            "id": 331144,
+            "name": "Gabriela Rothenmeyer",
+            "avatar": "/api/uploads/2b21f933-6846-4c1d-b66d-bd8cdb5ab312",
+            "isSleeping": 1,
+            "mobile": "+ 491798663536",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-15T14:10:00+02:00",
+        "date_ts": 1776255000,
+        "description": "",
+        "signUpDate": "2026-04-10 18:04:43",
+        "profile": {
+            "id": 866328,
+            "name": "Monika Weinelt",
+            "avatar": "/api/uploads/8cabcdcf-4e5a-42a3-85d5-6ed1d620544c",
+            "isSleeping": 0,
+            "mobile": "+49 172 6558783",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-16T14:10:00+02:00",
+        "date_ts": 1776341400,
+        "description": "Bitte an Kisten und Backpapier für Pizzen denken",
+        "signUpDate": "2026-04-13 20:49:04",
+        "profile": {
+            "id": 542923,
+            "name": "Almuth Turré",
+            "avatar": "/api/uploads/5b58bbbc-8774-4269-9be6-cea8c0d1f8ae",
+            "isSleeping": 0,
+            "mobile": "+49 173 9259103",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-17T14:10:00+02:00",
+        "date_ts": 1776427800,
+        "description": "",
+        "signUpDate": "2026-03-24 19:24:39",
+        "profile": {
+            "id": 974730,
+            "name": "Armela Rashidian",
+            "avatar": "/api/uploads/06991e4b-dcc7-4178-a9b2-2478c3300234",
+            "isSleeping": 1,
+            "mobile": "+49 163 2797378",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-17T14:10:00+02:00",
+        "date_ts": 1776427800,
+        "description": "",
+        "signUpDate": "2026-04-07 10:59:22",
+        "profile": {
+            "id": 571329,
+            "name": "Iryna Korolyova",
+            "avatar": "/api/uploads/5baf66fd-3693-4d96-ba7e-22c0d84d25f1",
+            "isSleeping": 0,
+            "mobile": "+49 174 4775138",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-20T14:10:00+02:00",
+        "date_ts": 1776687000,
+        "description": "2 PAs dabei ",
+        "signUpDate": "2026-03-23 15:22:33",
+        "profile": {
+            "id": 803118,
+            "name": "Nadine Feldmann",
+            "avatar": "/api/uploads/d517360b-e679-478b-83d4-bf3a4f67862f",
+            "isSleeping": 0,
+            "mobile": "+49 171 4890491",
+            "landline": "+49 69 27243195",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-21T14:10:00+02:00",
+        "date_ts": 1776773400,
+        "description": "",
+        "signUpDate": "2026-03-25 09:38:26",
+        "profile": {
+            "id": 678974,
+            "name": "Anna-Lisa Betschel",
+            "avatar": "/api/uploads/f8c6ee1b-e608-4891-ad4a-30b5181bc4c2",
+            "isSleeping": 0,
+            "mobile": "+49 1522 5460113",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-22T14:10:00+02:00",
+        "date_ts": 1776859800,
+        "description": "",
+        "signUpDate": "2026-04-14 18:46:41",
+        "profile": {
+            "id": 237426,
+            "name": "Sergey Chentsov",
+            "avatar": "/api/uploads/6324cdce-9f16-42d5-8e55-00902f785662",
+            "isSleeping": 0,
+            "mobile": "+49 1578 5073886",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-22T14:10:00+02:00",
+        "date_ts": 1776859800,
+        "description": "",
+        "signUpDate": "2026-04-16 23:38:46",
+        "profile": {
+            "id": 542923,
+            "name": "Almuth Turré",
+            "avatar": "/api/uploads/5b58bbbc-8774-4269-9be6-cea8c0d1f8ae",
+            "isSleeping": 0,
+            "mobile": "+49 173 9259103",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-23T14:10:00+02:00",
+        "date_ts": 1776946200,
+        "description": "Bitte an Kisten und Backpapier für Pizzen denken! ",
+        "signUpDate": "2026-03-26 14:06:47",
+        "profile": {
+            "id": 921659,
+            "name": "Jonathan Ohms",
+            "avatar": "/api/uploads/dd7fdd6d-ce84-4780-b052-2be4b1d6e00a",
+            "isSleeping": 0,
+            "mobile": "+49 1512 2233335",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-23T14:10:00+02:00",
+        "date_ts": 1776946200,
+        "description": "Bitte an Kisten und Backpapier für Pizzen denken! ",
+        "signUpDate": "2026-03-30 13:46:12",
+        "profile": {
+            "id": 970202,
+            "name": "Anna Dück",
+            "avatar": "/api/uploads/66c4a2fb-efeb-45a1-b662-63ceb74ef90b",
+            "isSleeping": 0,
+            "mobile": "+49 1511 7573065",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-24T14:10:00+02:00",
+        "date_ts": 1777032600,
+        "description": "",
+        "signUpDate": "2026-04-14 18:25:57",
+        "profile": {
+            "id": 552211,
+            "name": "Anne Siegl",
+            "avatar": "/api/uploads/6dd5b73e-13e2-489c-b35e-301c91cffd92",
+            "isSleeping": 0,
+            "mobile": "+49 1577 1582858",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-24T14:10:00+02:00",
+        "date_ts": 1777032600,
+        "description": "",
+        "signUpDate": "2026-04-17 19:15:46",
+        "profile": {
+            "id": 974730,
+            "name": "Armela Rashidian",
+            "avatar": "/api/uploads/06991e4b-dcc7-4178-a9b2-2478c3300234",
+            "isSleeping": 1,
+            "mobile": "+49 163 2797378",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-27T14:10:00+02:00",
+        "date_ts": 1777291800,
+        "description": "",
+        "signUpDate": "2026-03-30 14:14:46",
+        "profile": {
+            "id": 803535,
+            "name": "Sonja Stamm",
+            "avatar": "/api/uploads/f157af02-6734-42e4-88e5-3701250a69df",
+            "isSleeping": 0,
+            "mobile": "+49 171 7844303",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-28T14:10:00+02:00",
+        "date_ts": 1777378200,
+        "description": "",
+        "signUpDate": "2026-04-01 10:12:51",
+        "profile": {
+            "id": 866328,
+            "name": "Monika Weinelt",
+            "avatar": "/api/uploads/8cabcdcf-4e5a-42a3-85d5-6ed1d620544c",
+            "isSleeping": 0,
+            "mobile": "+49 172 6558783",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-29T14:10:00+02:00",
+        "date_ts": 1777464600,
+        "description": "2 PAs dabei",
+        "signUpDate": "2026-04-22 16:23:51",
+        "profile": {
+            "id": 803118,
+            "name": "Nadine Feldmann",
+            "avatar": "/api/uploads/d517360b-e679-478b-83d4-bf3a4f67862f",
+            "isSleeping": 0,
+            "mobile": "+49 171 4890491",
+            "landline": "+49 69 27243195",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-30T14:10:00+02:00",
+        "date_ts": 1777551000,
+        "description": "",
+        "signUpDate": "2026-04-19 14:49:20",
+        "profile": {
+            "id": 542923,
+            "name": "Almuth Turré",
+            "avatar": "/api/uploads/5b58bbbc-8774-4269-9be6-cea8c0d1f8ae",
+            "isSleeping": 0,
+            "mobile": "+49 173 9259103",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

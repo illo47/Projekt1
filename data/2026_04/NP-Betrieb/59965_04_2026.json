@@ -1,0 +1,50 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-04-13T15:15:00+02:00",
+        "date_ts": 1776086100,
+        "description": null,
+        "signUpDate": "2026-03-30 18:23:56",
+        "profile": {
+            "id": 588433,
+            "name": "Monika Röske",
+            "avatar": "/api/uploads/667a3af4-8cbb-4cac-ad3e-3d6c14120a7e",
+            "isSleeping": 1,
+            "mobile": "+49 1577 4154240",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-20T15:15:00+02:00",
+        "date_ts": 1776690900,
+        "description": null,
+        "signUpDate": "2026-04-13 17:20:24",
+        "profile": {
+            "id": 588433,
+            "name": "Monika Röske",
+            "avatar": "/api/uploads/667a3af4-8cbb-4cac-ad3e-3d6c14120a7e",
+            "isSleeping": 1,
+            "mobile": "+49 1577 4154240",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-27T15:15:00+02:00",
+        "date_ts": 1777295700,
+        "description": null,
+        "signUpDate": "2026-04-20 15:28:53",
+        "profile": {
+            "id": 510212,
+            "name": "Hannah Steinert",
+            "avatar": "/api/uploads/72df578d-154d-40a9-b8f2-5abc650d5422",
+            "isSleeping": 0,
+            "mobile": "+49 1577 4155308",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-04-01T18:00:00+02:00",
+        "date_ts": 1775059200,
+        "description": null,
+        "signUpDate": "2026-03-22 06:32:58",
+        "profile": {
+            "id": 557897,
+            "name": "Alexander Stecher",
+            "avatar": "/api/uploads/4cc25f46-c866-44ff-a094-fa97df69b200",
+            "isSleeping": 0,
+            "mobile": "+49 160 7726418",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-02T18:00:00+02:00",
+        "date_ts": 1775145600,
+        "description": null,
+        "signUpDate": "2026-03-30 10:41:40",
+        "profile": {
+            "id": 978989,
+            "name": "Kerstin Siebke",
+            "avatar": "/api/uploads/11ebf02d-c2d1-46df-8bc7-3342a62b9958",
+            "isSleeping": 1,
+            "mobile": "+49 163 8271427",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-04T15:00:00+02:00",
+        "date_ts": 1775307600,
+        "description": null,
+        "signUpDate": "2026-03-27 19:15:46",
+        "profile": {
+            "id": 378341,
+            "name": "Boris Seifert",
+            "avatar": "/api/uploads/69eb0b1d-172d-4251-ab8b-bffe2c349705",
+            "isSleeping": 0,
+            "mobile": "+49 176 41710730",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-07T18:00:00+02:00",
+        "date_ts": 1775577600,
+        "description": null,
+        "signUpDate": "2026-03-11 13:58:36",
+        "profile": {
+            "id": 741443,
+            "name": "Frauke Moeller",
+            "avatar": "/api/uploads/6e8eabca-d273-424c-9f25-851aaa2560b4",
+            "isSleeping": 0,
+            "mobile": "+49 162 1327328",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-08T18:00:00+02:00",
+        "date_ts": 1775664000,
+        "description": null,
+        "signUpDate": "2026-03-31 12:52:55",
+        "profile": {
+            "id": 978989,
+            "name": "Kerstin Siebke",
+            "avatar": "/api/uploads/11ebf02d-c2d1-46df-8bc7-3342a62b9958",
+            "isSleeping": 1,
+            "mobile": "+49 163 8271427",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-09T18:00:00+02:00",
+        "date_ts": 1775750400,
+        "description": null,
+        "signUpDate": "2026-04-09 10:11:29",
+        "profile": {
+            "id": 978989,
+            "name": "Kerstin Siebke",
+            "avatar": "/api/uploads/11ebf02d-c2d1-46df-8bc7-3342a62b9958",
+            "isSleeping": 1,
+            "mobile": "+49 163 8271427",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-10T17:00:00+02:00",
+        "date_ts": 1775833200,
+        "description": null,
+        "signUpDate": "2026-04-10 14:58:04",
+        "profile": {
+            "id": 439207,
+            "name": "Carola Pfeiffer",
+            "avatar": "/api/uploads/94c6caf8-0a41-48d5-bc12-79649d29e403",
+            "isSleeping": 0,
+            "mobile": "+49 176 72329777",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-13T18:00:00+02:00",
+        "date_ts": 1776096000,
+        "description": null,
+        "signUpDate": "2026-03-17 12:40:15",
+        "profile": {
+            "id": 441735,
+            "name": "Manuela Stolte",
+            "avatar": "/api/uploads/270c4200-797c-4f5a-835f-17d0267416d1",
+            "isSleeping": 0,
+            "mobile": "+49 1514 2519477",
+            "landline": "+49 69 70797694",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-14T18:00:00+02:00",
+        "date_ts": 1776182400,
+        "description": null,
+        "signUpDate": "2026-03-17 18:59:45",
+        "profile": {
+            "id": 560546,
+            "name": "Irina Evteeva",
+            "avatar": "/api/uploads/0977b74f-1bae-4ac1-8515-6bc7c499c17b",
+            "isSleeping": 0,
+            "mobile": "+49 160 6548329",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-15T18:00:00+02:00",
+        "date_ts": 1776268800,
+        "description": null,
+        "signUpDate": "2026-03-18 21:01:23",
+        "profile": {
+            "id": 828379,
+            "name": "Gretha Keim",
+            "avatar": "/api/uploads/5465c880-4e53-4e61-9f6e-cec4821ca48f",
+            "isSleeping": 0,
+            "mobile": "+49 1573 3724442",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-16T18:00:00+02:00",
+        "date_ts": 1776355200,
+        "description": null,
+        "signUpDate": "2026-04-16 12:23:01",
+        "profile": {
+            "id": 429425,
+            "name": "Sarah Franchini",
+            "avatar": "/api/uploads/c98eacb9-f25c-4dbc-a280-bc7d38fb8aee",
+            "isSleeping": 0,
+            "mobile": "+49 15257692652",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-17T17:00:00+02:00",
+        "date_ts": 1776438000,
+        "description": null,
+        "signUpDate": "2026-04-17 10:51:33",
+        "profile": {
+            "id": 578846,
+            "name": "Werner Panthel",
+            "avatar": "/api/uploads/57ffa27f-3e66-4ad2-901f-1c6703cb62cf",
+            "isSleeping": 0,
+            "mobile": "+49 177 8246441",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-20T18:00:00+02:00",
+        "date_ts": 1776700800,
+        "description": null,
+        "signUpDate": "2026-04-10 08:18:37",
+        "profile": {
+            "id": 978989,
+            "name": "Kerstin Siebke",
+            "avatar": "/api/uploads/11ebf02d-c2d1-46df-8bc7-3342a62b9958",
+            "isSleeping": 1,
+            "mobile": "+49 163 8271427",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-21T18:00:00+02:00",
+        "date_ts": 1776787200,
+        "description": null,
+        "signUpDate": "2026-04-20 21:20:36",
+        "profile": {
+            "id": 560546,
+            "name": "Irina Evteeva",
+            "avatar": "/api/uploads/0977b74f-1bae-4ac1-8515-6bc7c499c17b",
+            "isSleeping": 0,
+            "mobile": "+49 160 6548329",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-22T18:00:00+02:00",
+        "date_ts": 1776873600,
+        "description": null,
+        "signUpDate": "2026-04-21 21:33:08",
+        "profile": {
+            "id": 978989,
+            "name": "Kerstin Siebke",
+            "avatar": "/api/uploads/11ebf02d-c2d1-46df-8bc7-3342a62b9958",
+            "isSleeping": 1,
+            "mobile": "+49 163 8271427",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-23T18:00:00+02:00",
+        "date_ts": 1776960000,
+        "description": null,
+        "signUpDate": "2026-04-22 20:11:24",
+        "profile": {
+            "id": 978989,
+            "name": "Kerstin Siebke",
+            "avatar": "/api/uploads/11ebf02d-c2d1-46df-8bc7-3342a62b9958",
+            "isSleeping": 1,
+            "mobile": "+49 163 8271427",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-24T17:00:00+02:00",
+        "date_ts": 1777042800,
+        "description": null,
+        "signUpDate": "2026-04-19 18:12:45",
+        "profile": {
+            "id": 541315,
+            "name": "Juliane Link",
+            "avatar": "/api/uploads/6f5d9f20-a88b-480c-b8b7-f9905c7fd0a2",
+            "isSleeping": 0,
+            "mobile": "+4917631152354",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-27T18:00:00+02:00",
+        "date_ts": 1777305600,
+        "description": null,
+        "signUpDate": "2026-04-27 12:57:58",
+        "profile": {
+            "id": 578846,
+            "name": "Werner Panthel",
+            "avatar": "/api/uploads/57ffa27f-3e66-4ad2-901f-1c6703cb62cf",
+            "isSleeping": 0,
+            "mobile": "+49 177 8246441",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-28T18:00:00+02:00",
+        "date_ts": 1777392000,
+        "description": null,
+        "signUpDate": "2026-04-24 10:26:30",
+        "profile": {
+            "id": 557897,
+            "name": "Alexander Stecher",
+            "avatar": "/api/uploads/4cc25f46-c866-44ff-a094-fa97df69b200",
+            "isSleeping": 0,
+            "mobile": "+49 160 7726418",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-29T18:00:00+02:00",
+        "date_ts": 1777478400,
+        "description": null,
+        "signUpDate": "2026-04-29 11:01:46",
+        "profile": {
+            "id": 248981,
+            "name": "Alicia Koch",
+            "avatar": "/api/uploads/4752cb98-f3d0-4a09-bdae-49287a043af8",
+            "isSleeping": 0,
+            "mobile": "+49 1791064182",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-30T18:00:00+02:00",
+        "date_ts": 1777564800,
+        "description": null,
+        "signUpDate": "2026-04-28 14:40:37",
+        "profile": {
+            "id": 429425,
+            "name": "Sarah Franchini",
+            "avatar": "/api/uploads/c98eacb9-f25c-4dbc-a280-bc7d38fb8aee",
+            "isSleeping": 0,
+            "mobile": "+49 15257692652",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

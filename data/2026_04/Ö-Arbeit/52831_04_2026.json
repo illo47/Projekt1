@@ -1,0 +1,370 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T10:25:00+02:00",
+        "date_ts": 1775895900,
+        "description": "Saatgutmarkt Alte Seilerei (Organisation, Andrea)",
+        "signUpDate": "2026-03-21 12:39:59",
+        "profile": {
+            "id": 479121,
+            "name": "Andrea Heymann",
+            "avatar": "/api/uploads/55cb5a76-0dcb-4d10-b4b4-3635d8a00d81",
+            "isSleeping": 0,
+            "mobile": "+49 1578 7809056",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T10:30:00+02:00",
+        "date_ts": 1775896200,
+        "description": "Saatgutmarkt Alte Seilerei: Aufbau und 1. Schicht (10.30 - 14.00)",
+        "signUpDate": "2026-03-21 12:29:01",
+        "profile": {
+            "id": 131987,
+            "name": "Simone Beege",
+            "avatar": "/api/uploads/28619a89-425e-4258-ada8-39db7d592208",
+            "isSleeping": 0,
+            "mobile": "+4915786084931",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T10:30:00+02:00",
+        "date_ts": 1775896200,
+        "description": "Saatgutmarkt Alte Seilerei: Aufbau und 1. Schicht (10.30 - 14.00)",
+        "signUpDate": "2026-03-21 12:29:21",
+        "profile": {
+            "id": 111876,
+            "name": "Ute Fries",
+            "avatar": "/api/uploads/3d300c29-add8-4b0c-87c8-9daa6e503706",
+            "isSleeping": 0,
+            "mobile": "+491789779063",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T10:30:00+02:00",
+        "date_ts": 1775896200,
+        "description": "Saatgutmarkt Alte Seilerei: Aufbau und 1. Schicht (10.30 - 14.00)",
+        "signUpDate": "2026-04-11 08:05:34",
+        "profile": {
+            "id": 344735,
+            "name": "Jörg Junker",
+            "avatar": "/api/uploads/14d2be22-deeb-4438-bf87-4a213ac5afd4",
+            "isSleeping": 0,
+            "mobile": "+491754140746",
+            "landline": "+496994547770",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T10:45:00+02:00",
+        "date_ts": 1775897100,
+        "description": "Saatgutmarkt Alte Seilerei: Lebensmittelanlieferung",
+        "signUpDate": "2026-04-11 08:05:30",
+        "profile": {
+            "id": 532833,
+            "name": "Jacqueline Wendt",
+            "avatar": "/api/uploads/4d897a1c-828b-4169-8f2f-5b3587d9e822",
+            "isSleeping": 0,
+            "mobile": "+49 174 3256194",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T10:45:00+02:00",
+        "date_ts": 1775897100,
+        "description": "Saatgutmarkt Alte Seilerei: Lebensmittelanlieferung",
+        "signUpDate": "2026-04-11 09:28:48",
+        "profile": {
+            "id": 806365,
+            "name": "Anne Bürcky",
+            "avatar": "/api/uploads/3a057290-f6f6-4816-a1d7-ddc17e0302d2",
+            "isSleeping": 0,
+            "mobile": "+49 162 6324643",
+            "landline": "+491626324643",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T14:00:00+02:00",
+        "date_ts": 1775908800,
+        "description": "Saatgutmarkt Alte Seilerei: 2. Schicht und Abbau (14.00 - 18.00)",
+        "signUpDate": "2026-03-21 12:42:36",
+        "profile": {
+            "id": 636064,
+            "name": "Marie Grell",
+            "avatar": "/api/uploads/75ead62f-4e30-4155-b28c-75f3d13845f1",
+            "isSleeping": 1,
+            "mobile": "+49 1733769042",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T14:00:00+02:00",
+        "date_ts": 1775908800,
+        "description": "Saatgutmarkt Alte Seilerei: 2. Schicht und Abbau (14.00 - 18.00)",
+        "signUpDate": "2026-03-21 13:29:53",
+        "profile": {
+            "id": 477377,
+            "name": "Andrea Morbe",
+            "avatar": "/api/uploads/f0cdd2e1-0889-4c95-83cc-383cfe36a655",
+            "isSleeping": 0,
+            "mobile": "+49 171 3220676",
+            "landline": "069 564498",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T14:00:00+02:00",
+        "date_ts": 1775908800,
+        "description": "Saatgutmarkt Alte Seilerei: 2. Schicht und Abbau (14.00 - 18.00)",
+        "signUpDate": "2026-03-21 14:34:28",
+        "profile": {
+            "id": 384287,
+            "name": "Fabiola Opitz",
+            "avatar": "/api/uploads/1d988397-9df3-4d1e-a189-651748d97355",
+            "isSleeping": 0,
+            "mobile": "+49 1578 9287170",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T14:00:00+02:00",
+        "date_ts": 1775908800,
+        "description": "Saatgutmarkt Alte Seilerei: 2. Schicht und Abbau (14.00 - 18.00)",
+        "signUpDate": "2026-04-10 19:54:22",
+        "profile": {
+            "id": 496044,
+            "name": "Katja Hofmaier",
+            "avatar": "/api/uploads/8b8334ca-ecb5-4a67-a702-d8fcceceafb6",
+            "isSleeping": 0,
+            "mobile": "+49 163 6928953",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-12T13:45:00+02:00",
+        "date_ts": 1775994300,
+        "description": "LM Anlieferung (außer Kuchen) Siedlungscafé Naturfreunde",
+        "signUpDate": "2026-04-07 14:04:31",
+        "profile": {
+            "id": 610944,
+            "name": "Sabine Mönkemöller",
+            "avatar": "/api/uploads/399fa1ee-9260-42b1-bac5-e2fc37ed9ff5",
+            "isSleeping": 0,
+            "mobile": "+49 175 1642332",
+            "landline": "+49 175 1642332",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-12T13:45:00+02:00",
+        "date_ts": 1775994300,
+        "description": "LM Anlieferung (außer Kuchen) Siedlungscafé Naturfreunde",
+        "signUpDate": "2026-04-11 10:47:30",
+        "profile": {
+            "id": 635374,
+            "name": "Lisa Gonzalez",
+            "avatar": "/api/uploads/2d72bbab-0ad1-421b-8b6c-444291af68ee",
+            "isSleeping": 0,
+            "mobile": "+49 1590 6037781",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-12T13:45:00+02:00",
+        "date_ts": 1775994300,
+        "description": "LM Anlieferung (außer Kuchen) Siedlungscafé Naturfreunde",
+        "signUpDate": "2026-04-11 19:25:22",
+        "profile": {
+            "id": 729487,
+            "name": "Assia Maaziz-Cinar",
+            "avatar": "/api/uploads/d8190f8e-c7de-409a-aac0-8b6a42de0627",
+            "isSleeping": 0,
+            "mobile": "+49 177 7943709",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-12T14:00:00+02:00",
+        "date_ts": 1775995200,
+        "description": "Info Siedlungscafé Naturfreunde",
+        "signUpDate": "2026-04-07 17:45:16",
+        "profile": {
+            "id": 343175,
+            "name": "Ilse Arndt",
+            "avatar": "/api/uploads/c1ac97bf-27c4-4fe7-b02c-16aad11a82b3",
+            "isSleeping": 0,
+            "mobile": "+491711945445",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-12T14:01:00+02:00",
+        "date_ts": 1775995260,
+        "description": "Infostand Naturfreundehaus ",
+        "signUpDate": "2026-04-11 18:38:01",
+        "profile": {
+            "id": 464045,
+            "name": "Hannah Said",
+            "avatar": "/api/uploads/5aa491f7-3c03-4d82-a20a-bd00b13c5bbd",
+            "isSleeping": 0,
+            "mobile": "+4917681008997",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-17T17:00:00+02:00",
+        "date_ts": 1776438000,
+        "description": "- 19 Uhr nach Absprache m. Kai LM Anlieferung f. Kochen im Riederwald",
+        "signUpDate": "2026-04-14 18:34:16",
+        "profile": {
+            "id": 682082,
+            "name": "Liliana Alem",
+            "avatar": "/api/uploads/71b24917-4094-486a-8c2f-27312f2442a2",
+            "isSleeping": 1,
+            "mobile": "+49 163 9068615",
+            "landline": "+496978801502",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-17T17:00:00+02:00",
+        "date_ts": 1776438000,
+        "description": "- 19 Uhr nach Absprache m. Kai LM Anlieferung f. Kochen im Riederwald",
+        "signUpDate": "2026-04-14 18:34:48",
+        "profile": {
+            "id": 664967,
+            "name": "Wolfgang Hennig",
+            "avatar": "/api/uploads/0e51b46f-f7e6-43b6-b340-aae6b0fd0329",
+            "isSleeping": 0,
+            "mobile": "+49 1522 8751539",
+            "landline": "+49 69 78801502",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-18T11:00:00+02:00",
+        "date_ts": 1776502800,
+        "description": "bis 14 uhr Kochen im Riederwald",
+        "signUpDate": "2026-04-12 21:07:13",
+        "profile": {
+            "id": 541166,
+            "name": "Julian Kohlstock",
+            "avatar": "/api/uploads/467369e9-c8f0-460b-9979-18a5711099a6",
+            "isSleeping": 0,
+            "mobile": "+49 1511 1437190",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-24T14:30:00+02:00",
+        "date_ts": 1777033800,
+        "description": "LM Anlieferung f. Ausstellungseröffnung  Quartiersmanagement Ginnheim",
+        "signUpDate": "2026-04-10 19:03:24",
+        "profile": {
+            "id": 532833,
+            "name": "Jacqueline Wendt",
+            "avatar": "/api/uploads/4d897a1c-828b-4169-8f2f-5b3587d9e822",
+            "isSleeping": 0,
+            "mobile": "+49 174 3256194",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-24T14:30:00+02:00",
+        "date_ts": 1777033800,
+        "description": "LM Anlieferung f. Ausstellungseröffnung  Quartiersmanagement Ginnheim",
+        "signUpDate": "2026-04-24 10:45:49",
+        "profile": {
+            "id": 585909,
+            "name": "Sabine Müller",
+            "avatar": "/api/uploads/bed77b79-fce4-43c5-8719-59147c332529",
+            "isSleeping": 0,
+            "mobile": "+49 1577 9700220",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-24T14:30:00+02:00",
+        "date_ts": 1777033800,
+        "description": "LM Anlieferung f. Ausstellungseröffnung  Quartiersmanagement Ginnheim",
+        "signUpDate": "2026-04-24 13:23:56",
+        "profile": {
+            "id": 11382,
+            "name": "Beatrix Diem",
+            "avatar": "/api/uploads/ddec0be6-94e3-424f-a32d-deacdedbf991",
+            "isSleeping": 0,
+            "mobile": "+49 176 76987632",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-24T14:35:00+02:00",
+        "date_ts": 1777034100,
+        "description": "bis ca. 18 Uhr  Stand Ausstellungseröffnung  Quartiersmanagement Ginnheim",
+        "signUpDate": "2026-04-21 09:29:36",
+        "profile": {
+            "id": 175002,
+            "name": "Detlef Saemann",
+            "avatar": "/api/uploads/0dccec9a-3875-4b58-b372-c8af51d9a3d8",
+            "isSleeping": 0,
+            "mobile": "",
+            "landline": "+49 69 97 98 15 99",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-24T14:35:00+02:00",
+        "date_ts": 1777034100,
+        "description": "bis ca. 18 Uhr  Stand Ausstellungseröffnung  Quartiersmanagement Ginnheim",
+        "signUpDate": "2026-04-22 21:09:18",
+        "profile": {
+            "id": 664967,
+            "name": "Wolfgang Hennig",
+            "avatar": "/api/uploads/0e51b46f-f7e6-43b6-b340-aae6b0fd0329",
+            "isSleeping": 0,
+            "mobile": "+49 1522 8751539",
+            "landline": "+49 69 78801502",
+            "isManager": false
+        }
+    }
+]
