@@ -110,7 +110,7 @@ def download_json_for_ids(session, ids, output_dir, start_date, end_date, month_
     os.makedirs(output_dir, exist_ok=True)
 
     for id in ids:
-        url = base_url.format(id, start_date_ts, end_date_ts)
+        url = base_url.format(id, start_ts, end_ts)
 
         try:
             response = session.get(url)
