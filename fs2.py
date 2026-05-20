@@ -131,24 +131,11 @@ def download_json_for_ids(session, ids, output_dir, start_date, end_date, month_
 def main():
     # Monat/Jahr aus Umgebungsvariablen (Railway Cron)
     # YEAR/MONTH aus Environment oder Eingabe
-    year_env = os.getenv("YEAR")
-    month_env = os.getenv("MONTH")
-
-    if year_env and month_env:
-        year = int(year_env)
-        month = int(month_env)
-    else:
-        print("Keine Environment-Variablen gefunden. Bitte lokal eingeben:")
-        year = int(input("Jahr (z. B. 2026): "))
-        month = int(input("Monat (1–12): "))
-
-
+    year, month = get_previous_month()
     month_str = f"{month:02d}"
-    days_in_month = monthrange(year, month)[1]
+    year_str = str(year)
 
-    start_date = f"{year}-{month_str}-01T00:00:00.000Z"
-    end_date = f"{year}-{month_str}-{days_in_month}T23:59:59.000Z"
-    month_name = calendar.month_name[month]
+    print(f"Starte Verarbeitung für {year_str}-{month_str}")
 
     session = load_session_from_storage()
     category_ids = load_ids_from_excel()
