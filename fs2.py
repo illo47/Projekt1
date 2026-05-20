@@ -132,6 +132,20 @@ def main():
     # Monat/Jahr aus Umgebungsvariablen (Railway Cron)
     # YEAR/MONTH aus Environment oder Eingabe
     year, month = get_previous_month()
+    # Start- und Enddatum des Vormonats berechnen
+    start_date = f"{year}-{month:02d}-01"
+
+    # letzter Tag des Monats:
+    if month == 12:
+        end_date = f"{year}-12-31"
+    else:
+        next_month = datetime(year, month, 1).replace(day=28) + timedelta(days=4)
+        last_day = (next_month - timedelta(days=next_month.day)).day
+        end_date = f"{year}-{month:02d}-{last_day:02d}"
+
+    # Für Dateinamen
+    month_name = f"{month:02d}"
+
     month_str = f"{month:02d}"
     year_str = str(year)
 
