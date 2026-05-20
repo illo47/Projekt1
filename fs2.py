@@ -102,12 +102,15 @@ def load_ids_from_excel():
 # 4) JSON für IDs herunterladen
 # ---------------------------------------------------------
 def download_json_for_ids(session, ids, output_dir, start_date, end_date, month_name, year):
+    start_ts = f"{start_date}T00:00:00.000Z"
+    end_ts = f"{end_date}T23:59:59.000Z"
+    
     base_url = "https://foodsharing.de/api/stores/{}/pickups/history/{}/{}"
 
     os.makedirs(output_dir, exist_ok=True)
 
     for id in ids:
-        url = base_url.format(id, start_date, end_date)
+        url = base_url.format(id, start_date_ts, end_date_ts)
 
         try:
             response = session.get(url)
