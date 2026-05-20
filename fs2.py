@@ -6,6 +6,20 @@ from calendar import monthrange
 import calendar
 from playwright.sync_api import sync_playwright
 
+# ---------------------------------------------------------
+# Immer den letzten Monat verwenden
+# ---------------------------------------------------------
+
+from datetime import datetime, timedelta
+
+def get_previous_month():
+    today = datetime.today()
+    first_of_this_month = today.replace(day=1)
+    last_month_last_day = first_of_this_month - timedelta(days=1)
+    year = last_month_last_day.year
+    month = last_month_last_day.month
+    return year, month
+
 
 # ---------------------------------------------------------
 # 1) Session aus gespeicherter Login-Session laden
