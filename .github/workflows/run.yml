@@ -37,22 +37,22 @@ jobs:
           path: output/**/*.json
 
       - name: Commit results to repo
-      run: |
-        git config --global user.name "github-actions"
-        git config --global user.email "github-actions@github.com"
-
-        # Ordner erstellen, falls nicht vorhanden
-        mkdir -p data
-
-        # Ergebnisse in den data-Ordner kopieren
-        cp -r output/* data/
-
-          # Änderungen committen, falls es welche gibt
-        git add data || true
-        if ! git diff --cached --quiet; then
-          git commit -m "Automated data update for ${{ github.run_id }}"
-          git push
-        else
-          echo "Keine Änderungen zum Commit."
-        fi
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+  
+          # Ordner erstellen, falls nicht vorhanden
+          mkdir -p data
+  
+          # Ergebnisse in den data-Ordner kopieren
+          cp -r output/* data/
+  
+            # Änderungen committen, falls es welche gibt
+          git add data || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Automated data update for ${{ github.run_id }}"
+            git push
+          else
+            echo "Keine Änderungen zum Commit."
+          fi
 
