@@ -57,4 +57,22 @@ jobs:
           else
             echo "Keine Änderungen zum Commit."
           fi
+      - name: Update Excel file
+        run: |
+          pip install openpyxl
+          python update_excel.py
+      - name: Commit updated Excel
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+          git add excel/foodsharing.xlsx || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Excel updated for ${{ github.run_id }}"
+            git push
+          else
+            echo "Keine Änderungen an Excel."
+          fi
+
+
 
