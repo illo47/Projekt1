@@ -1,7 +1,10 @@
 from playwright.sync_api import sync_playwright
-import json
+import os
 
 def main():
+    email = os.environ["FS_EMAIL"]
+    password = os.environ["FS_PASSWORD"]
+
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         context = browser.new_context()
@@ -9,8 +12,10 @@ def main():
 
         page.goto("https://foodsharing.de/?page=login")
 
-        page.fill("input[name='email']", "${{ secrets.FS_EMAIL }}")
-        page.fill("input[name='password']", "${{ secrets.FS_PASSWORD }}")
+        # Neue, funktionierende Selektoren
+        page.fill("#login-email", email)
+        page.fill("#login-password", password)
+
         page.click("button[type='submit']")
 
         page.wait_for_load_state("networkidle")
