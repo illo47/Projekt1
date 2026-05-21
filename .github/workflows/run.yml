@@ -3,7 +3,7 @@ name: Run Foodsharing Script
 on:
   schedule:
     - cron: "0 3 1 * *"   # jeden Monat am 1. um 03:00
-  workflow_dispatch:       # manueller Start möglich
+  workflow_dispatch:
 
 jobs:
   run-script:
@@ -25,9 +25,12 @@ jobs:
           pip install -r requirements.txt
           playwright install --with-deps chromium
 
-      - name: Create auth.json
+      - name: Login to Foodsharing (generate fresh auth.json)
+        env:
+          FS_EMAIL: ${{ secrets.FS_EMAIL }}
+          FS_PASSWORD: ${{ secrets.FS_PASSWORD }}
         run: |
-          echo '${{ secrets.AUTH_JSON }}' > auth.json
+          python login.py
 
       - name: Run script
         run: python fs2.py
@@ -42,14 +45,10 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-  
-          # Ordner erstellen, falls nicht vorhanden
+
           mkdir -p data
-  
-          # Ergebnisse in den data-Ordner kopieren
           cp -r output/* data/
-  
-            # Änderungen committen, falls es welche gibt
+
           git add data || true
           if ! git diff --cached --quiet; then
             git commit -m "Automated data update for ${{ github.run_id }}"
@@ -57,10 +56,12 @@ jobs:
           else
             echo "Keine Änderungen zum Commit."
           fi
+
       - name: Update Excel file
         run: |
           pip install openpyxl
           python update_excel.py
+
       - name: Commit updated Excel
         run: |
           git config --global user.name "github-actions"
@@ -73,6 +74,3 @@ jobs:
           else
             echo "Keine Änderungen an Excel."
           fi
-
-
-
