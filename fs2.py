@@ -34,7 +34,7 @@ def login_via_api():
     url = "https://foodsharing.de/api/user/login"
 
     payload = {
-        "email": steffen.zindel@gmail.com
+        "email": steffen.zindel@gmail.com,
         "password": 7s@dRR&$PwY!yg
     }
 
