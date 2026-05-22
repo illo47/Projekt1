@@ -35,16 +35,10 @@ jobs:
           echo "FS_EMAIL ist gesetzt: ${FS_EMAIL:+JA}"
           echo "FS_PASSWORD ist gesetzt: ${FS_PASSWORD:+JA}"
 
-      - name: Upload login screenshots
-        if: failure()
-        uses: actions/upload-artifact@v4
-        with:
-          name: login-debug
-          path: |
-            login_error.png
-            login_failed.png
-      - name: Debug ENV
-        run: env
+      - name: Restore auth.json
+        run: |
+          echo "${{ secrets.AUTH_JSON_B64 }}" | base64 --decode > auth.json
+
 
 
       - name: Run script
