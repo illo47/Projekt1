@@ -24,32 +24,32 @@ def get_previous_month():
 # ---------------------------------------------------------
 # 1) Session aus gespeicherter Login-Session laden
 # ---------------------------------------------------------
-def load_session_from_storage():
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context(storage_state="auth.json")
-        page = context.new_page()
+import requests
+import os
 
-        # Cookies extrahieren
-        cookies = context.cookies()
+def login_via_api():
+    email = os.environ["FS_EMAIL"]
+    password = os.environ["FS_PASSWORD"]
 
-        sessid = None
-        csrf = None
+    url = "https://foodsharing.de/api/user/login"
 
-        for c in cookies:
-            if c["name"] == "FS_SESSID":
-                sessid = c["value"]
-            if c["name"] == "FS_CSRF_TOKEN":
-                csrf = c["value"]
-
-        browser.close()
-
-    if not sessid or not csrf:
-        raise Exception("Fehler: FS_SESSID oder CSRF Token nicht gefunden.")
+    payload = {
+        "email": email,
+        "password": password
+    }
 
     session = requests.Session()
-    session.cookies.set("FS_SESSID", sessid, domain="foodsharing.de")
-    session.cookies.set("FS_CSRF_TOKEN", csrf, domain="foodsharing.de")
+    response = session.post(url, json=payload)
+
+    if response.status_code != 200:
+        raise Exception("Login fehlgeschlagen: " + response.text)
+
+    # Cookies extrahieren
+    sessid = session.cookies.get("FS_SESSID")
+    csrf = session.cookies.get("FS_CSRF_TOKEN")
+
+    if not sessid or not csrf:
+        raise Exception("Login erfolgreich, aber Cookies fehlen.")
 
     session.headers.update({
         "Cookie": f"FS_SESSID={sessid}; FS_CSRF_TOKEN={csrf}",
@@ -58,6 +58,7 @@ def load_session_from_storage():
     })
 
     return session
+
 
 
 # ---------------------------------------------------------
