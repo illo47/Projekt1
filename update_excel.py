@@ -24,16 +24,20 @@ def extract_info(json_path):
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    # Titel = Dateiname
-    title = os.path.basename(json_path)
+    # Falls die JSON-Datei eine Liste ist → erstes Element nehmen
+    if isinstance(data, list):
+        if len(data) == 0:
+            return None, None, None, None
+        data = data[0]
 
-    # Datum, ID, Name aus JSON extrahieren
-    # (du kannst das später anpassen, wenn du mehr Felder brauchst)
+    # Jetzt ist data garantiert ein Dictionary
     date = data.get("date", "")
-    store_id = data.get("storeId", "")
+    store_id = data.get("store_id", "")
     name = data.get("name", "")
+    title = data.get("title", "")
 
     return title, date, store_id, name
+
 
 def main():
     # Excel laden oder neu erstellen
