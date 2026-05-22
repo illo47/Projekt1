@@ -34,8 +34,8 @@ def login_via_api():
     url = "https://foodsharing.de/api/user/login"
 
     payload = {
-        "email": steffen.zindel@gmail.com,
-        "password": 7s@dRR&$PwY!yg
+        "email": email,
+        "password": password
     }
 
     session = requests.Session()
@@ -44,7 +44,6 @@ def login_via_api():
     if response.status_code != 200:
         raise Exception("Login fehlgeschlagen: " + response.text)
 
-    # Cookies extrahieren
     sessid = session.cookies.get("FS_SESSID")
     csrf = session.cookies.get("FS_CSRF_TOKEN")
 
@@ -58,6 +57,7 @@ def login_via_api():
     })
 
     return session
+
 
 
 
