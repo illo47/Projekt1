@@ -43,10 +43,10 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-
+      
           mkdir -p data
-          cp -r output/* data/
-
+          find output -type f -name "*.json" -exec cp {} data/ \;
+      
           git add data || true
           if ! git diff --cached --quiet; then
             git commit -m "Automated data update for ${{ github.run_id }}"
@@ -54,6 +54,7 @@ jobs:
           else
             echo "Keine Änderungen zum Commit."
           fi
+
 
       - name: Debug Excel file
         run: |
