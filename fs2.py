@@ -33,6 +33,13 @@ def login_via_api():
 
     url = "https://foodsharing.de/?page=login"
 
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0 Safari/537.36",
+        "Referer": "https://foodsharing.de/?page=login",
+        "Origin": "https://foodsharing.de",
+        "Content-Type": "application/x-www-form-urlencoded"
+    }
+
     payload = {
         "email": email,
         "password": password,
@@ -40,23 +47,30 @@ def login_via_api():
     }
 
     session = requests.Session()
-    response = session.post(url, data=payload, allow_redirects=True)
 
-    # Cookies extrahieren
+    # 1. GET Login-Seite (wichtig: CSRF-Cookie wird gesetzt)
+    session.get(url, headers=headers)
+
+    # 2. POST Login
+    response = session.post(url, data=payload, headers=headers, allow_redirects=True)
+
+    # 3. Cookies extrahieren
     sessid = session.cookies.get("FS_SESSID")
     csrf = session.cookies.get("FS_CSRF_TOKEN")
+
+    print("DEBUG: Cookies nach Login:", session.cookies.get_dict())
 
     if not sessid or not csrf:
         raise Exception("Login fehlgeschlagen – Cookies nicht erhalten.")
 
+    # 4. Session-Header setzen
     session.headers.update({
         "Cookie": f"FS_SESSID={sessid}; FS_CSRF_TOKEN={csrf}",
         "X-CSRF-Token": csrf,
-        "User-Agent": "Mozilla/5.0"
+        "User-Agent": headers["User-Agent"]
     })
 
     return session
-
 
 
 
