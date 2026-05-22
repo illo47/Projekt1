@@ -14,8 +14,32 @@ def main():
     password = os.environ["FS_PASSWORD"]
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context()
+        browser = p.chromium.launch(
+            headless=True,
+            args=[
+                "--disable-blink-features=AutomationControlled",
+                "--disable-web-security",
+                "--disable-features=IsolateOrigins,site-per-process",
+                "--disable-features=AutomationControlled",
+                "--disable-infobars",
+                "--window-size=1280,800",
+                "--start-maximized",
+            ]
+        )
+
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0 Safari/537.36",
+            viewport={"width": 1280, "height": 800},
+            java_script_enabled=True,
+        )
+
+        # Stealth: webdriver entfernen
+        context.add_init_script("""
+            Object.defineProperty(navigator, 'webdriver', { get: () => undefined });
+            Object.defineProperty(navigator, 'plugins', { get: () => [1,2,3] });
+            Object.defineProperty(navigator, 'languages', { get: () => ['de-DE', 'de'] });
+        """)
+
         page = context.new_page()
 
         print("Öffne Login-Seite…")
@@ -29,14 +53,14 @@ def main():
 
         # Warten auf E-Mail-Feld
         try:
-            page.wait_for_selector("input[type='email']", timeout=8000)
+            page.wait_for_selector("input[name='login-email']", timeout=10000)
         except:
             safe_screenshot(page, "login_error.png")
             raise Exception("Login-Feld nicht sichtbar.")
 
         # E-Mail eingeben
         try:
-            page.fill("input[type='email']", email)
+            page.fill("input[name='login-email']", email)
         except:
             safe_screenshot(page, "login_error.png")
             raise
