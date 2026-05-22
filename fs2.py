@@ -24,53 +24,32 @@ def get_previous_month():
 # ---------------------------------------------------------
 # 1) Session aus gespeicherter Login-Session laden
 # ---------------------------------------------------------
+from playwright.sync_api import sync_playwright
+import json
+
+def load_session_from_auth_json():
+    with open("auth.json", "r", encoding="utf-8") as f:
+        return json.load(f)
+import json
 import requests
-import os
 
-def login_via_api():
-    email = os.environ["FS_EMAIL"]
-    password = os.environ["FS_PASSWORD"]
+def load_session_from_auth_json():
+    with open("auth.json", "r", encoding="utf-8") as f:
+        data = json.load(f)
 
-    url = "https://foodsharing.de/?page=login"
-
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0 Safari/537.36",
-        "Referer": "https://foodsharing.de/?page=login",
-        "Origin": "https://foodsharing.de",
-        "Content-Type": "application/x-www-form-urlencoded"
-    }
-
-    payload = {
-        "email": email,
-        "password": password,
-        "submit": "Einloggen"
-    }
+    cookies = {c["name"]: c["value"] for c in data["cookies"]}
 
     session = requests.Session()
+    session.cookies.update(cookies)
 
-    # 1. GET Login-Seite (wichtig: CSRF-Cookie wird gesetzt)
-    session.get(url, headers=headers)
-
-    # 2. POST Login
-    response = session.post(url, data=payload, headers=headers, allow_redirects=True)
-
-    # 3. Cookies extrahieren
-    sessid = session.cookies.get("FS_SESSID")
-    csrf = session.cookies.get("FS_CSRF_TOKEN")
-
-    print("DEBUG: Cookies nach Login:", session.cookies.get_dict())
-
-    if not sessid or not csrf:
-        raise Exception("Login fehlgeschlagen – Cookies nicht erhalten.")
-
-    # 4. Session-Header setzen
+    # Optional: Header setzen
     session.headers.update({
-        "Cookie": f"FS_SESSID={sessid}; FS_CSRF_TOKEN={csrf}",
-        "X-CSRF-Token": csrf,
-        "User-Agent": headers["User-Agent"]
+        "User-Agent": "Mozilla/5.0",
+        "X-CSRF-Token": cookies.get("FS_CSRF_TOKEN", "")
     })
 
     return session
+
 
 
 
@@ -169,7 +148,7 @@ def main():
 
     print(f"Starte Verarbeitung für {year_str}-{month_str}")
 
-    session = login_via_api()
+    session = load_session_from_auth_json()
     category_ids = load_ids_from_excel()
 
     base_output_dir = os.path.join("output", f"{year}_{month_str}")
