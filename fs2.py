@@ -155,7 +155,7 @@ def main():
 
     print(f"Starte Verarbeitung für {year_str}-{month_str}")
 
-    session = load_session_from_storage()
+    session = login_via_api()
     category_ids = load_ids_from_excel()
 
     base_output_dir = os.path.join("output", f"{year}_{month_str}")
