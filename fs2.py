@@ -31,24 +31,23 @@ def login_via_api():
     email = os.environ["FS_EMAIL"]
     password = os.environ["FS_PASSWORD"]
 
-    url = "https://foodsharing.de/api/user/login"
+    url = "https://foodsharing.de/?page=login"
 
     payload = {
         "email": email,
-        "password": password
+        "password": password,
+        "submit": "Einloggen"
     }
 
     session = requests.Session()
-    response = session.post(url, json=payload)
+    response = session.post(url, data=payload, allow_redirects=True)
 
-    if response.status_code != 200:
-        raise Exception("Login fehlgeschlagen: " + response.text)
-
+    # Cookies extrahieren
     sessid = session.cookies.get("FS_SESSID")
     csrf = session.cookies.get("FS_CSRF_TOKEN")
 
     if not sessid or not csrf:
-        raise Exception("Login erfolgreich, aber Cookies fehlen.")
+        raise Exception("Login fehlgeschlagen – Cookies nicht erhalten.")
 
     session.headers.update({
         "Cookie": f"FS_SESSID={sessid}; FS_CSRF_TOKEN={csrf}",
@@ -57,6 +56,7 @@ def login_via_api():
     })
 
     return session
+
 
 
 
