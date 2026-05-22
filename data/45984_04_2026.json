@@ -1,0 +1,66 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-04-02T17:00:00+02:00",
+        "date_ts": 1775142000,
+        "description": "wegen Feiertag am 03.04. findet der Markt am 02.04. statt",
+        "signUpDate": "2026-03-19 19:16:53",
+        "profile": {
+            "id": 210824,
+            "name": "Natalie Debus",
+            "avatar": "/api/uploads/1b4d56cc-3e9a-4b0f-b739-72b53ccd1ae8",
+            "isSleeping": 0,
+            "mobile": "+49 177 2328048",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-17T17:00:00+02:00",
+        "date_ts": 1776438000,
+        "description": "die Abholung kann auch immer etwas früher sein, bitte darauf einstellen",
+        "signUpDate": "2026-04-10 17:20:43",
+        "profile": {
+            "id": 729156,
+            "name": "Fouzia Elasraoui",
+            "avatar": "/api/uploads/5a84b5d7-7de1-47e9-94b8-598c18b90f44",
+            "isSleeping": 0,
+            "mobile": "+49 178 8730642",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-24T17:00:00+02:00",
+        "date_ts": 1777042800,
+        "description": "die Abholung kann auch immer etwas früher sein, bitte darauf einstellen",
+        "signUpDate": "2026-03-29 20:46:19",
+        "profile": {
+            "id": 210824,
+            "name": "Natalie Debus",
+            "avatar": "/api/uploads/1b4d56cc-3e9a-4b0f-b739-72b53ccd1ae8",
+            "isSleeping": 0,
+            "mobile": "+49 177 2328048",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-30T17:00:00+02:00",
+        "date_ts": 1777561200,
+        "description": "Wegen Feiertag einen Tag früher; Abholung kann früher sein",
+        "signUpDate": "2026-04-28 14:51:49",
+        "profile": {
+            "id": 729156,
+            "name": "Fouzia Elasraoui",
+            "avatar": "/api/uploads/5a84b5d7-7de1-47e9-94b8-598c18b90f44",
+            "isSleeping": 0,
+            "mobile": "+49 178 8730642",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

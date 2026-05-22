@@ -1,0 +1,482 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-04-01T19:00:00+02:00",
+        "date_ts": 1775062800,
+        "description": null,
+        "signUpDate": "2026-03-07 09:20:29",
+        "profile": {
+            "id": 967920,
+            "name": "Marc Burkhard",
+            "avatar": "/api/uploads/42c703fd-28bd-4c87-8876-73e6e02288a4",
+            "isSleeping": 0,
+            "mobile": "+49 173 6894928",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-02T19:00:00+02:00",
+        "date_ts": 1775149200,
+        "description": null,
+        "signUpDate": "2026-03-26 07:24:25",
+        "profile": {
+            "id": 926369,
+            "name": "Farah Mahmoud",
+            "avatar": "/api/uploads/7af7acb9-543a-42e1-a5b8-849ada9ab25d",
+            "isSleeping": 0,
+            "mobile": "+49 176 43236548",
+            "landline": "+49 611 8152081",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-03T19:00:00+02:00",
+        "date_ts": 1775235600,
+        "description": null,
+        "signUpDate": "2026-04-02 12:16:32",
+        "profile": {
+            "id": 440768,
+            "name": "Raisa Khan",
+            "avatar": "/api/uploads/9589209e-bd35-49aa-9b4c-977970f6c8e2",
+            "isSleeping": 1,
+            "mobile": "+4917640453267",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-04T19:00:00+02:00",
+        "date_ts": 1775322000,
+        "description": null,
+        "signUpDate": "2026-03-27 17:30:53",
+        "profile": {
+            "id": 635305,
+            "name": "Marejam Mountij",
+            "avatar": "/api/uploads/d39df46e-bba7-4916-b861-2eb8c7df01cc",
+            "isSleeping": 0,
+            "mobile": "+49 176 22257270",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-05T19:00:00+02:00",
+        "date_ts": 1775408400,
+        "description": null,
+        "signUpDate": "2026-04-03 19:12:57",
+        "profile": {
+            "id": 761495,
+            "name": "Mikhail Svyatskiy",
+            "avatar": "/api/uploads/1232e691-49c5-4069-b9e7-909d460270e1",
+            "isSleeping": 0,
+            "mobile": "+49 1573 5644191",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-06T19:00:00+02:00",
+        "date_ts": 1775494800,
+        "description": null,
+        "signUpDate": "2026-03-28 06:24:28",
+        "profile": {
+            "id": 887940,
+            "name": "Ines Müller",
+            "avatar": "/api/uploads/424908a5-7798-4603-8f84-9ce5af496e42",
+            "isSleeping": 0,
+            "mobile": "+49 176 22890032",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-07T19:00:00+02:00",
+        "date_ts": 1775581200,
+        "description": null,
+        "signUpDate": "2026-03-26 07:22:28",
+        "profile": {
+            "id": 926369,
+            "name": "Farah Mahmoud",
+            "avatar": "/api/uploads/7af7acb9-543a-42e1-a5b8-849ada9ab25d",
+            "isSleeping": 0,
+            "mobile": "+49 176 43236548",
+            "landline": "+49 611 8152081",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-08T19:00:00+02:00",
+        "date_ts": 1775667600,
+        "description": null,
+        "signUpDate": "2026-04-05 17:46:10",
+        "profile": {
+            "id": 194270,
+            "name": "Sabine Menzel-Klose",
+            "avatar": "/api/uploads/1887b4b7-9932-47c2-8336-a8a89c0349b2",
+            "isSleeping": 0,
+            "mobile": "+491794213886",
+            "landline": "+491794213886",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-09T19:00:00+02:00",
+        "date_ts": 1775754000,
+        "description": null,
+        "signUpDate": "2026-04-08 21:34:56",
+        "profile": {
+            "id": 745275,
+            "name": "Habiba Amallah",
+            "avatar": "/api/uploads/2d89ecc7-11f2-4896-9d68-fa3a4be72168",
+            "isSleeping": 0,
+            "mobile": "+49 176 84877775",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-10T19:00:00+02:00",
+        "date_ts": 1775840400,
+        "description": null,
+        "signUpDate": "2026-04-10 17:09:19",
+        "profile": {
+            "id": 761495,
+            "name": "Mikhail Svyatskiy",
+            "avatar": "/api/uploads/1232e691-49c5-4069-b9e7-909d460270e1",
+            "isSleeping": 0,
+            "mobile": "+49 1573 5644191",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T19:00:00+02:00",
+        "date_ts": 1775926800,
+        "description": null,
+        "signUpDate": "2026-03-27 19:47:37",
+        "profile": {
+            "id": 635305,
+            "name": "Marejam Mountij",
+            "avatar": "/api/uploads/d39df46e-bba7-4916-b861-2eb8c7df01cc",
+            "isSleeping": 0,
+            "mobile": "+49 176 22257270",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-12T19:00:00+02:00",
+        "date_ts": 1776013200,
+        "description": null,
+        "signUpDate": "2026-03-09 08:36:29",
+        "profile": {
+            "id": 348209,
+            "name": "Martin Taplick",
+            "avatar": "/api/uploads/e95bcd0c-fa71-4887-8c14-d1bf7df04721",
+            "isSleeping": 0,
+            "mobile": "+49 178 6612066",
+            "landline": "+49 178 6612066",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-13T19:00:00+02:00",
+        "date_ts": 1776099600,
+        "description": null,
+        "signUpDate": "2026-04-01 12:55:24",
+        "profile": {
+            "id": 986554,
+            "name": "Laura Paul",
+            "avatar": "/api/uploads/802fad52-9934-44cb-8438-35d32585b870",
+            "isSleeping": 0,
+            "mobile": "+49 172 6568287",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-14T19:00:00+02:00",
+        "date_ts": 1776186000,
+        "description": null,
+        "signUpDate": "2026-03-28 05:34:49",
+        "profile": {
+            "id": 459115,
+            "name": "Petra Frank",
+            "avatar": "/api/uploads/c4ef8bee-1383-4575-a8dd-121cf887c592",
+            "isSleeping": 0,
+            "mobile": "+49 163 3627599",
+            "landline": "+49 6196 6540440",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-15T19:00:00+02:00",
+        "date_ts": 1776272400,
+        "description": null,
+        "signUpDate": "2026-04-14 10:25:47",
+        "profile": {
+            "id": 690619,
+            "name": "Michelle Baron",
+            "avatar": "/api/uploads/74f526c4-c022-4dcc-9e33-9d24c2741f25",
+            "isSleeping": 0,
+            "mobile": "+49 1573 9629186",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-16T19:00:00+02:00",
+        "date_ts": 1776358800,
+        "description": null,
+        "signUpDate": "2026-04-10 21:14:05",
+        "profile": {
+            "id": 887940,
+            "name": "Ines Müller",
+            "avatar": "/api/uploads/424908a5-7798-4603-8f84-9ce5af496e42",
+            "isSleeping": 0,
+            "mobile": "+49 176 22890032",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-17T19:00:00+02:00",
+        "date_ts": 1776445200,
+        "description": null,
+        "signUpDate": "2026-04-13 08:32:37",
+        "profile": {
+            "id": 967920,
+            "name": "Marc Burkhard",
+            "avatar": "/api/uploads/42c703fd-28bd-4c87-8876-73e6e02288a4",
+            "isSleeping": 0,
+            "mobile": "+49 173 6894928",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-18T22:00:00+02:00",
+        "date_ts": 1776542400,
+        "description": null,
+        "signUpDate": "2026-04-18 21:31:25",
+        "profile": {
+            "id": 440768,
+            "name": "Raisa Khan",
+            "avatar": "/api/uploads/9589209e-bd35-49aa-9b4c-977970f6c8e2",
+            "isSleeping": 1,
+            "mobile": "+4917640453267",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-19T19:00:00+02:00",
+        "date_ts": 1776618000,
+        "description": null,
+        "signUpDate": "2026-04-18 23:55:24",
+        "profile": {
+            "id": 440768,
+            "name": "Raisa Khan",
+            "avatar": "/api/uploads/9589209e-bd35-49aa-9b4c-977970f6c8e2",
+            "isSleeping": 1,
+            "mobile": "+4917640453267",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-20T19:00:00+02:00",
+        "date_ts": 1776704400,
+        "description": null,
+        "signUpDate": "2026-04-16 22:12:17",
+        "profile": {
+            "id": 873830,
+            "name": "Corina Vlas",
+            "avatar": "/api/uploads/e3cc0c18-48bc-4b27-ad6b-52cfa5dea607",
+            "isSleeping": 0,
+            "mobile": "+49 176 56849210",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-21T19:00:00+02:00",
+        "date_ts": 1776790800,
+        "description": null,
+        "signUpDate": "2026-04-03 17:48:13",
+        "profile": {
+            "id": 926369,
+            "name": "Farah Mahmoud",
+            "avatar": "/api/uploads/7af7acb9-543a-42e1-a5b8-849ada9ab25d",
+            "isSleeping": 0,
+            "mobile": "+49 176 43236548",
+            "landline": "+49 611 8152081",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-22T19:00:00+02:00",
+        "date_ts": 1776877200,
+        "description": null,
+        "signUpDate": "2026-04-08 09:13:36",
+        "profile": {
+            "id": 967920,
+            "name": "Marc Burkhard",
+            "avatar": "/api/uploads/42c703fd-28bd-4c87-8876-73e6e02288a4",
+            "isSleeping": 0,
+            "mobile": "+49 173 6894928",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-23T19:00:00+02:00",
+        "date_ts": 1776963600,
+        "description": null,
+        "signUpDate": "2026-04-23 10:20:52",
+        "profile": {
+            "id": 172555,
+            "name": "Sandra Puchinger",
+            "avatar": "/api/uploads/3ebcc0f2-2dad-4ab1-94d8-291834b5d022",
+            "isSleeping": 0,
+            "mobile": "+491781809518",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-24T19:00:00+02:00",
+        "date_ts": 1777050000,
+        "description": null,
+        "signUpDate": "2026-04-19 08:02:22",
+        "profile": {
+            "id": 773189,
+            "name": "Oksana Reuter-More",
+            "avatar": "/api/uploads/1a0a28e6-20a1-48ba-8f8c-f5319251f009",
+            "isSleeping": 0,
+            "mobile": "+49 170 4396450",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-25T19:00:00+02:00",
+        "date_ts": 1777136400,
+        "description": null,
+        "signUpDate": "2026-04-24 18:02:33",
+        "profile": {
+            "id": 635305,
+            "name": "Marejam Mountij",
+            "avatar": "/api/uploads/d39df46e-bba7-4916-b861-2eb8c7df01cc",
+            "isSleeping": 0,
+            "mobile": "+49 176 22257270",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-26T19:00:00+02:00",
+        "date_ts": 1777222800,
+        "description": null,
+        "signUpDate": "2026-04-20 20:10:49",
+        "profile": {
+            "id": 887940,
+            "name": "Ines Müller",
+            "avatar": "/api/uploads/424908a5-7798-4603-8f84-9ce5af496e42",
+            "isSleeping": 0,
+            "mobile": "+49 176 22890032",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-27T19:00:00+02:00",
+        "date_ts": 1777309200,
+        "description": null,
+        "signUpDate": "2026-04-26 12:01:11",
+        "profile": {
+            "id": 887940,
+            "name": "Ines Müller",
+            "avatar": "/api/uploads/424908a5-7798-4603-8f84-9ce5af496e42",
+            "isSleeping": 0,
+            "mobile": "+49 176 22890032",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-28T19:00:00+02:00",
+        "date_ts": 1777395600,
+        "description": null,
+        "signUpDate": "2026-04-28 05:37:28",
+        "profile": {
+            "id": 887940,
+            "name": "Ines Müller",
+            "avatar": "/api/uploads/424908a5-7798-4603-8f84-9ce5af496e42",
+            "isSleeping": 0,
+            "mobile": "+49 176 22890032",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-29T19:00:00+02:00",
+        "date_ts": 1777482000,
+        "description": null,
+        "signUpDate": "2026-04-26 12:01:07",
+        "profile": {
+            "id": 887940,
+            "name": "Ines Müller",
+            "avatar": "/api/uploads/424908a5-7798-4603-8f84-9ce5af496e42",
+            "isSleeping": 0,
+            "mobile": "+49 176 22890032",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-30T19:00:00+02:00",
+        "date_ts": 1777568400,
+        "description": null,
+        "signUpDate": "2026-04-28 21:37:28",
+        "profile": {
+            "id": 967920,
+            "name": "Marc Burkhard",
+            "avatar": "/api/uploads/42c703fd-28bd-4c87-8876-73e6e02288a4",
+            "isSleeping": 0,
+            "mobile": "+49 173 6894928",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

@@ -1,0 +1,530 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-04-02T21:00:00+02:00",
+        "date_ts": 1775156400,
+        "description": "Tegut auf der Berger Straße 195",
+        "signUpDate": "2026-04-02 09:26:43",
+        "profile": {
+            "id": 828268,
+            "name": "Aline Eckert",
+            "avatar": "/api/uploads/00149f88-9642-4f4c-b3f1-bf4cc76c7416",
+            "isSleeping": 0,
+            "mobile": "+49 177 4447680",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-04T18:01:00+02:00",
+        "date_ts": 1775318460,
+        "description": "Zeit für Brot in der Kaiserstraß",
+        "signUpDate": "2026-04-04 14:40:46",
+        "profile": {
+            "id": 681494,
+            "name": "Martina Bahlmann",
+            "avatar": "/api/uploads/f1527d1c-8bee-49d0-989d-6a188506544a",
+            "isSleeping": 0,
+            "mobile": "+49 171 9337752",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-04T18:01:00+02:00",
+        "date_ts": 1775318460,
+        "description": "Zeit für Brot in der Kaiserstraß",
+        "signUpDate": "2026-04-04 14:59:05",
+        "profile": {
+            "id": 470624,
+            "name": "Marjolein Knoblich",
+            "avatar": "/api/uploads/ddeeaea8-968d-4048-94de-bc37d53da875",
+            "isSleeping": 0,
+            "mobile": "+49 177 8217367",
+            "landline": "+49 177 8217367",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-04T19:00:00+02:00",
+        "date_ts": 1775322000,
+        "description": "Manufactum (autofrei)",
+        "signUpDate": "2026-04-04 09:58:21",
+        "profile": {
+            "id": 168488,
+            "name": "Anna Maria Voigt",
+            "avatar": "/api/uploads/f6bce218-155f-4a74-9326-147c89a75f14",
+            "isSleeping": 0,
+            "mobile": "+49 171 9229964",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-04T19:45:00+02:00",
+        "date_ts": 1775324700,
+        "description": "Penny (Hanauer Landstraße 1-5)",
+        "signUpDate": "2026-03-31 23:19:46",
+        "profile": {
+            "id": 773189,
+            "name": "Oksana Reuter-More",
+            "avatar": "/api/uploads/1a0a28e6-20a1-48ba-8f8c-f5319251f009",
+            "isSleeping": 0,
+            "mobile": "+49 170 4396450",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-04T19:45:00+02:00",
+        "date_ts": 1775324700,
+        "description": "Penny (Hanauer Landstraße 1-5)",
+        "signUpDate": "2026-04-01 09:55:56",
+        "profile": {
+            "id": 216772,
+            "name": "Monica Brunati",
+            "avatar": "/api/uploads/9b8e2eff-ed31-458d-a44f-2061d88a9a00",
+            "isSleeping": 1,
+            "mobile": "+4917671761761 mit Fahrrad",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-04T19:59:00+02:00",
+        "date_ts": 1775325540,
+        "description": "Backwerk an der Konstabler",
+        "signUpDate": "2026-04-04 12:35:53",
+        "profile": {
+            "id": 664967,
+            "name": "Wolfgang Hennig",
+            "avatar": "/api/uploads/0e51b46f-f7e6-43b6-b340-aae6b0fd0329",
+            "isSleeping": 0,
+            "mobile": "+49 1522 8751539",
+            "landline": "+49 69 78801502",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-04T20:00:00+02:00",
+        "date_ts": 1775325600,
+        "description": "Zeit für Brot in der Schweizer Str",
+        "signUpDate": "2026-04-03 14:09:59",
+        "profile": {
+            "id": 676235,
+            "name": "Marit Trantel",
+            "avatar": "/api/uploads/9f442e73-04ff-4f41-853b-282c39c8bfdf",
+            "isSleeping": 0,
+            "mobile": "+49 1512 0732461",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-04T20:00:00+02:00",
+        "date_ts": 1775325600,
+        "description": "Zeit für Brot in der Schweizer Str",
+        "signUpDate": "2026-04-03 16:14:27",
+        "profile": {
+            "id": 806909,
+            "name": "Tena",
+            "avatar": "/api/uploads/875971b6-e2a3-40c9-91c8-4a635c87fcff",
+            "isSleeping": 0,
+            "mobile": "+49 174 6699300",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-06T18:30:00+02:00",
+        "date_ts": 1775493000,
+        "description": "MokkaTeeria-Sandweg",
+        "signUpDate": "2026-04-04 23:26:00",
+        "profile": {
+            "id": 151929,
+            "name": "Cornelia Kisch",
+            "avatar": "/api/uploads/8c07f432-446b-4b8c-b346-4ba23c2d628b",
+            "isSleeping": 0,
+            "mobile": "+49 162 7232544",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T14:00:00+02:00",
+        "date_ts": 1775908800,
+        "description": "Rewe an der Leipziger str.",
+        "signUpDate": "2026-04-10 15:04:46",
+        "profile": {
+            "id": 261486,
+            "name": "Jonka Winkle",
+            "avatar": "/api/uploads/51f655f0-d78d-48db-b496-9307786a9011",
+            "isSleeping": 0,
+            "mobile": "+49 1520 7071875",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T14:00:00+02:00",
+        "date_ts": 1775908800,
+        "description": "Rewe an der Leipziger str.",
+        "signUpDate": "2026-04-10 19:18:24",
+        "profile": {
+            "id": 231210,
+            "name": "Gabriele Thielmann",
+            "avatar": "/api/uploads/426a63b2-9a5d-4eae-94f4-4d373b113bf4",
+            "isSleeping": 1,
+            "mobile": "+49 177-5702694",
+            "landline": "069-777221",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T16:00:00+02:00",
+        "date_ts": 1775916000,
+        "description": "Rewe Frankenallee",
+        "signUpDate": "2026-04-11 10:41:10",
+        "profile": {
+            "id": 924566,
+            "name": "Josefin Adams",
+            "avatar": "/api/uploads/39eb7b9d-6026-4f2a-a143-66527b487e78",
+            "isSleeping": 0,
+            "mobile": "+49 176 47785779",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T20:00:00+02:00",
+        "date_ts": 1775930400,
+        "description": "Backwerk Konstablerwache",
+        "signUpDate": "2026-04-11 19:23:00",
+        "profile": {
+            "id": 496999,
+            "name": "Tobias von Essen",
+            "avatar": "/api/uploads/86083d6a-d086-426b-94ea-c5d0735ac468",
+            "isSleeping": 0,
+            "mobile": "+4915141202212",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T20:50:00+02:00",
+        "date_ts": 1775933400,
+        "description": "Alnatura Südbahnhof Backwaren",
+        "signUpDate": "2026-04-09 11:24:07",
+        "profile": {
+            "id": 378759,
+            "name": "Katharine Cloppenburg",
+            "avatar": "/api/uploads/2488b561-d695-47c8-babd-29d91503e1ce",
+            "isSleeping": 0,
+            "mobile": "+491707272153",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T21:00:00+02:00",
+        "date_ts": 1775934000,
+        "description": "Tegut Berger Str.",
+        "signUpDate": "2026-04-10 18:39:48",
+        "profile": {
+            "id": 898849,
+            "name": "Heike Keppler",
+            "avatar": "/api/uploads/1218aa95-d34e-41b1-9609-76c380e99e00",
+            "isSleeping": 1,
+            "mobile": "+49 1515 5025980",
+            "landline": "+49 1515 5025980",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-13T20:01:00+02:00",
+        "date_ts": 1776103260,
+        "description": "Aldi Heddernheim",
+        "signUpDate": "2026-04-12 14:43:23",
+        "profile": {
+            "id": 970070,
+            "name": "Sarah Schindler",
+            "avatar": "/api/uploads/5cbcb462-920a-4188-b61d-60152d01415c",
+            "isSleeping": 0,
+            "mobile": "+49 179 9904775",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-17T10:00:00+02:00",
+        "date_ts": 1776412800,
+        "description": "Rewe Textor",
+        "signUpDate": "2026-04-15 16:52:30",
+        "profile": {
+            "id": 1005096,
+            "name": "Emelie Pfuhle",
+            "avatar": "/api/uploads/eb53a7a0-0430-4893-9534-6dc2721809fd",
+            "isSleeping": 0,
+            "mobile": "+49 173 4083288",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-18T19:40:00+02:00",
+        "date_ts": 1776534000,
+        "description": "Alnatura Westend",
+        "signUpDate": "2026-04-17 10:06:58",
+        "profile": {
+            "id": 957687,
+            "name": "Muhammet Baba",
+            "avatar": "/api/uploads/e69bac7e-0760-4f37-b411-b2b77699c647",
+            "isSleeping": 0,
+            "mobile": "+49 1590 1708786",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-18T19:45:00+02:00",
+        "date_ts": 1776534300,
+        "description": "Denns Friedberger Landstraße",
+        "signUpDate": "2026-04-18 16:34:40",
+        "profile": {
+            "id": 391348,
+            "name": "Melanie Gwendolina Keller",
+            "avatar": "/api/uploads/72ee4df1-286c-4dfb-aa2a-78e3650b426b",
+            "isSleeping": 1,
+            "mobile": "+4915755953261",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 0,
+        "date": "2026-04-18T20:00:00+02:00",
+        "date_ts": 1776535200,
+        "description": "Backwerk an der Konstablerwache.",
+        "signUpDate": "2026-04-18 19:43:14",
+        "profile": {
+            "id": 872540,
+            "name": "Stefan Becker",
+            "avatar": "/api/uploads/0681c670-824c-44db-b4f2-8b2f550a5775",
+            "isSleeping": 0,
+            "mobile": "+49 173 3496612",
+            "landline": "+49 69 30838769",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-19T19:00:00+02:00",
+        "date_ts": 1776618000,
+        "description": "Zeit für Brot in Sachsenhausen ",
+        "signUpDate": "2026-04-18 08:59:56",
+        "profile": {
+            "id": 978989,
+            "name": "Kerstin Siebke",
+            "avatar": "/api/uploads/11ebf02d-c2d1-46df-8bc7-3342a62b9958",
+            "isSleeping": 1,
+            "mobile": "+49 163 8271427",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-19T19:00:00+02:00",
+        "date_ts": 1776618000,
+        "description": "Zeit für Brot in Sachsenhausen ",
+        "signUpDate": "2026-04-18 09:08:55",
+        "profile": {
+            "id": 970070,
+            "name": "Sarah Schindler",
+            "avatar": "/api/uploads/5cbcb462-920a-4188-b61d-60152d01415c",
+            "isSleeping": 0,
+            "mobile": "+49 179 9904775",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-23T09:00:00+02:00",
+        "date_ts": 1776927600,
+        "description": "Rewe in der Textorstraße",
+        "signUpDate": "2026-04-22 11:33:36",
+        "profile": {
+            "id": 978517,
+            "name": "Emmanuel Remus",
+            "avatar": "/api/uploads/4e313b85-fa31-477c-9688-59309d5a8fd4",
+            "isSleeping": 0,
+            "mobile": "+49 1511 5417446",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-23T17:30:00+02:00",
+        "date_ts": 1776958200,
+        "description": "Reformhaus Andersch",
+        "signUpDate": "2026-04-22 09:50:53",
+        "profile": {
+            "id": 96959,
+            "name": "Anna Babot",
+            "avatar": "/api/uploads/f7cdf635-5bda-44cd-8829-040b02f00b5b",
+            "isSleeping": 0,
+            "mobile": "+49 173 9550471",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-23T19:00:00+02:00",
+        "date_ts": 1776963600,
+        "description": "Manufactum",
+        "signUpDate": "2026-04-23 08:33:29",
+        "profile": {
+            "id": 781854,
+            "name": "Katrin Schulze",
+            "avatar": "/api/uploads/158bdb4a-c597-4ca5-9240-4e1385e88860",
+            "isSleeping": 0,
+            "mobile": "+49 178 7037738",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-23T19:00:00+02:00",
+        "date_ts": 1776963600,
+        "description": "Manufactum",
+        "signUpDate": "2026-04-23 08:38:40",
+        "profile": {
+            "id": 22091,
+            "name": "Anke Westphal",
+            "avatar": "/api/uploads/2a69b979-c3f2-4fe6-ab65-49f6e024da9b",
+            "isSleeping": 0,
+            "mobile": "+49 15679 683866",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-25T09:00:00+02:00",
+        "date_ts": 1777100400,
+        "description": "Rewe in der Textorstraße",
+        "signUpDate": "2026-04-22 08:12:31",
+        "profile": {
+            "id": 378759,
+            "name": "Katharine Cloppenburg",
+            "avatar": "/api/uploads/2488b561-d695-47c8-babd-29d91503e1ce",
+            "isSleeping": 0,
+            "mobile": "+491707272153",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-25T20:50:00+02:00",
+        "date_ts": 1777143000,
+        "description": "Backwaren beim Alnatura Südbahnhof",
+        "signUpDate": "2026-04-25 18:17:02",
+        "profile": {
+            "id": 845124,
+            "name": "Lukas Banach",
+            "avatar": "/api/uploads/e146ce78-8245-4acd-8701-f0f1b244a172",
+            "isSleeping": 0,
+            "mobile": "+49 176 23770358",
+            "landline": "+496997767765",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-28T14:00:00+02:00",
+        "date_ts": 1777377600,
+        "description": "Café Izi ",
+        "signUpDate": "2026-04-28 11:34:58",
+        "profile": {
+            "id": 496999,
+            "name": "Tobias von Essen",
+            "avatar": "/api/uploads/86083d6a-d086-426b-94ea-c5d0735ac468",
+            "isSleeping": 0,
+            "mobile": "+4915141202212",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-29T07:45:00+02:00",
+        "date_ts": 1777441500,
+        "description": "AUTOFREIE Abholung beim Biokaiser am Dornbusch ",
+        "signUpDate": "2026-04-28 14:42:55",
+        "profile": {
+            "id": 96959,
+            "name": "Anna Babot",
+            "avatar": "/api/uploads/f7cdf635-5bda-44cd-8829-040b02f00b5b",
+            "isSleeping": 0,
+            "mobile": "+49 173 9550471",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-29T17:30:00+02:00",
+        "date_ts": 1777476600,
+        "description": "Reformhaus",
+        "signUpDate": "2026-04-28 14:42:02",
+        "profile": {
+            "id": 96959,
+            "name": "Anna Babot",
+            "avatar": "/api/uploads/f7cdf635-5bda-44cd-8829-040b02f00b5b",
+            "isSleeping": 0,
+            "mobile": "+49 173 9550471",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-30T19:00:00+02:00",
+        "date_ts": 1777568400,
+        "description": "Bio-Kaiser Niederrad",
+        "signUpDate": "2026-04-30 08:41:22",
+        "profile": {
+            "id": 910139,
+            "name": "Ela Querfeld",
+            "avatar": "/api/uploads/4cbd29c2-8ef8-4ae7-9f10-4eaa315c7015",
+            "isSleeping": 0,
+            "mobile": "+49 176 63375459",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

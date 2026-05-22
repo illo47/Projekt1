@@ -1,0 +1,338 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-04-01T18:45:00+02:00",
+        "date_ts": 1775061900,
+        "description": null,
+        "signUpDate": "2026-03-10 18:34:57",
+        "profile": {
+            "id": 830884,
+            "name": "My-Trinh Ngo",
+            "avatar": "/api/uploads/be10138f-86ee-4e32-8221-35e94f557794",
+            "isSleeping": 0,
+            "mobile": "+49 176 82006969",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-02T18:45:00+02:00",
+        "date_ts": 1775148300,
+        "description": null,
+        "signUpDate": "2026-04-02 09:40:55",
+        "profile": {
+            "id": 620294,
+            "name": "Magdalena Grieneisen",
+            "avatar": "/api/uploads/09fe1ef3-9de4-4f1b-a058-88e726613f3a",
+            "isSleeping": 0,
+            "mobile": "+49 176 31499452",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-04T17:30:00+02:00",
+        "date_ts": 1775316600,
+        "description": null,
+        "signUpDate": "2026-04-04 15:00:03",
+        "profile": {
+            "id": 453313,
+            "name": "Anne Altvater",
+            "avatar": "/api/uploads/b5821b33-d8a9-445a-b608-993ef10a409d",
+            "isSleeping": 0,
+            "mobile": "+49 173 2738843",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-07T18:45:00+02:00",
+        "date_ts": 1775580300,
+        "description": null,
+        "signUpDate": "2026-03-13 08:33:09",
+        "profile": {
+            "id": 932894,
+            "name": "Jasmin Tsaava",
+            "avatar": "/api/uploads/4cc6435b-d9b8-4f5f-81b8-095f6446ea03",
+            "isSleeping": 0,
+            "mobile": "+49 1573 2467635",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-08T18:45:00+02:00",
+        "date_ts": 1775666700,
+        "description": null,
+        "signUpDate": "2026-04-07 08:43:43",
+        "profile": {
+            "id": 932894,
+            "name": "Jasmin Tsaava",
+            "avatar": "/api/uploads/4cc6435b-d9b8-4f5f-81b8-095f6446ea03",
+            "isSleeping": 0,
+            "mobile": "+49 1573 2467635",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-09T18:45:00+02:00",
+        "date_ts": 1775753100,
+        "description": null,
+        "signUpDate": "2026-04-02 09:42:45",
+        "profile": {
+            "id": 620294,
+            "name": "Magdalena Grieneisen",
+            "avatar": "/api/uploads/09fe1ef3-9de4-4f1b-a058-88e726613f3a",
+            "isSleeping": 0,
+            "mobile": "+49 176 31499452",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-10T18:45:00+02:00",
+        "date_ts": 1775839500,
+        "description": null,
+        "signUpDate": "2026-04-08 12:59:08",
+        "profile": {
+            "id": 665898,
+            "name": "Annika Frohböse",
+            "avatar": "/api/uploads/70d4291e-4f5e-46cd-87aa-16c6bf2bb1e2",
+            "isSleeping": 0,
+            "mobile": "+49 176 64204901",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T17:30:00+02:00",
+        "date_ts": 1775921400,
+        "description": null,
+        "signUpDate": "2026-04-11 09:49:14",
+        "profile": {
+            "id": 452434,
+            "name": "Michael Kowol",
+            "avatar": "/api/uploads/6e016d2e-6f69-4d85-8003-ce6546faef9a",
+            "isSleeping": 0,
+            "mobile": "+49 1520 8060361",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-13T18:45:00+02:00",
+        "date_ts": 1776098700,
+        "description": null,
+        "signUpDate": "2026-04-06 12:22:50",
+        "profile": {
+            "id": 95394,
+            "name": "Dana Schneider",
+            "avatar": "/api/uploads/8fcf0f95-4af9-4926-8fde-083546c384a0",
+            "isSleeping": 0,
+            "mobile": "+49 174 1694629",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-14T18:45:00+02:00",
+        "date_ts": 1776185100,
+        "description": null,
+        "signUpDate": "2026-03-20 20:40:44",
+        "profile": {
+            "id": 95394,
+            "name": "Dana Schneider",
+            "avatar": "/api/uploads/8fcf0f95-4af9-4926-8fde-083546c384a0",
+            "isSleeping": 0,
+            "mobile": "+49 174 1694629",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-15T18:45:00+02:00",
+        "date_ts": 1776271500,
+        "description": null,
+        "signUpDate": "2026-04-15 10:48:52",
+        "profile": {
+            "id": 452434,
+            "name": "Michael Kowol",
+            "avatar": "/api/uploads/6e016d2e-6f69-4d85-8003-ce6546faef9a",
+            "isSleeping": 0,
+            "mobile": "+49 1520 8060361",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-16T18:45:00+02:00",
+        "date_ts": 1776357900,
+        "description": null,
+        "signUpDate": "2026-04-07 11:15:50",
+        "profile": {
+            "id": 568663,
+            "name": "Jutta Steinmann",
+            "avatar": "/api/uploads/ae0d7cf6-3896-4143-aba6-acba2026be28",
+            "isSleeping": 0,
+            "mobile": "+49 178 8931391",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-20T18:45:00+02:00",
+        "date_ts": 1776703500,
+        "description": null,
+        "signUpDate": "2026-04-19 09:49:51",
+        "profile": {
+            "id": 472114,
+            "name": "Caroline Joisten",
+            "avatar": "/api/uploads/224661ea-849a-43d9-8f5d-f883cbe1ff10",
+            "isSleeping": 0,
+            "mobile": "+49 163 6079897",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-21T18:45:00+02:00",
+        "date_ts": 1776789900,
+        "description": null,
+        "signUpDate": "2026-04-21 07:43:26",
+        "profile": {
+            "id": 452434,
+            "name": "Michael Kowol",
+            "avatar": "/api/uploads/6e016d2e-6f69-4d85-8003-ce6546faef9a",
+            "isSleeping": 0,
+            "mobile": "+49 1520 8060361",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-23T18:45:00+02:00",
+        "date_ts": 1776962700,
+        "description": null,
+        "signUpDate": "2026-04-17 10:49:50",
+        "profile": {
+            "id": 496999,
+            "name": "Tobias von Essen",
+            "avatar": "/api/uploads/86083d6a-d086-426b-94ea-c5d0735ac468",
+            "isSleeping": 0,
+            "mobile": "+4915141202212",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-24T18:45:00+02:00",
+        "date_ts": 1777049100,
+        "description": null,
+        "signUpDate": "2026-04-22 09:36:21",
+        "profile": {
+            "id": 595661,
+            "name": "Lara Henning",
+            "avatar": "/api/uploads/753afb6e-da93-4364-8bac-1e9a3d555f41",
+            "isSleeping": 0,
+            "mobile": "+49 176 20150408",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-25T17:30:00+02:00",
+        "date_ts": 1777131000,
+        "description": null,
+        "signUpDate": "2026-04-20 17:51:11",
+        "profile": {
+            "id": 453313,
+            "name": "Anne Altvater",
+            "avatar": "/api/uploads/b5821b33-d8a9-445a-b608-993ef10a409d",
+            "isSleeping": 0,
+            "mobile": "+49 173 2738843",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-27T18:45:00+02:00",
+        "date_ts": 1777308300,
+        "description": null,
+        "signUpDate": "2026-04-14 20:32:30",
+        "profile": {
+            "id": 95394,
+            "name": "Dana Schneider",
+            "avatar": "/api/uploads/8fcf0f95-4af9-4926-8fde-083546c384a0",
+            "isSleeping": 0,
+            "mobile": "+49 174 1694629",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-28T18:45:00+02:00",
+        "date_ts": 1777394700,
+        "description": null,
+        "signUpDate": "2026-04-14 20:32:51",
+        "profile": {
+            "id": 95394,
+            "name": "Dana Schneider",
+            "avatar": "/api/uploads/8fcf0f95-4af9-4926-8fde-083546c384a0",
+            "isSleeping": 0,
+            "mobile": "+49 174 1694629",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-29T18:45:00+02:00",
+        "date_ts": 1777481100,
+        "description": null,
+        "signUpDate": "2026-04-24 18:01:39",
+        "profile": {
+            "id": 595661,
+            "name": "Lara Henning",
+            "avatar": "/api/uploads/753afb6e-da93-4364-8bac-1e9a3d555f41",
+            "isSleeping": 0,
+            "mobile": "+49 176 20150408",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-30T18:45:00+02:00",
+        "date_ts": 1777567500,
+        "description": null,
+        "signUpDate": "2026-04-24 18:01:54",
+        "profile": {
+            "id": 595661,
+            "name": "Lara Henning",
+            "avatar": "/api/uploads/753afb6e-da93-4364-8bac-1e9a3d555f41",
+            "isSleeping": 0,
+            "mobile": "+49 176 20150408",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

@@ -1,0 +1,354 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-04-02T17:45:00+02:00",
+        "date_ts": 1775144700,
+        "description": "Wegen Karfreitag verlegt ",
+        "signUpDate": "2026-04-01 04:28:24",
+        "profile": {
+            "id": 373118,
+            "name": "Kah Wai Au",
+            "avatar": "/api/uploads/45dea5f1-ad61-4ce3-9b41-91dbe3d80539",
+            "isSleeping": 1,
+            "mobile": "+49 176 43160170",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-02T17:45:00+02:00",
+        "date_ts": 1775144700,
+        "description": "Wegen Karfreitag verlegt ",
+        "signUpDate": "2026-04-01 12:24:27",
+        "profile": {
+            "id": 314692,
+            "name": "Marianna Szczesna",
+            "avatar": "/api/uploads/c8bf0c81-ccac-450e-a326-665e459af2cc",
+            "isSleeping": 0,
+            "mobile": "+491743143083",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-02T17:45:00+02:00",
+        "date_ts": 1775144700,
+        "description": "Wegen Karfreitag verlegt ",
+        "signUpDate": "2026-04-01 19:51:39",
+        "profile": {
+            "id": 455603,
+            "name": "Shikhar Agrawal",
+            "avatar": "/api/uploads/e4ec84e2-3908-4b88-a9e1-0b49f67abbde",
+            "isSleeping": 0,
+            "mobile": "+49 176 73240036",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-07T17:45:00+02:00",
+        "date_ts": 1775576700,
+        "description": null,
+        "signUpDate": "2026-03-12 11:43:49",
+        "profile": {
+            "id": 728700,
+            "name": "Florence Aida Roumer",
+            "avatar": "/api/uploads/e5f7640a-42fb-43e0-9854-f6c1bc5de60a",
+            "isSleeping": 0,
+            "mobile": "+49 1577 3489971",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-07T17:45:00+02:00",
+        "date_ts": 1775576700,
+        "description": null,
+        "signUpDate": "2026-03-31 18:16:35",
+        "profile": {
+            "id": 455603,
+            "name": "Shikhar Agrawal",
+            "avatar": "/api/uploads/e4ec84e2-3908-4b88-a9e1-0b49f67abbde",
+            "isSleeping": 0,
+            "mobile": "+49 176 73240036",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-10T17:45:00+02:00",
+        "date_ts": 1775835900,
+        "description": null,
+        "signUpDate": "2026-03-13 17:45:33",
+        "profile": {
+            "id": 314692,
+            "name": "Marianna Szczesna",
+            "avatar": "/api/uploads/c8bf0c81-ccac-450e-a326-665e459af2cc",
+            "isSleeping": 0,
+            "mobile": "+491743143083",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-10T17:45:00+02:00",
+        "date_ts": 1775835900,
+        "description": null,
+        "signUpDate": "2026-03-14 18:52:15",
+        "profile": {
+            "id": 933107,
+            "name": "Isabelle Wetzstein",
+            "avatar": "/api/uploads/494f94f1-6d3d-4f00-b670-5d3f6e388667",
+            "isSleeping": 0,
+            "mobile": "+49 160 4252449",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-10T17:45:00+02:00",
+        "date_ts": 1775835900,
+        "description": null,
+        "signUpDate": "2026-03-15 16:17:13",
+        "profile": {
+            "id": 871573,
+            "name": "Deborah Maier",
+            "avatar": "/api/uploads/b46e9928-951a-4a88-9273-5b6fe0da9e83",
+            "isSleeping": 1,
+            "mobile": "+49 1522 8238704",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-14T17:45:00+02:00",
+        "date_ts": 1776181500,
+        "description": null,
+        "signUpDate": "2026-03-17 20:42:09",
+        "profile": {
+            "id": 886392,
+            "name": "Vivian Ohms",
+            "avatar": "/api/uploads/a62c6de8-8eac-47b9-82a3-c22ad4002b86",
+            "isSleeping": 0,
+            "mobile": "+49 179 5275128",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-17T17:45:00+02:00",
+        "date_ts": 1776440700,
+        "description": null,
+        "signUpDate": "2026-03-20 17:45:41",
+        "profile": {
+            "id": 314692,
+            "name": "Marianna Szczesna",
+            "avatar": "/api/uploads/c8bf0c81-ccac-450e-a326-665e459af2cc",
+            "isSleeping": 0,
+            "mobile": "+491743143083",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-17T17:45:00+02:00",
+        "date_ts": 1776440700,
+        "description": null,
+        "signUpDate": "2026-03-21 07:58:07",
+        "profile": {
+            "id": 933107,
+            "name": "Isabelle Wetzstein",
+            "avatar": "/api/uploads/494f94f1-6d3d-4f00-b670-5d3f6e388667",
+            "isSleeping": 0,
+            "mobile": "+49 160 4252449",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-17T17:45:00+02:00",
+        "date_ts": 1776440700,
+        "description": null,
+        "signUpDate": "2026-03-24 09:01:32",
+        "profile": {
+            "id": 871573,
+            "name": "Deborah Maier",
+            "avatar": "/api/uploads/b46e9928-951a-4a88-9273-5b6fe0da9e83",
+            "isSleeping": 1,
+            "mobile": "+49 1522 8238704",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-21T17:45:00+02:00",
+        "date_ts": 1776786300,
+        "description": null,
+        "signUpDate": "2026-03-27 23:36:48",
+        "profile": {
+            "id": 524315,
+            "name": "Mira Lorenz",
+            "avatar": "/api/uploads/4138e934-999b-4e34-9b40-3c3d746e52a0",
+            "isSleeping": 0,
+            "mobile": "+49 160 95444343",
+            "landline": "+49 160 95444343",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-21T17:45:00+02:00",
+        "date_ts": 1776786300,
+        "description": null,
+        "signUpDate": "2026-04-10 12:04:26",
+        "profile": {
+            "id": 728700,
+            "name": "Florence Aida Roumer",
+            "avatar": "/api/uploads/e5f7640a-42fb-43e0-9854-f6c1bc5de60a",
+            "isSleeping": 0,
+            "mobile": "+49 1577 3489971",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-24T17:45:00+02:00",
+        "date_ts": 1777045500,
+        "description": null,
+        "signUpDate": "2026-03-27 16:45:57",
+        "profile": {
+            "id": 314692,
+            "name": "Marianna Szczesna",
+            "avatar": "/api/uploads/c8bf0c81-ccac-450e-a326-665e459af2cc",
+            "isSleeping": 0,
+            "mobile": "+491743143083",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-24T17:45:00+02:00",
+        "date_ts": 1777045500,
+        "description": null,
+        "signUpDate": "2026-03-27 16:47:52",
+        "profile": {
+            "id": 933107,
+            "name": "Isabelle Wetzstein",
+            "avatar": "/api/uploads/494f94f1-6d3d-4f00-b670-5d3f6e388667",
+            "isSleeping": 0,
+            "mobile": "+49 160 4252449",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-24T17:45:00+02:00",
+        "date_ts": 1777045500,
+        "description": null,
+        "signUpDate": "2026-04-03 10:05:09",
+        "profile": {
+            "id": 871573,
+            "name": "Deborah Maier",
+            "avatar": "/api/uploads/b46e9928-951a-4a88-9273-5b6fe0da9e83",
+            "isSleeping": 1,
+            "mobile": "+49 1522 8238704",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-28T17:45:00+02:00",
+        "date_ts": 1777391100,
+        "description": null,
+        "signUpDate": "2026-04-01 11:20:51",
+        "profile": {
+            "id": 801788,
+            "name": "Maria-Luise Skrdlant",
+            "avatar": "/api/uploads/f9010b35-ab25-4234-8d57-9c5aa6e41174",
+            "isSleeping": 0,
+            "mobile": "+49 1575 3461804",
+            "landline": "+49 69 895961",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-28T17:45:00+02:00",
+        "date_ts": 1777391100,
+        "description": null,
+        "signUpDate": "2026-04-28 15:23:06",
+        "profile": {
+            "id": 373118,
+            "name": "Kah Wai Au",
+            "avatar": "/api/uploads/45dea5f1-ad61-4ce3-9b41-91dbe3d80539",
+            "isSleeping": 1,
+            "mobile": "+49 176 43160170",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-30T17:45:00+02:00",
+        "date_ts": 1777563900,
+        "description": "Vorverlegt wegen 1. Mai",
+        "signUpDate": "2026-04-22 22:06:24",
+        "profile": {
+            "id": 728700,
+            "name": "Florence Aida Roumer",
+            "avatar": "/api/uploads/e5f7640a-42fb-43e0-9854-f6c1bc5de60a",
+            "isSleeping": 0,
+            "mobile": "+49 1577 3489971",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-30T17:45:00+02:00",
+        "date_ts": 1777563900,
+        "description": "Vorverlegt wegen 1. Mai",
+        "signUpDate": "2026-04-24 19:32:05",
+        "profile": {
+            "id": 973988,
+            "name": "Christian Hübner",
+            "avatar": "/api/uploads/734939dc-5538-4649-9dae-2ec82bee9dc4",
+            "isSleeping": 0,
+            "mobile": "+49 1517 0022170",
+            "landline": "+49 1517 0022170",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-30T17:45:00+02:00",
+        "date_ts": 1777563900,
+        "description": "Vorverlegt wegen 1. Mai",
+        "signUpDate": "2026-04-29 16:36:17",
+        "profile": {
+            "id": 988224,
+            "name": "Katharina Wittmann",
+            "avatar": "/api/uploads/c5c4d8a7-0b68-4cbc-9b3b-58b443bec4de",
+            "isSleeping": 0,
+            "mobile": "+49 172 6438562",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-04-07T18:00:00+02:00",
+        "date_ts": 1775577600,
+        "description": null,
+        "signUpDate": "2026-03-19 17:01:58",
+        "profile": {
+            "id": 833503,
+            "name": "Ermana Ribic",
+            "avatar": "/api/uploads/26eb6349-338c-4707-9dac-ffb6acd4f16a",
+            "isSleeping": 1,
+            "mobile": "+49 177 8882046",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-10T18:00:00+02:00",
+        "date_ts": 1775836800,
+        "description": null,
+        "signUpDate": "2026-03-22 07:29:41",
+        "profile": {
+            "id": 635374,
+            "name": "Lisa Gonzalez",
+            "avatar": "/api/uploads/2d72bbab-0ad1-421b-8b6c-444291af68ee",
+            "isSleeping": 0,
+            "mobile": "+49 1590 6037781",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-14T18:00:00+02:00",
+        "date_ts": 1776182400,
+        "description": null,
+        "signUpDate": "2026-03-27 15:27:09",
+        "profile": {
+            "id": 398483,
+            "name": "Marina Pierucci",
+            "avatar": "/api/uploads/25472118-d0d8-432a-9823-b56bf63364c4",
+            "isSleeping": 0,
+            "mobile": "+49 176 75311465",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-17T18:00:00+02:00",
+        "date_ts": 1776441600,
+        "description": null,
+        "signUpDate": "2026-04-08 17:17:06",
+        "profile": {
+            "id": 495533,
+            "name": "Chokri Ben Necib",
+            "avatar": "/api/uploads/004ae588-004a-49e5-b6e2-37064cf117ad",
+            "isSleeping": 0,
+            "mobile": "+49 1512 9271562",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-21T18:00:00+02:00",
+        "date_ts": 1776787200,
+        "description": null,
+        "signUpDate": "2026-04-08 17:21:38",
+        "profile": {
+            "id": 488062,
+            "name": "Tamara Nesukh",
+            "avatar": "/api/uploads/d6e504d8-dd18-482b-8f6a-26dea4b7eb6a",
+            "isSleeping": 0,
+            "mobile": "+49 177 4737250",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-24T18:00:00+02:00",
+        "date_ts": 1777046400,
+        "description": null,
+        "signUpDate": "2026-04-08 17:18:10",
+        "profile": {
+            "id": 495533,
+            "name": "Chokri Ben Necib",
+            "avatar": "/api/uploads/004ae588-004a-49e5-b6e2-37064cf117ad",
+            "isSleeping": 0,
+            "mobile": "+49 1512 9271562",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-28T18:00:00+02:00",
+        "date_ts": 1777392000,
+        "description": null,
+        "signUpDate": "2026-04-11 08:43:00",
+        "profile": {
+            "id": 667491,
+            "name": "Norbert Rummel",
+            "avatar": "/api/uploads/364832c4-3990-45d4-aac2-502e4bde7fc2",
+            "isSleeping": 0,
+            "mobile": "+491711974152",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]
