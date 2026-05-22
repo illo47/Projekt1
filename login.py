@@ -7,82 +7,56 @@ def main():
     password = os.environ["FS_PASSWORD"]
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
+        browser = p.chromium.launch(
+            headless=False,
+            args=[
+                "--disable-blink-features=AutomationControlled",
+                "--disable-web-security",
+                "--disable-features=IsolateOrigins,site-per-process"
+            ]
+        )
+
         context = browser.new_context()
+        context.add_init_script("""
+            Object.defineProperty(navigator, 'webdriver', {
+                get: () => undefined
+            });
+        """)
+
         page = context.new_page()
 
         print("Öffne Login-Seite…")
         page.goto("https://foodsharing.de/?page=login", wait_until="domcontentloaded")
 
-        # 1. Cookie-Banner abfangen
+        # Cookie-Banner
         try:
-            page.wait_for_selector("button#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll", timeout=5000)
-            page.click("button#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll")
-            print("Cookie-Banner akzeptiert.")
+            page.click("button#CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll", timeout=5000)
         except:
-            print("Kein Cookie-Banner gefunden.")
+            pass
 
-        # 2. Sicherstellen, dass wir auf der Login-Seite sind
-        if "login" not in page.url:
-            print("Nicht auf Login-Seite – versuche Redirect…")
-            page.goto("https://foodsharing.de/?page=login", wait_until="networkidle")
-
-        # 3. Warten auf ein Eingabefeld (egal welches)
+        # Warten auf E-Mail-Feld
         try:
-            page.wait_for_selector("input[type='email'], #login-email, input[name='email']", timeout=10000)
+            page.wait_for_selector("input[type='email']", timeout=15000)
         except:
             page.screenshot(path="login_error.png")
-            raise Exception("Login-Felder nicht gefunden! Screenshot gespeichert: login_error.png")
+            raise Exception("Login-Feld nicht sichtbar. Screenshot gespeichert.")
 
-        # 4. Mehrere mögliche Selektoren testen
-        selectors_email = ["#login-email", "input[type='email']", "input[name='email']"]
-        selectors_password = ["#login-password", "input[type='password']", "input[name='password']"]
+        # E-Mail eingeben
+        page.fill("input[type='email']", email)
 
-        filled = False
-        for sel in selectors_email:
-            try:
-                page.fill(sel, email)
-                filled = True
-                print(f"E-Mail-Feld gefunden: {sel}")
-                break
-            except:
-                pass
+        # Passwort eingeben
+        page.fill("input[type='password']", password)
 
-        if not filled:
-            page.screenshot(path="login_error.png")
-            raise Exception("Kein E-Mail-Feld gefunden! Screenshot gespeichert: login_error.png")
+        # Login klicken
+        page.click("button[type='submit']")
 
-        filled = False
-        for sel in selectors_password:
-            try:
-                page.fill(sel, password)
-                filled = True
-                print(f"Passwort-Feld gefunden: {sel}")
-                break
-            except:
-                pass
-
-        if not filled:
-            page.screenshot(path="login_error.png")
-            raise Exception("Kein Passwort-Feld gefunden! Screenshot gespeichert: login_error.png")
-
-        # 5. Login-Button klicken
-        try:
-            page.click("button[type='submit']")
-        except:
-            page.screenshot(path="login_error.png")
-            raise Exception("Login-Button nicht gefunden! Screenshot gespeichert: login_error.png")
-
-        # 6. Warten bis eingeloggt
         page.wait_for_load_state("networkidle")
         time.sleep(2)
 
-        # 7. Prüfen ob Login erfolgreich war
         if "login" in page.url:
             page.screenshot(path="login_failed.png")
-            raise Exception("Login fehlgeschlagen! Screenshot gespeichert: login_failed.png")
+            raise Exception("Login fehlgeschlagen! Screenshot gespeichert.")
 
-        # 8. Session speichern
         context.storage_state(path="auth.json")
         print("auth.json erfolgreich erzeugt.")
 
