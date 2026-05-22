@@ -57,7 +57,7 @@
             "id": 244036,
             "name": "Jule Gerhard",
             "avatar": "/api/uploads/f840f9c0-5a42-4f02-b5ea-b74659b7747d",
-            "isSleeping": 0,
+            "isSleeping": 1,
             "mobile": "+49 179 1076334",
             "landline": "",
             "isManager": false
@@ -201,7 +201,7 @@
             "id": 244036,
             "name": "Jule Gerhard",
             "avatar": "/api/uploads/f840f9c0-5a42-4f02-b5ea-b74659b7747d",
-            "isSleeping": 0,
+            "isSleeping": 1,
             "mobile": "+49 179 1076334",
             "landline": "",
             "isManager": false

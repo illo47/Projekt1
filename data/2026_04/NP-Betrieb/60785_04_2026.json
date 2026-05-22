@@ -185,7 +185,7 @@
             "id": 331144,
             "name": "Gabriela Rothenmeyer",
             "avatar": "/api/uploads/2b21f933-6846-4c1d-b66d-bd8cdb5ab312",
-            "isSleeping": 1,
+            "isSleeping": 0,
             "mobile": "+ 491798663536",
             "landline": "",
             "isManager": false
@@ -217,7 +217,7 @@
             "id": 331144,
             "name": "Gabriela Rothenmeyer",
             "avatar": "/api/uploads/2b21f933-6846-4c1d-b66d-bd8cdb5ab312",
-            "isSleeping": 1,
+            "isSleeping": 0,
             "mobile": "+ 491798663536",
             "landline": "",
             "isManager": false
@@ -265,7 +265,7 @@
             "id": 974730,
             "name": "Armela Rashidian",
             "avatar": "/api/uploads/06991e4b-dcc7-4178-a9b2-2478c3300234",
-            "isSleeping": 1,
+            "isSleeping": 0,
             "mobile": "+49 163 2797378",
             "landline": "",
             "isManager": false
@@ -409,7 +409,7 @@
             "id": 974730,
             "name": "Armela Rashidian",
             "avatar": "/api/uploads/06991e4b-dcc7-4178-a9b2-2478c3300234",
-            "isSleeping": 1,
+            "isSleeping": 0,
             "mobile": "+49 163 2797378",
             "landline": "",
             "isManager": false

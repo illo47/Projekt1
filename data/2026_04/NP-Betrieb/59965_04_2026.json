@@ -9,7 +9,7 @@
             "id": 588433,
             "name": "Monika Röske",
             "avatar": "/api/uploads/667a3af4-8cbb-4cac-ad3e-3d6c14120a7e",
-            "isSleeping": 1,
+            "isSleeping": 0,
             "mobile": "+49 1577 4154240",
             "landline": "",
             "isManager": false
@@ -25,7 +25,7 @@
             "id": 588433,
             "name": "Monika Röske",
             "avatar": "/api/uploads/667a3af4-8cbb-4cac-ad3e-3d6c14120a7e",
-            "isSleeping": 1,
+            "isSleeping": 0,
             "mobile": "+49 1577 4154240",
             "landline": "",
             "isManager": false

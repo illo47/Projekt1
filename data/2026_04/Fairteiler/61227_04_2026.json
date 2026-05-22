@@ -57,7 +57,7 @@
             "id": 700972,
             "name": "Manja Weber",
             "avatar": "/api/uploads/24c43a9e-0652-4706-a984-910c44b6bcc8",
-            "isSleeping": 1,
+            "isSleeping": 0,
             "mobile": "+49 1575 0989771",
             "landline": "+49 6192 23286",
             "isManager": false
@@ -169,7 +169,7 @@
             "id": 700972,
             "name": "Manja Weber",
             "avatar": "/api/uploads/24c43a9e-0652-4706-a984-910c44b6bcc8",
-            "isSleeping": 1,
+            "isSleeping": 0,
             "mobile": "+49 1575 0989771",
             "landline": "+49 6192 23286",
             "isManager": false

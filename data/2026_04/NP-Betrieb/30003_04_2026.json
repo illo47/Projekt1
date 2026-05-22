@@ -265,7 +265,7 @@
             "id": 541315,
             "name": "Juliane Link",
             "avatar": "/api/uploads/6f5d9f20-a88b-480c-b8b7-f9905c7fd0a2",
-            "isSleeping": 0,
+            "isSleeping": 1,
             "mobile": "+4917631152354",
             "landline": "",
             "isManager": false

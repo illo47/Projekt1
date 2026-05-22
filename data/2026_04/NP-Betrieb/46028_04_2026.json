@@ -233,7 +233,7 @@
             "id": 967920,
             "name": "Marc Burkhard",
             "avatar": "/api/uploads/42c703fd-28bd-4c87-8876-73e6e02288a4",
-            "isSleeping": 1,
+            "isSleeping": 0,
             "mobile": "+49 173 6894928",
             "landline": "",
             "isManager": false
@@ -425,7 +425,7 @@
             "id": 967920,
             "name": "Marc Burkhard",
             "avatar": "/api/uploads/42c703fd-28bd-4c87-8876-73e6e02288a4",
-            "isSleeping": 1,
+            "isSleeping": 0,
             "mobile": "+49 173 6894928",
             "landline": "",
             "isManager": false
