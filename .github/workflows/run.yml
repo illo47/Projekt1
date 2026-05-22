@@ -34,6 +34,8 @@ jobs:
           path: |
             login_error.png
             login_failed.png
+      - name: Debug ENV
+        run: env
 
 
       - name: Run script
