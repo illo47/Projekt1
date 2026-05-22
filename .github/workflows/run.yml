@@ -11,11 +11,7 @@ jobs:
     permissions:
       contents: write
       
-    env:
-      FS_EMAIL: ${{ secrets.FS_EMAIL }}
-      FS_PASSWORD: ${{ secrets.FS_PASSWORD }}
-
-
+   
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -29,17 +25,10 @@ jobs:
         run: |
           pip install -r requirements.txt
           playwright install --with-deps chromium
-
-      - name: Debug ENV
-        run: |
-          echo "FS_EMAIL ist gesetzt: ${FS_EMAIL:+JA}"
-          echo "FS_PASSWORD ist gesetzt: ${FS_PASSWORD:+JA}"
-
+ 
       - name: Restore auth.json
         run: |
           echo "${{ secrets.AUTH_JSON_B64 }}" | base64 --decode > auth.json
-
-
 
       - name: Run script
         run: python fs2.py
@@ -65,6 +54,12 @@ jobs:
           else
             echo "Keine Änderungen zum Commit."
           fi
+
+      - name: Check Excel file
+        run: |
+          ls -R .
+          file excel/foodsharing.xlsx || true
+
 
       - name: Update Excel file
         run: |
