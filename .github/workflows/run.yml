@@ -55,10 +55,16 @@ jobs:
             echo "Keine Änderungen zum Commit."
           fi
 
-      - name: Check Excel file
+      - name: Debug Excel file
         run: |
+          echo "=== Dateien im Repo ==="
           ls -R .
+          echo "=== Excel-Datei prüfen ==="
+          ls -l excel/foodsharing.xlsx || true
           file excel/foodsharing.xlsx || true
+          echo "=== Dateigröße ==="
+          stat -c%s excel/foodsharing.xlsx || true
+
 
 
       - name: Update Excel file
