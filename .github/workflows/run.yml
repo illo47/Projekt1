@@ -10,6 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      
+    env:
+      FS_EMAIL: ${{ secrets.FS_EMAIL }}
+      FS_PASSWORD: ${{ secrets.FS_PASSWORD }}
+
 
     steps:
       - name: Checkout repo
@@ -25,7 +30,11 @@ jobs:
           pip install -r requirements.txt
           playwright install --with-deps chromium
 
-      
+      - name: Debug ENV
+        run: |
+          echo "FS_EMAIL ist gesetzt: ${FS_EMAIL:+JA}"
+          echo "FS_PASSWORD ist gesetzt: ${FS_PASSWORD:+JA}"
+
       - name: Upload login screenshots
         if: failure()
         uses: actions/upload-artifact@v4
