@@ -26,23 +26,26 @@ def extract_info(json_path):
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    # Falls die JSON-Datei eine Liste ist → erstes Element nehmen
-    if isinstance(data, list):
-        if len(data) == 0:
-            return filename, None, None, None
-        data = data[0]
+    # Immer eine Liste daraus machen
+    if isinstance(data, dict):
+        data = [data]
 
-    # Felder auslesen
-    date = data.get("date", "")
+    results = []
 
-    profile = data.get("profile", {})
-    store_id = profile.get("id", "")
-    name = profile.get("name", "")
+    for entry in data:
+        date = entry.get("date", "")
 
-    # Titel = Dateiname
-    title = filename
+        profile = entry.get("profile", {})
+        store_id = profile.get("id", "")
+        name = profile.get("name", "")
 
-    return title, date, store_id, name
+        # Titel = Dateiname
+        title = filename
+
+        results.append((title, date, store_id, name))
+
+    return results
+
 
 
 
@@ -73,12 +76,16 @@ def main():
 
             ws = ensure_sheet(wb, sheet_name)
 
-            title, date, store_id, name = extract_info(json_path)
+            # ALLE Einträge aus der JSON-Datei holen
+            entries = extract_info(json_path)
 
-            ws.append([title, "", date, store_id, name])
+            # Jede Aktion einzeln eintragen
+            for title, date, store_id, name in entries:
+                ws.append([title, "", date, store_id, name])
 
     wb.save(EXCEL_PATH)
     print("Excel erfolgreich aktualisiert.")
+
 
 if __name__ == "__main__":
     main()
