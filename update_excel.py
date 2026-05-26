@@ -30,13 +30,16 @@ def extract_info(json_path):
             return None, None, None, None
         data = data[0]
 
-    # Jetzt ist data garantiert ein Dictionary
+    # Felder auslesen
     date = data.get("date", "")
-    store_id = data.get("store_id", "")
-    name = data.get("name", "")
-    title = data.get("title", "")
+    title = data.get("description", "")  # Foodsharing nutzt "description"
+    
+    profile = data.get("profile", {})
+    store_id = profile.get("id", "")
+    name = profile.get("name", "")
 
     return title, date, store_id, name
+
 
 
 def main():
