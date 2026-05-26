@@ -9,7 +9,7 @@
             "id": 373118,
             "name": "Kah Wai Au",
             "avatar": "/api/uploads/45dea5f1-ad61-4ce3-9b41-91dbe3d80539",
-            "isSleeping": 1,
+            "isSleeping": 0,
             "mobile": "+49 176 43160170",
             "landline": "",
             "isManager": false
@@ -297,7 +297,7 @@
             "id": 373118,
             "name": "Kah Wai Au",
             "avatar": "/api/uploads/45dea5f1-ad61-4ce3-9b41-91dbe3d80539",
-            "isSleeping": 1,
+            "isSleeping": 0,
             "mobile": "+49 176 43160170",
             "landline": "",
             "isManager": false

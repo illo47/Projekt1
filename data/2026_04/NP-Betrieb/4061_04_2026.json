@@ -233,7 +233,7 @@
             "id": 921659,
             "name": "Jonathan Ohms",
             "avatar": "/api/uploads/dd7fdd6d-ce84-4780-b052-2be4b1d6e00a",
-            "isSleeping": 0,
+            "isSleeping": 1,
             "mobile": "+49 1512 2233335",
             "landline": "",
             "isManager": false

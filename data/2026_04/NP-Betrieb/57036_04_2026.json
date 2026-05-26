@@ -9,7 +9,7 @@
             "id": 614883,
             "name": "Jennifer-Kim Krause",
             "avatar": "/api/uploads/703d6bfc-aa73-46c7-a5b6-7e3056c7ade7",
-            "isSleeping": 0,
+            "isSleeping": 1,
             "mobile": "+49 176 34565258",
             "landline": "",
             "isManager": true
@@ -345,7 +345,7 @@
             "id": 614883,
             "name": "Jennifer-Kim Krause",
             "avatar": "/api/uploads/703d6bfc-aa73-46c7-a5b6-7e3056c7ade7",
-            "isSleeping": 0,
+            "isSleeping": 1,
             "mobile": "+49 176 34565258",
             "landline": "",
             "isManager": true

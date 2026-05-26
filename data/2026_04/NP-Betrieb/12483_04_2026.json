@@ -41,7 +41,7 @@
             "id": 368256,
             "name": "Robert Kessler",
             "avatar": "/api/uploads/e05bc19e-176c-448d-b5f0-c74599b0cc09",
-            "isSleeping": 1,
+            "isSleeping": 0,
             "mobile": "+49 1590 2638962",
             "landline": "",
             "isManager": false
@@ -89,7 +89,7 @@
             "id": 368256,
             "name": "Robert Kessler",
             "avatar": "/api/uploads/e05bc19e-176c-448d-b5f0-c74599b0cc09",
-            "isSleeping": 1,
+            "isSleeping": 0,
             "mobile": "+49 1590 2638962",
             "landline": "",
             "isManager": false

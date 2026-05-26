@@ -137,7 +137,7 @@
             "id": 721932,
             "name": "Lisa Hausdorf",
             "avatar": "/api/uploads/f315d39b-e64b-4d65-a48e-15d67d81aca2",
-            "isSleeping": 0,
+            "isSleeping": 1,
             "mobile": "+49 162 8541547",
             "landline": "",
             "isManager": true
@@ -297,7 +297,7 @@
             "id": 721932,
             "name": "Lisa Hausdorf",
             "avatar": "/api/uploads/f315d39b-e64b-4d65-a48e-15d67d81aca2",
-            "isSleeping": 0,
+            "isSleeping": 1,
             "mobile": "+49 162 8541547",
             "landline": "",
             "isManager": true
