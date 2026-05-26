@@ -21,24 +21,29 @@ def ensure_sheet(wb, name):
     return wb[name]
 
 def extract_info(json_path):
+    filename = os.path.basename(json_path)
+
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     # Falls die JSON-Datei eine Liste ist → erstes Element nehmen
     if isinstance(data, list):
         if len(data) == 0:
-            return None, None, None, None
+            return filename, None, None, None
         data = data[0]
 
     # Felder auslesen
     date = data.get("date", "")
-    title = data.get("description", "")  # Foodsharing nutzt "description"
-    
+
     profile = data.get("profile", {})
     store_id = profile.get("id", "")
     name = profile.get("name", "")
 
+    # Titel = Dateiname
+    title = filename
+
     return title, date, store_id, name
+
 
 
 
