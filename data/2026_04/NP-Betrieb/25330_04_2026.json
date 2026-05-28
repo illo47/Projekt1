@@ -1,0 +1,82 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-04-04T16:40:00+02:00",
+        "date_ts": 1775313600,
+        "description": "Einen zweiten Slot fügen wir gerne hinzu auf Wunsch der schon eingetragene Person ",
+        "signUpDate": "2026-03-07 16:37:23",
+        "profile": {
+            "id": 801788,
+            "name": "Maria-Luise Skrdlant",
+            "avatar": "/api/uploads/f9010b35-ab25-4234-8d57-9c5aa6e41174",
+            "isSleeping": 0,
+            "mobile": "+49 1575 3461804",
+            "landline": "+49 69 895961",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T16:40:00+02:00",
+        "date_ts": 1775918400,
+        "description": "Einen zweiten Slot fügen wir gerne hinzu auf Wunsch der schon eingetragene Person ",
+        "signUpDate": "2026-03-15 01:50:13",
+        "profile": {
+            "id": 487210,
+            "name": "Julian Zimmermann",
+            "avatar": "/api/uploads/b65c1484-2e31-4b2e-b03b-314c1d8b78d3",
+            "isSleeping": 0,
+            "mobile": "+49 1577 2107180",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-18T16:40:00+02:00",
+        "date_ts": 1776523200,
+        "description": "Einen zweiten Slot fügen wir gerne hinzu auf Wunsch der schon eingetragene Person ",
+        "signUpDate": "2026-03-25 01:27:36",
+        "profile": {
+            "id": 487210,
+            "name": "Julian Zimmermann",
+            "avatar": "/api/uploads/b65c1484-2e31-4b2e-b03b-314c1d8b78d3",
+            "isSleeping": 0,
+            "mobile": "+49 1577 2107180",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-25T16:40:00+02:00",
+        "date_ts": 1777128000,
+        "description": "Ein 2. Slot, da für Kerstin die erste Abholung. Wer begleitet? ",
+        "signUpDate": "2026-04-08 06:42:44",
+        "profile": {
+            "id": 978989,
+            "name": "Kerstin Siebke",
+            "avatar": "/api/uploads/11ebf02d-c2d1-46df-8bc7-3342a62b9958",
+            "isSleeping": 1,
+            "mobile": "+49 163 8271427",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-25T16:40:00+02:00",
+        "date_ts": 1777128000,
+        "description": "Ein 2. Slot, da für Kerstin die erste Abholung. Wer begleitet? ",
+        "signUpDate": "2026-04-21 14:21:37",
+        "profile": {
+            "id": 96959,
+            "name": "Anna Babot",
+            "avatar": "/api/uploads/f7cdf635-5bda-44cd-8829-040b02f00b5b",
+            "isSleeping": 0,
+            "mobile": "+49 173 9550471",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

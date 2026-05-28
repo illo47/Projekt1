@@ -1,0 +1,402 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-04-01T20:30:00+02:00",
+        "date_ts": 1775068200,
+        "description": "",
+        "signUpDate": "2026-03-30 09:55:54",
+        "profile": {
+            "id": 326161,
+            "name": "Beate",
+            "avatar": "/api/uploads/99038d3d-aa4f-4a41-937f-569d61d8a43f",
+            "isSleeping": 1,
+            "mobile": "+49 179 5152760",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-02T19:30:00+02:00",
+        "date_ts": 1775151000,
+        "description": null,
+        "signUpDate": "2026-03-10 16:26:33",
+        "profile": {
+            "id": 803118,
+            "name": "Nadine Feldmann",
+            "avatar": "/api/uploads/d517360b-e679-478b-83d4-bf3a4f67862f",
+            "isSleeping": 0,
+            "mobile": "+49 171 4890491",
+            "landline": "+49 69 27243195",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-04T20:30:00+02:00",
+        "date_ts": 1775327400,
+        "description": null,
+        "signUpDate": "2026-03-10 16:22:33",
+        "profile": {
+            "id": 803535,
+            "name": "Sonja Stamm",
+            "avatar": "/api/uploads/f157af02-6734-42e4-88e5-3701250a69df",
+            "isSleeping": 0,
+            "mobile": "+49 171 7844303",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-07T20:30:00+02:00",
+        "date_ts": 1775586600,
+        "description": "",
+        "signUpDate": "2026-04-04 23:33:17",
+        "profile": {
+            "id": 949052,
+            "name": "Mevlüt Yilmaz",
+            "avatar": "/api/uploads/8e62f20a-a163-4d34-ba88-008668edb62f",
+            "isSleeping": 0,
+            "mobile": "+49 1577 2539428",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-08T20:30:00+02:00",
+        "date_ts": 1775673000,
+        "description": "",
+        "signUpDate": "2026-03-14 09:37:26",
+        "profile": {
+            "id": 604888,
+            "name": "Maria Barth",
+            "avatar": "/api/uploads/e5f372bf-e1d7-434d-a4ff-3d1fdcef17a3",
+            "isSleeping": 0,
+            "mobile": "+49 176 76493051",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-09T20:30:00+02:00",
+        "date_ts": 1775759400,
+        "description": "",
+        "signUpDate": "2026-04-08 16:15:11",
+        "profile": {
+            "id": 831512,
+            "name": "Annette Prohl",
+            "avatar": "/api/uploads/4d44a8ff-b903-4138-a3fe-4aaeb2bff5bd",
+            "isSleeping": 0,
+            "mobile": "+49 176 83695954",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-10T20:30:00+02:00",
+        "date_ts": 1775845800,
+        "description": null,
+        "signUpDate": "2026-04-09 22:48:52",
+        "profile": {
+            "id": 866328,
+            "name": "Monika Weinelt",
+            "avatar": "/api/uploads/8cabcdcf-4e5a-42a3-85d5-6ed1d620544c",
+            "isSleeping": 0,
+            "mobile": "+49 172 6558783",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-11T20:30:00+02:00",
+        "date_ts": 1775932200,
+        "description": null,
+        "signUpDate": "2026-03-24 21:38:34",
+        "profile": {
+            "id": 132132,
+            "name": "Lisa Weipert",
+            "avatar": "/api/uploads/3841ddc5-5571-4faf-bf79-256270c21f1f",
+            "isSleeping": 0,
+            "mobile": "+49 176 31671626",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-13T20:30:00+02:00",
+        "date_ts": 1776105000,
+        "description": "",
+        "signUpDate": "2026-03-23 12:46:20",
+        "profile": {
+            "id": 774526,
+            "name": "Thomas Dück",
+            "avatar": "/api/uploads/f34815bf-1feb-4c15-9fd5-4d6209e6ba0d",
+            "isSleeping": 0,
+            "mobile": "+4917640150754",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-14T20:30:00+02:00",
+        "date_ts": 1776191400,
+        "description": "",
+        "signUpDate": "2026-04-10 11:25:46",
+        "profile": {
+            "id": 797989,
+            "name": "Jennifer Gehrls",
+            "avatar": "/api/uploads/053c0cd1-d828-4c96-9ae5-d879b4ee6916",
+            "isSleeping": 0,
+            "mobile": "+49 163 7168472",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-15T20:30:00+02:00",
+        "date_ts": 1776277800,
+        "description": "",
+        "signUpDate": "2026-03-24 07:19:28",
+        "profile": {
+            "id": 869668,
+            "name": "Marianne Anna Bauder",
+            "avatar": "/api/uploads/a3da78a6-cbe1-4e28-ab27-7f075fad12cd",
+            "isSleeping": 1,
+            "mobile": "+49 171 1716757",
+            "landline": "+49 69 95102823",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-16T20:30:00+02:00",
+        "date_ts": 1776364200,
+        "description": "",
+        "signUpDate": "2026-03-22 14:22:25",
+        "profile": {
+            "id": 967920,
+            "name": "Marc Burkhard",
+            "avatar": "/api/uploads/42c703fd-28bd-4c87-8876-73e6e02288a4",
+            "isSleeping": 0,
+            "mobile": "+49 173 6894928",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-17T20:30:00+02:00",
+        "date_ts": 1776450600,
+        "description": null,
+        "signUpDate": "2026-03-21 14:05:55",
+        "profile": {
+            "id": 803535,
+            "name": "Sonja Stamm",
+            "avatar": "/api/uploads/f157af02-6734-42e4-88e5-3701250a69df",
+            "isSleeping": 0,
+            "mobile": "+49 171 7844303",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-18T20:30:00+02:00",
+        "date_ts": 1776537000,
+        "description": null,
+        "signUpDate": "2026-04-17 22:19:01",
+        "profile": {
+            "id": 132132,
+            "name": "Lisa Weipert",
+            "avatar": "/api/uploads/3841ddc5-5571-4faf-bf79-256270c21f1f",
+            "isSleeping": 0,
+            "mobile": "+49 176 31671626",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-20T20:30:00+02:00",
+        "date_ts": 1776709800,
+        "description": "",
+        "signUpDate": "2026-04-12 18:56:07",
+        "profile": {
+            "id": 918562,
+            "name": "Stefan Schmitt",
+            "avatar": "/api/uploads/7908a494-4999-411e-be5c-647df41556fc",
+            "isSleeping": 0,
+            "mobile": "+49 176 96860575",
+            "landline": "+49 69 578709",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-21T20:30:00+02:00",
+        "date_ts": 1776796200,
+        "description": "",
+        "signUpDate": "2026-04-01 11:20:08",
+        "profile": {
+            "id": 604888,
+            "name": "Maria Barth",
+            "avatar": "/api/uploads/e5f372bf-e1d7-434d-a4ff-3d1fdcef17a3",
+            "isSleeping": 0,
+            "mobile": "+49 176 76493051",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-22T20:30:00+02:00",
+        "date_ts": 1776882600,
+        "description": "",
+        "signUpDate": "2026-03-25 20:28:45",
+        "profile": {
+            "id": 797989,
+            "name": "Jennifer Gehrls",
+            "avatar": "/api/uploads/053c0cd1-d828-4c96-9ae5-d879b4ee6916",
+            "isSleeping": 0,
+            "mobile": "+49 163 7168472",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-23T20:30:00+02:00",
+        "date_ts": 1776969000,
+        "description": "",
+        "signUpDate": "2026-03-27 08:51:26",
+        "profile": {
+            "id": 831512,
+            "name": "Annette Prohl",
+            "avatar": "/api/uploads/4d44a8ff-b903-4138-a3fe-4aaeb2bff5bd",
+            "isSleeping": 0,
+            "mobile": "+49 176 83695954",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-23T20:30:00+02:00",
+        "date_ts": 1776969000,
+        "description": "",
+        "signUpDate": "2026-03-27 09:39:47",
+        "profile": {
+            "id": 869668,
+            "name": "Marianne Anna Bauder",
+            "avatar": "/api/uploads/a3da78a6-cbe1-4e28-ab27-7f075fad12cd",
+            "isSleeping": 1,
+            "mobile": "+49 171 1716757",
+            "landline": "+49 69 95102823",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-24T20:30:00+02:00",
+        "date_ts": 1777055400,
+        "description": null,
+        "signUpDate": "2026-04-22 20:26:53",
+        "profile": {
+            "id": 873830,
+            "name": "Corina Vlas",
+            "avatar": "/api/uploads/e3cc0c18-48bc-4b27-ad6b-52cfa5dea607",
+            "isSleeping": 0,
+            "mobile": "+49 176 56849210",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-25T20:30:00+02:00",
+        "date_ts": 1777141800,
+        "description": null,
+        "signUpDate": "2026-04-12 08:20:05",
+        "profile": {
+            "id": 132132,
+            "name": "Lisa Weipert",
+            "avatar": "/api/uploads/3841ddc5-5571-4faf-bf79-256270c21f1f",
+            "isSleeping": 0,
+            "mobile": "+49 176 31671626",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-27T20:30:00+02:00",
+        "date_ts": 1777314600,
+        "description": "",
+        "signUpDate": "2026-03-31 18:03:22",
+        "profile": {
+            "id": 151929,
+            "name": "Cornelia Kisch",
+            "avatar": "/api/uploads/8c07f432-446b-4b8c-b346-4ba23c2d628b",
+            "isSleeping": 0,
+            "mobile": "+49 162 7232544",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-28T20:30:00+02:00",
+        "date_ts": 1777401000,
+        "description": "",
+        "signUpDate": "2026-04-19 12:11:12",
+        "profile": {
+            "id": 967920,
+            "name": "Marc Burkhard",
+            "avatar": "/api/uploads/42c703fd-28bd-4c87-8876-73e6e02288a4",
+            "isSleeping": 0,
+            "mobile": "+49 173 6894928",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-29T20:30:00+02:00",
+        "date_ts": 1777487400,
+        "description": "",
+        "signUpDate": "2026-04-26 18:15:53",
+        "profile": {
+            "id": 970070,
+            "name": "Sarah",
+            "avatar": "/api/uploads/5cbcb462-920a-4188-b61d-60152d01415c",
+            "isSleeping": 0,
+            "mobile": "+49 179 9904775",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-30T20:30:00+02:00",
+        "date_ts": 1777573800,
+        "description": "",
+        "signUpDate": "2026-04-24 17:32:59",
+        "profile": {
+            "id": 803118,
+            "name": "Nadine Feldmann",
+            "avatar": "/api/uploads/d517360b-e679-478b-83d4-bf3a4f67862f",
+            "isSleeping": 0,
+            "mobile": "+49 171 4890491",
+            "landline": "+49 69 27243195",
+            "isManager": false
+        }
+    }
+]

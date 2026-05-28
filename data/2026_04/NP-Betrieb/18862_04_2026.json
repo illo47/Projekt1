@@ -1,0 +1,66 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-04-02T18:00:00+02:00",
+        "date_ts": 1775145600,
+        "description": null,
+        "signUpDate": "2026-03-06 15:48:26",
+        "profile": {
+            "id": 524315,
+            "name": "Mira Lorenz",
+            "avatar": "/api/uploads/4138e934-999b-4e34-9b40-3c3d746e52a0",
+            "isSleeping": 0,
+            "mobile": "+49 160 95444343",
+            "landline": "+49 160 95444343",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-09T18:00:00+02:00",
+        "date_ts": 1775750400,
+        "description": null,
+        "signUpDate": "2026-04-07 12:57:31",
+        "profile": {
+            "id": 378341,
+            "name": "Boris Seifert",
+            "avatar": "/api/uploads/69eb0b1d-172d-4251-ab8b-bffe2c349705",
+            "isSleeping": 0,
+            "mobile": "+49 176 41710730",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-23T18:00:00+02:00",
+        "date_ts": 1776960000,
+        "description": null,
+        "signUpDate": "2026-03-27 11:25:44",
+        "profile": {
+            "id": 246792,
+            "name": "Bianca Diehl",
+            "avatar": "/api/uploads/a5e06be5-bf32-440e-ba3f-248cb9fbd5ce",
+            "isSleeping": 0,
+            "mobile": "+4915782494790",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-04-30T18:00:00+02:00",
+        "date_ts": 1777564800,
+        "description": null,
+        "signUpDate": "2026-04-27 13:20:40",
+        "profile": {
+            "id": 246792,
+            "name": "Bianca Diehl",
+            "avatar": "/api/uploads/a5e06be5-bf32-440e-ba3f-248cb9fbd5ce",
+            "isSleeping": 0,
+            "mobile": "+4915782494790",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]
