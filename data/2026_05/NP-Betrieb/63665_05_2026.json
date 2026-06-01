@@ -1,0 +1,354 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-05-04T17:55:00+02:00",
+        "date_ts": 1777910100,
+        "description": "Auto",
+        "signUpDate": "2026-04-29 20:40:37",
+        "profile": {
+            "id": 657156,
+            "name": "Henning Jansen",
+            "avatar": "/api/uploads/2bdd1e2b-707f-4866-b2a0-c00de0c6f347",
+            "isSleeping": 0,
+            "mobile": "+49 1517 0107213",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-04T18:00:00+02:00",
+        "date_ts": 1777910400,
+        "description": "Ohne Auto",
+        "signUpDate": "2026-04-27 09:12:37",
+        "profile": {
+            "id": 875441,
+            "name": "Christoph Lokotsch-Schmidt",
+            "avatar": "/api/uploads/98180a11-8fef-4f89-9192-5b854709734a",
+            "isSleeping": 0,
+            "mobile": "+49 176 38200374",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-04T18:00:00+02:00",
+        "date_ts": 1777910400,
+        "description": "Ohne Auto",
+        "signUpDate": "2026-05-04 16:57:09",
+        "profile": {
+            "id": 872540,
+            "name": "Stefan Becker",
+            "avatar": "/api/uploads/0681c670-824c-44db-b4f2-8b2f550a5775",
+            "isSleeping": 0,
+            "mobile": "+49 173 3496612",
+            "landline": "+49 69 30838769",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-06T17:55:00+02:00",
+        "date_ts": 1778082900,
+        "description": "Auto, heute um 17 Uhr",
+        "signUpDate": "2026-05-06 10:30:29",
+        "profile": {
+            "id": 562264,
+            "name": "Gabriele Best",
+            "avatar": "/api/uploads/ca303a8d-9505-49b5-a0c8-8e7d399505b9",
+            "isSleeping": 0,
+            "mobile": "+49 176 43487880",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-06T18:00:00+02:00",
+        "date_ts": 1778083200,
+        "description": "Ohne Auto, heute um 17 Uhr",
+        "signUpDate": "2026-04-28 22:37:43",
+        "profile": {
+            "id": 425464,
+            "name": "Fabiola Mallach",
+            "avatar": "/api/uploads/e3f8518d-6206-444c-b559-0ff2cbd8e3b6",
+            "isSleeping": 0,
+            "mobile": "+49 177 8693246",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-08T18:00:00+02:00",
+        "date_ts": 1778256000,
+        "description": "Ohne Auto",
+        "signUpDate": "2026-05-01 10:29:42",
+        "profile": {
+            "id": 532833,
+            "name": "Jacqueline Wendt",
+            "avatar": "/api/uploads/4d897a1c-828b-4169-8f2f-5b3587d9e822",
+            "isSleeping": 0,
+            "mobile": "+49 174 3256194",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-08T18:00:00+02:00",
+        "date_ts": 1778256000,
+        "description": "Ohne Auto",
+        "signUpDate": "2026-05-08 11:32:55",
+        "profile": {
+            "id": 162003,
+            "name": "Veronika Hummel",
+            "avatar": "/api/uploads/c30cead6-50ca-4359-925b-5b390d1949d9",
+            "isSleeping": 0,
+            "mobile": "+49 1625290393",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-11T17:55:00+02:00",
+        "date_ts": 1778514900,
+        "description": "Auto",
+        "signUpDate": "2026-05-11 14:14:08",
+        "profile": {
+            "id": 944892,
+            "name": "Christine Peuser",
+            "avatar": "/api/uploads/ea6bd5c4-aa06-4a88-b54d-93274f148c0a",
+            "isSleeping": 0,
+            "mobile": "+49 160 3520905",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-11T18:00:00+02:00",
+        "date_ts": 1778515200,
+        "description": "Ohne Auto",
+        "signUpDate": "2026-05-05 08:07:03",
+        "profile": {
+            "id": 875441,
+            "name": "Christoph Lokotsch-Schmidt",
+            "avatar": "/api/uploads/98180a11-8fef-4f89-9192-5b854709734a",
+            "isSleeping": 0,
+            "mobile": "+49 176 38200374",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-11T18:00:00+02:00",
+        "date_ts": 1778515200,
+        "description": "Ohne Auto",
+        "signUpDate": "2026-05-11 17:28:22",
+        "profile": {
+            "id": 872540,
+            "name": "Stefan Becker",
+            "avatar": "/api/uploads/0681c670-824c-44db-b4f2-8b2f550a5775",
+            "isSleeping": 0,
+            "mobile": "+49 173 3496612",
+            "landline": "+49 69 30838769",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-12T17:55:00+02:00",
+        "date_ts": 1778601300,
+        "description": "Auto",
+        "signUpDate": "2026-05-12 10:09:19",
+        "profile": {
+            "id": 955121,
+            "name": "Nils Warnecke",
+            "avatar": "/api/uploads/2f044e52-78de-4d35-932f-48dc3587af33",
+            "isSleeping": 0,
+            "mobile": "+49 163 3808284",
+            "landline": "+49 69 71431419",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-12T18:00:00+02:00",
+        "date_ts": 1778601600,
+        "description": "Ohne Auto",
+        "signUpDate": "2026-04-27 14:20:47",
+        "profile": {
+            "id": 239819,
+            "name": "Jennifer Beuschel",
+            "avatar": "/api/uploads/6f0d89c4-52b3-488b-96d0-51da85fb480d",
+            "isSleeping": 0,
+            "mobile": "+49 174 9153423",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-12T18:00:00+02:00",
+        "date_ts": 1778601600,
+        "description": "Ohne Auto",
+        "signUpDate": "2026-05-12 08:39:30",
+        "profile": {
+            "id": 875441,
+            "name": "Christoph Lokotsch-Schmidt",
+            "avatar": "/api/uploads/98180a11-8fef-4f89-9192-5b854709734a",
+            "isSleeping": 0,
+            "mobile": "+49 176 38200374",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-13T18:00:00+02:00",
+        "date_ts": 1778688000,
+        "description": "Ohne Auto",
+        "signUpDate": "2026-05-13 07:46:45",
+        "profile": {
+            "id": 875441,
+            "name": "Christoph Lokotsch-Schmidt",
+            "avatar": "/api/uploads/98180a11-8fef-4f89-9192-5b854709734a",
+            "isSleeping": 0,
+            "mobile": "+49 176 38200374",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-13T18:00:00+02:00",
+        "date_ts": 1778688000,
+        "description": "Ohne Auto",
+        "signUpDate": "2026-05-13 08:35:14",
+        "profile": {
+            "id": 532833,
+            "name": "Jacqueline Wendt",
+            "avatar": "/api/uploads/4d897a1c-828b-4169-8f2f-5b3587d9e822",
+            "isSleeping": 0,
+            "mobile": "+49 174 3256194",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-18T17:55:00+02:00",
+        "date_ts": 1779119700,
+        "description": "Auto",
+        "signUpDate": "2026-05-18 09:03:50",
+        "profile": {
+            "id": 960559,
+            "name": "Katrin Neuser",
+            "avatar": "/api/uploads/31879256-4fae-4f03-aae1-9c646e483e7d",
+            "isSleeping": 0,
+            "mobile": "+49 1577 1528888",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-18T18:00:00+02:00",
+        "date_ts": 1779120000,
+        "description": "Ohne Auto",
+        "signUpDate": "2026-05-11 00:35:09",
+        "profile": {
+            "id": 872540,
+            "name": "Stefan Becker",
+            "avatar": "/api/uploads/0681c670-824c-44db-b4f2-8b2f550a5775",
+            "isSleeping": 0,
+            "mobile": "+49 173 3496612",
+            "landline": "+49 69 30838769",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-18T18:00:00+02:00",
+        "date_ts": 1779120000,
+        "description": "Ohne Auto",
+        "signUpDate": "2026-05-18 00:03:05",
+        "profile": {
+            "id": 875441,
+            "name": "Christoph Lokotsch-Schmidt",
+            "avatar": "/api/uploads/98180a11-8fef-4f89-9192-5b854709734a",
+            "isSleeping": 0,
+            "mobile": "+49 176 38200374",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-18T18:00:00+02:00",
+        "date_ts": 1779120000,
+        "description": "Ohne Auto",
+        "signUpDate": "2026-05-18 10:57:04",
+        "profile": {
+            "id": 175002,
+            "name": "Detlef Saemann",
+            "avatar": "/api/uploads/0dccec9a-3875-4b58-b372-c8af51d9a3d8",
+            "isSleeping": 0,
+            "mobile": "+49 171 8950408",
+            "landline": "+49 69 97981599",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-19T17:55:00+02:00",
+        "date_ts": 1779206100,
+        "description": "Auto",
+        "signUpDate": "2026-04-29 09:54:58",
+        "profile": {
+            "id": 470624,
+            "name": "Marjolein Knoblich",
+            "avatar": "/api/uploads/ddeeaea8-968d-4048-94de-bc37d53da875",
+            "isSleeping": 0,
+            "mobile": "+49 177 8217367",
+            "landline": "+49 177 8217367",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-19T17:55:00+02:00",
+        "date_ts": 1779206100,
+        "description": "Auto",
+        "signUpDate": "2026-05-19 17:41:57",
+        "profile": {
+            "id": 987543,
+            "name": "Elke Riepl",
+            "avatar": "/api/uploads/c43829fe-1cbe-40f9-b432-9b3b51a36166",
+            "isSleeping": 0,
+            "mobile": "+49 178 6090307",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-20T17:55:00+02:00",
+        "date_ts": 1779292500,
+        "description": "Auto",
+        "signUpDate": "2026-05-20 01:18:58",
+        "profile": {
+            "id": 267168,
+            "name": "Doris Peck",
+            "avatar": "/api/uploads/678c52e4-e80c-44e4-8439-840d8a3ca6eb",
+            "isSleeping": 0,
+            "mobile": "+49 174 5611901",
+            "landline": "+49 69 735771",
+            "isManager": false
+        }
+    }
+]

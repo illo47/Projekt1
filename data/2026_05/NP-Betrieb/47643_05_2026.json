@@ -1,0 +1,706 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-05-02T13:00:00+02:00",
+        "date_ts": 1777719600,
+        "description": null,
+        "signUpDate": "2026-04-16 23:37:48",
+        "profile": {
+            "id": 542923,
+            "name": "Almuth Turré",
+            "avatar": "/api/uploads/5b58bbbc-8774-4269-9be6-cea8c0d1f8ae",
+            "isSleeping": 0,
+            "mobile": "+49 173 9259103",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-02T13:00:00+02:00",
+        "date_ts": 1777719600,
+        "description": null,
+        "signUpDate": "2026-04-17 11:38:32",
+        "profile": {
+            "id": 900975,
+            "name": "Kristian Predojevic",
+            "avatar": "/api/uploads/77b6bb82-9f49-4ab4-9caf-cd1f8db46269",
+            "isSleeping": 0,
+            "mobile": "+49 1515 8071287",
+            "landline": "+49 1515 8071287",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-04T17:00:00+02:00",
+        "date_ts": 1777906800,
+        "description": null,
+        "signUpDate": "2026-04-18 09:00:03",
+        "profile": {
+            "id": 542923,
+            "name": "Almuth Turré",
+            "avatar": "/api/uploads/5b58bbbc-8774-4269-9be6-cea8c0d1f8ae",
+            "isSleeping": 0,
+            "mobile": "+49 173 9259103",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-04T17:00:00+02:00",
+        "date_ts": 1777906800,
+        "description": null,
+        "signUpDate": "2026-04-21 15:54:15",
+        "profile": {
+            "id": 927192,
+            "name": "Rachael Alieu",
+            "avatar": "/api/uploads/93b2a802-120b-4509-a2e0-f839c04f26dc",
+            "isSleeping": 0,
+            "mobile": "+49 178 9790278",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-05T17:00:00+02:00",
+        "date_ts": 1777993200,
+        "description": "16 Uhr ",
+        "signUpDate": "2026-04-29 07:02:53",
+        "profile": {
+            "id": 574333,
+            "name": "Pauline Schwanke",
+            "avatar": "/api/uploads/c9a9f4ce-3471-40f9-ad45-4869b88a48d1",
+            "isSleeping": 0,
+            "mobile": "+49 162 3412939",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-06T17:00:00+02:00",
+        "date_ts": 1778079600,
+        "description": null,
+        "signUpDate": "2026-04-28 23:44:08",
+        "profile": {
+            "id": 844290,
+            "name": "Lukas Grübner",
+            "avatar": "/api/uploads/08ba11ae-1f9f-4038-8a50-c5884977d13a",
+            "isSleeping": 0,
+            "mobile": "+49 1573 3363545",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-06T17:00:00+02:00",
+        "date_ts": 1778079600,
+        "description": null,
+        "signUpDate": "2026-05-03 20:03:16",
+        "profile": {
+            "id": 479121,
+            "name": "Andrea Heymann",
+            "avatar": "/api/uploads/55cb5a76-0dcb-4d10-b4b4-3635d8a00d81",
+            "isSleeping": 0,
+            "mobile": "+49 1578 7809056",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-07T17:00:00+02:00",
+        "date_ts": 1778166000,
+        "description": null,
+        "signUpDate": "2026-04-17 22:47:22",
+        "profile": {
+            "id": 366558,
+            "name": "Marco Massimiliano Da Pont",
+            "avatar": "/api/uploads/ade8369c-3579-4d6f-9a14-cb63bd8c9dec",
+            "isSleeping": 0,
+            "mobile": "+49 176 95883014",
+            "landline": "+49 176 95883014",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-08T17:00:00+02:00",
+        "date_ts": 1778252400,
+        "description": null,
+        "signUpDate": "2026-04-20 09:56:42",
+        "profile": {
+            "id": 844290,
+            "name": "Lukas Grübner",
+            "avatar": "/api/uploads/08ba11ae-1f9f-4038-8a50-c5884977d13a",
+            "isSleeping": 0,
+            "mobile": "+49 1573 3363545",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-08T17:00:00+02:00",
+        "date_ts": 1778252400,
+        "description": null,
+        "signUpDate": "2026-04-20 09:58:38",
+        "profile": {
+            "id": 869668,
+            "name": "Marianne Anna Bauder",
+            "avatar": "/api/uploads/a3da78a6-cbe1-4e28-ab27-7f075fad12cd",
+            "isSleeping": 1,
+            "mobile": "+49 171 1716757",
+            "landline": "+49 69 95102823",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-09T13:00:00+02:00",
+        "date_ts": 1778324400,
+        "description": null,
+        "signUpDate": "2026-04-20 09:41:16",
+        "profile": {
+            "id": 542923,
+            "name": "Almuth Turré",
+            "avatar": "/api/uploads/5b58bbbc-8774-4269-9be6-cea8c0d1f8ae",
+            "isSleeping": 0,
+            "mobile": "+49 173 9259103",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-09T13:00:00+02:00",
+        "date_ts": 1778324400,
+        "description": null,
+        "signUpDate": "2026-04-21 15:35:48",
+        "profile": {
+            "id": 710236,
+            "name": "Bastian Fischer",
+            "avatar": "/api/uploads/2daed235-03e4-4ca6-9078-0f124540ddb1",
+            "isSleeping": 0,
+            "mobile": "+49 177 3325727",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-11T17:00:00+02:00",
+        "date_ts": 1778511600,
+        "description": null,
+        "signUpDate": "2026-04-29 07:04:24",
+        "profile": {
+            "id": 574333,
+            "name": "Pauline Schwanke",
+            "avatar": "/api/uploads/c9a9f4ce-3471-40f9-ad45-4869b88a48d1",
+            "isSleeping": 0,
+            "mobile": "+49 162 3412939",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-11T17:00:00+02:00",
+        "date_ts": 1778511600,
+        "description": null,
+        "signUpDate": "2026-05-08 21:16:56",
+        "profile": {
+            "id": 479121,
+            "name": "Andrea Heymann",
+            "avatar": "/api/uploads/55cb5a76-0dcb-4d10-b4b4-3635d8a00d81",
+            "isSleeping": 0,
+            "mobile": "+49 1578 7809056",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-12T17:00:00+02:00",
+        "date_ts": 1778598000,
+        "description": "17 Uhr ",
+        "signUpDate": "2026-04-21 18:12:29",
+        "profile": {
+            "id": 246792,
+            "name": "Bianca Diehl",
+            "avatar": "/api/uploads/a5e06be5-bf32-440e-ba3f-248cb9fbd5ce",
+            "isSleeping": 0,
+            "mobile": "+4915782494790",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-12T17:00:00+02:00",
+        "date_ts": 1778598000,
+        "description": "17 Uhr ",
+        "signUpDate": "2026-05-05 20:22:50",
+        "profile": {
+            "id": 728700,
+            "name": "Florence Aida Roumer",
+            "avatar": "/api/uploads/e5f7640a-42fb-43e0-9854-f6c1bc5de60a",
+            "isSleeping": 0,
+            "mobile": "+49 1577 3489971",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-13T17:00:00+02:00",
+        "date_ts": 1778684400,
+        "description": null,
+        "signUpDate": "2026-04-23 13:21:24",
+        "profile": {
+            "id": 542923,
+            "name": "Almuth Turré",
+            "avatar": "/api/uploads/5b58bbbc-8774-4269-9be6-cea8c0d1f8ae",
+            "isSleeping": 0,
+            "mobile": "+49 173 9259103",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-13T17:00:00+02:00",
+        "date_ts": 1778684400,
+        "description": null,
+        "signUpDate": "2026-04-24 09:52:27",
+        "profile": {
+            "id": 927192,
+            "name": "Rachael Alieu",
+            "avatar": "/api/uploads/93b2a802-120b-4509-a2e0-f839c04f26dc",
+            "isSleeping": 0,
+            "mobile": "+49 178 9790278",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-15T17:00:00+02:00",
+        "date_ts": 1778857200,
+        "description": null,
+        "signUpDate": "2026-04-25 12:33:14",
+        "profile": {
+            "id": 864086,
+            "name": "Mostapha El Bojaddayni",
+            "avatar": "/api/uploads/eec77ff4-a840-4082-aa86-de8662472164",
+            "isSleeping": 0,
+            "mobile": "+49 1575 1661315",
+            "landline": "+49 1575 1661315",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-15T17:00:00+02:00",
+        "date_ts": 1778857200,
+        "description": null,
+        "signUpDate": "2026-05-15 06:19:08",
+        "profile": {
+            "id": 900975,
+            "name": "Kristian Predojevic",
+            "avatar": "/api/uploads/77b6bb82-9f49-4ab4-9caf-cd1f8db46269",
+            "isSleeping": 0,
+            "mobile": "+49 1515 8071287",
+            "landline": "+49 1515 8071287",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-16T13:00:00+02:00",
+        "date_ts": 1778929200,
+        "description": null,
+        "signUpDate": "2026-04-25 13:54:45",
+        "profile": {
+            "id": 710236,
+            "name": "Bastian Fischer",
+            "avatar": "/api/uploads/2daed235-03e4-4ca6-9078-0f124540ddb1",
+            "isSleeping": 0,
+            "mobile": "+49 177 3325727",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-16T13:00:00+02:00",
+        "date_ts": 1778929200,
+        "description": null,
+        "signUpDate": "2026-04-27 13:09:27",
+        "profile": {
+            "id": 542923,
+            "name": "Almuth Turré",
+            "avatar": "/api/uploads/5b58bbbc-8774-4269-9be6-cea8c0d1f8ae",
+            "isSleeping": 0,
+            "mobile": "+49 173 9259103",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-18T17:00:00+02:00",
+        "date_ts": 1779116400,
+        "description": null,
+        "signUpDate": "2026-04-29 08:29:14",
+        "profile": {
+            "id": 542923,
+            "name": "Almuth Turré",
+            "avatar": "/api/uploads/5b58bbbc-8774-4269-9be6-cea8c0d1f8ae",
+            "isSleeping": 0,
+            "mobile": "+49 173 9259103",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-18T17:00:00+02:00",
+        "date_ts": 1779116400,
+        "description": null,
+        "signUpDate": "2026-04-29 14:45:31",
+        "profile": {
+            "id": 927192,
+            "name": "Rachael Alieu",
+            "avatar": "/api/uploads/93b2a802-120b-4509-a2e0-f839c04f26dc",
+            "isSleeping": 0,
+            "mobile": "+49 178 9790278",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-19T17:00:00+02:00",
+        "date_ts": 1779202800,
+        "description": null,
+        "signUpDate": "2026-04-29 16:22:03",
+        "profile": {
+            "id": 401614,
+            "name": "Anja Godlinski",
+            "avatar": "/api/uploads/28c14050-664c-4854-a9e9-54cd7f0e2ad9",
+            "isSleeping": 0,
+            "mobile": "+49 1520 1743371",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-19T17:00:00+02:00",
+        "date_ts": 1779202800,
+        "description": null,
+        "signUpDate": "2026-05-12 15:57:04",
+        "profile": {
+            "id": 574333,
+            "name": "Pauline Schwanke",
+            "avatar": "/api/uploads/c9a9f4ce-3471-40f9-ad45-4869b88a48d1",
+            "isSleeping": 0,
+            "mobile": "+49 162 3412939",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-20T17:00:00+02:00",
+        "date_ts": 1779289200,
+        "description": null,
+        "signUpDate": "2026-05-12 11:02:32",
+        "profile": {
+            "id": 935091,
+            "name": "Thies Hagewald",
+            "avatar": "/api/uploads/8bcf5432-abcc-4578-afb5-5bad00add2ad",
+            "isSleeping": 0,
+            "mobile": "+49 173 5405564",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-20T17:00:00+02:00",
+        "date_ts": 1779289200,
+        "description": null,
+        "signUpDate": "2026-05-18 09:27:55",
+        "profile": {
+            "id": 844290,
+            "name": "Lukas Grübner",
+            "avatar": "/api/uploads/08ba11ae-1f9f-4038-8a50-c5884977d13a",
+            "isSleeping": 0,
+            "mobile": "+49 1573 3363545",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-21T17:00:00+02:00",
+        "date_ts": 1779375600,
+        "description": null,
+        "signUpDate": "2026-05-17 19:41:36",
+        "profile": {
+            "id": 728700,
+            "name": "Florence Aida Roumer",
+            "avatar": "/api/uploads/e5f7640a-42fb-43e0-9854-f6c1bc5de60a",
+            "isSleeping": 0,
+            "mobile": "+49 1577 3489971",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-21T17:00:00+02:00",
+        "date_ts": 1779375600,
+        "description": null,
+        "signUpDate": "2026-05-19 16:30:45",
+        "profile": {
+            "id": 828379,
+            "name": "Gretha Keim",
+            "avatar": "/api/uploads/5465c880-4e53-4e61-9f6e-cec4821ca48f",
+            "isSleeping": 0,
+            "mobile": "+49 1573 3724442",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-22T17:00:00+02:00",
+        "date_ts": 1779462000,
+        "description": null,
+        "signUpDate": "2026-05-08 08:11:42",
+        "profile": {
+            "id": 844290,
+            "name": "Lukas Grübner",
+            "avatar": "/api/uploads/08ba11ae-1f9f-4038-8a50-c5884977d13a",
+            "isSleeping": 0,
+            "mobile": "+49 1573 3363545",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-22T17:00:00+02:00",
+        "date_ts": 1779462000,
+        "description": null,
+        "signUpDate": "2026-05-08 18:47:04",
+        "profile": {
+            "id": 869668,
+            "name": "Marianne Anna Bauder",
+            "avatar": "/api/uploads/a3da78a6-cbe1-4e28-ab27-7f075fad12cd",
+            "isSleeping": 1,
+            "mobile": "+49 171 1716757",
+            "landline": "+49 69 95102823",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-23T13:00:00+02:00",
+        "date_ts": 1779534000,
+        "description": null,
+        "signUpDate": "2026-05-03 11:28:24",
+        "profile": {
+            "id": 542923,
+            "name": "Almuth Turré",
+            "avatar": "/api/uploads/5b58bbbc-8774-4269-9be6-cea8c0d1f8ae",
+            "isSleeping": 0,
+            "mobile": "+49 173 9259103",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-23T13:00:00+02:00",
+        "date_ts": 1779534000,
+        "description": null,
+        "signUpDate": "2026-05-04 13:46:25",
+        "profile": {
+            "id": 710236,
+            "name": "Bastian Fischer",
+            "avatar": "/api/uploads/2daed235-03e4-4ca6-9078-0f124540ddb1",
+            "isSleeping": 0,
+            "mobile": "+49 177 3325727",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-26T17:00:00+02:00",
+        "date_ts": 1779807600,
+        "description": null,
+        "signUpDate": "2026-05-11 16:27:42",
+        "profile": {
+            "id": 542923,
+            "name": "Almuth Turré",
+            "avatar": "/api/uploads/5b58bbbc-8774-4269-9be6-cea8c0d1f8ae",
+            "isSleeping": 0,
+            "mobile": "+49 173 9259103",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-26T17:00:00+02:00",
+        "date_ts": 1779807600,
+        "description": null,
+        "signUpDate": "2026-05-12 15:56:25",
+        "profile": {
+            "id": 574333,
+            "name": "Pauline Schwanke",
+            "avatar": "/api/uploads/c9a9f4ce-3471-40f9-ad45-4869b88a48d1",
+            "isSleeping": 0,
+            "mobile": "+49 162 3412939",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-27T17:00:00+02:00",
+        "date_ts": 1779894000,
+        "description": null,
+        "signUpDate": "2026-05-09 12:31:31",
+        "profile": {
+            "id": 366558,
+            "name": "Marco Massimiliano Da Pont",
+            "avatar": "/api/uploads/ade8369c-3579-4d6f-9a14-cb63bd8c9dec",
+            "isSleeping": 0,
+            "mobile": "+49 176 95883014",
+            "landline": "+49 176 95883014",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-27T17:00:00+02:00",
+        "date_ts": 1779894000,
+        "description": null,
+        "signUpDate": "2026-05-26 19:17:31",
+        "profile": {
+            "id": 728700,
+            "name": "Florence Aida Roumer",
+            "avatar": "/api/uploads/e5f7640a-42fb-43e0-9854-f6c1bc5de60a",
+            "isSleeping": 0,
+            "mobile": "+49 1577 3489971",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-28T17:00:00+02:00",
+        "date_ts": 1779980400,
+        "description": "17:15 Uhr",
+        "signUpDate": "2026-05-13 22:40:22",
+        "profile": {
+            "id": 479121,
+            "name": "Andrea Heymann",
+            "avatar": "/api/uploads/55cb5a76-0dcb-4d10-b4b4-3635d8a00d81",
+            "isSleeping": 0,
+            "mobile": "+49 1578 7809056",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-28T17:00:00+02:00",
+        "date_ts": 1779980400,
+        "description": "17:15 Uhr",
+        "signUpDate": "2026-05-28 08:38:24",
+        "profile": {
+            "id": 574333,
+            "name": "Pauline Schwanke",
+            "avatar": "/api/uploads/c9a9f4ce-3471-40f9-ad45-4869b88a48d1",
+            "isSleeping": 0,
+            "mobile": "+49 162 3412939",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-29T17:00:00+02:00",
+        "date_ts": 1780066800,
+        "description": null,
+        "signUpDate": "2026-05-25 14:56:53",
+        "profile": {
+            "id": 844290,
+            "name": "Lukas Grübner",
+            "avatar": "/api/uploads/08ba11ae-1f9f-4038-8a50-c5884977d13a",
+            "isSleeping": 0,
+            "mobile": "+49 1573 3363545",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-29T17:00:00+02:00",
+        "date_ts": 1780066800,
+        "description": null,
+        "signUpDate": "2026-05-25 15:20:57",
+        "profile": {
+            "id": 869668,
+            "name": "Marianne Anna Bauder",
+            "avatar": "/api/uploads/a3da78a6-cbe1-4e28-ab27-7f075fad12cd",
+            "isSleeping": 1,
+            "mobile": "+49 171 1716757",
+            "landline": "+49 69 95102823",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-30T13:00:00+02:00",
+        "date_ts": 1780138800,
+        "description": null,
+        "signUpDate": "2026-05-11 16:27:34",
+        "profile": {
+            "id": 542923,
+            "name": "Almuth Turré",
+            "avatar": "/api/uploads/5b58bbbc-8774-4269-9be6-cea8c0d1f8ae",
+            "isSleeping": 0,
+            "mobile": "+49 173 9259103",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-30T13:00:00+02:00",
+        "date_ts": 1780138800,
+        "description": null,
+        "signUpDate": "2026-05-12 17:15:42",
+        "profile": {
+            "id": 927192,
+            "name": "Rachael Alieu",
+            "avatar": "/api/uploads/93b2a802-120b-4509-a2e0-f839c04f26dc",
+            "isSleeping": 0,
+            "mobile": "+49 178 9790278",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

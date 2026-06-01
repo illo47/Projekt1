@@ -1,0 +1,338 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-05-02T17:00:00+02:00",
+        "date_ts": 1777734000,
+        "description": null,
+        "signUpDate": "2026-04-24 10:02:41",
+        "profile": {
+            "id": 708613,
+            "name": "Mandy Lesiok",
+            "avatar": "/api/uploads/790ca9fe-b656-42fd-9143-83f090b9bbae",
+            "isSleeping": 1,
+            "mobile": "+49 177 9288383",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-03T17:00:00+02:00",
+        "date_ts": 1777820400,
+        "description": null,
+        "signUpDate": "2026-05-02 08:18:41",
+        "profile": {
+            "id": 130177,
+            "name": "Eylem Kurtdereli",
+            "avatar": "/api/uploads/bc3983e7-ad1c-4b99-9c7d-aaff2ae7243e",
+            "isSleeping": 0,
+            "mobile": "+491634673408",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-04T17:00:00+02:00",
+        "date_ts": 1777906800,
+        "description": "",
+        "signUpDate": "2026-04-23 07:31:13",
+        "profile": {
+            "id": 416008,
+            "name": "Natascha Riethe",
+            "avatar": "/api/uploads/a5d8952b-d379-4016-a179-7a8a33af2087",
+            "isSleeping": 0,
+            "mobile": "+49 163 7024879",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-05T17:00:00+02:00",
+        "date_ts": 1777993200,
+        "description": "",
+        "signUpDate": "2026-05-03 22:41:09",
+        "profile": {
+            "id": 403667,
+            "name": "Nina Piir",
+            "avatar": "/api/uploads/1dcef6c9-95ac-4a89-bc1d-5170309d7f40",
+            "isSleeping": 1,
+            "mobile": "+49 162 5703386",
+            "landline": "+49 162 5703386",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-06T17:00:00+02:00",
+        "date_ts": 1778079600,
+        "description": "",
+        "signUpDate": "2026-04-22 22:12:28",
+        "profile": {
+            "id": 557897,
+            "name": "Alexander Stecher",
+            "avatar": "/api/uploads/4cc25f46-c866-44ff-a094-fa97df69b200",
+            "isSleeping": 0,
+            "mobile": "+49 160 7726418",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-07T17:00:00+02:00",
+        "date_ts": 1778166000,
+        "description": "",
+        "signUpDate": "2026-05-07 10:03:48",
+        "profile": {
+            "id": 162003,
+            "name": "Veronika Hummel",
+            "avatar": "/api/uploads/c30cead6-50ca-4359-925b-5b390d1949d9",
+            "isSleeping": 0,
+            "mobile": "+49 1625290393",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-08T17:00:00+02:00",
+        "date_ts": 1778252400,
+        "description": null,
+        "signUpDate": "2026-04-27 19:16:37",
+        "profile": {
+            "id": 708613,
+            "name": "Mandy Lesiok",
+            "avatar": "/api/uploads/790ca9fe-b656-42fd-9143-83f090b9bbae",
+            "isSleeping": 1,
+            "mobile": "+49 177 9288383",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-09T17:00:00+02:00",
+        "date_ts": 1778338800,
+        "description": null,
+        "signUpDate": "2026-05-09 10:09:00",
+        "profile": {
+            "id": 565142,
+            "name": "Alicia Artschwager",
+            "avatar": "/api/uploads/91ae7efe-a800-4b40-a3ca-09a0f1edebdf",
+            "isSleeping": 0,
+            "mobile": "+4915678204239",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-10T17:00:00+02:00",
+        "date_ts": 1778425200,
+        "description": null,
+        "signUpDate": "2026-05-03 10:15:46",
+        "profile": {
+            "id": 565142,
+            "name": "Alicia Artschwager",
+            "avatar": "/api/uploads/91ae7efe-a800-4b40-a3ca-09a0f1edebdf",
+            "isSleeping": 0,
+            "mobile": "+4915678204239",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-11T17:00:00+02:00",
+        "date_ts": 1778511600,
+        "description": "",
+        "signUpDate": "2026-05-09 19:05:37",
+        "profile": {
+            "id": 130177,
+            "name": "Eylem Kurtdereli",
+            "avatar": "/api/uploads/bc3983e7-ad1c-4b99-9c7d-aaff2ae7243e",
+            "isSleeping": 0,
+            "mobile": "+491634673408",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-12T17:00:00+02:00",
+        "date_ts": 1778598000,
+        "description": "",
+        "signUpDate": "2026-04-23 07:31:33",
+        "profile": {
+            "id": 416008,
+            "name": "Natascha Riethe",
+            "avatar": "/api/uploads/a5d8952b-d379-4016-a179-7a8a33af2087",
+            "isSleeping": 0,
+            "mobile": "+49 163 7024879",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-13T17:00:00+02:00",
+        "date_ts": 1778684400,
+        "description": "",
+        "signUpDate": "2026-05-11 18:52:08",
+        "profile": {
+            "id": 557897,
+            "name": "Alexander Stecher",
+            "avatar": "/api/uploads/4cc25f46-c866-44ff-a094-fa97df69b200",
+            "isSleeping": 0,
+            "mobile": "+49 160 7726418",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 0,
+        "date": "2026-05-17T17:00:00+02:00",
+        "date_ts": 1779030000,
+        "description": null,
+        "signUpDate": "2026-05-17 00:37:14",
+        "profile": {
+            "id": 96959,
+            "name": "Anna Babot",
+            "avatar": "/api/uploads/f7cdf635-5bda-44cd-8829-040b02f00b5b",
+            "isSleeping": 0,
+            "mobile": "+49 173 9550471",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-19T17:00:00+02:00",
+        "date_ts": 1779202800,
+        "description": "",
+        "signUpDate": "2026-05-05 22:27:13",
+        "profile": {
+            "id": 836658,
+            "name": "Maria Wölbert",
+            "avatar": "/api/uploads/c455dfa7-da1d-43bd-9f14-6b2dff02edd2",
+            "isSleeping": 0,
+            "mobile": "+49 1577 2930922",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-21T17:00:00+02:00",
+        "date_ts": 1779375600,
+        "description": "",
+        "signUpDate": "2026-05-16 10:39:33",
+        "profile": {
+            "id": 416008,
+            "name": "Natascha Riethe",
+            "avatar": "/api/uploads/a5d8952b-d379-4016-a179-7a8a33af2087",
+            "isSleeping": 0,
+            "mobile": "+49 163 7024879",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-22T17:00:00+02:00",
+        "date_ts": 1779462000,
+        "description": null,
+        "signUpDate": "2026-05-01 19:03:07",
+        "profile": {
+            "id": 708613,
+            "name": "Mandy Lesiok",
+            "avatar": "/api/uploads/790ca9fe-b656-42fd-9143-83f090b9bbae",
+            "isSleeping": 1,
+            "mobile": "+49 177 9288383",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-24T17:00:00+02:00",
+        "date_ts": 1779634800,
+        "description": null,
+        "signUpDate": "2026-05-19 16:13:32",
+        "profile": {
+            "id": 63772,
+            "name": "Lina Tennhardt",
+            "avatar": "/api/uploads/64b8603e-6246-4da3-893d-bbbfbf03810d",
+            "isSleeping": 0,
+            "mobile": "+49 1523 6402788",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-26T17:00:00+02:00",
+        "date_ts": 1779807600,
+        "description": "",
+        "signUpDate": "2026-05-05 22:27:25",
+        "profile": {
+            "id": 836658,
+            "name": "Maria Wölbert",
+            "avatar": "/api/uploads/c455dfa7-da1d-43bd-9f14-6b2dff02edd2",
+            "isSleeping": 0,
+            "mobile": "+49 1577 2930922",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-27T17:00:00+02:00",
+        "date_ts": 1779894000,
+        "description": "",
+        "signUpDate": "2026-05-19 15:23:36",
+        "profile": {
+            "id": 828379,
+            "name": "Gretha Keim",
+            "avatar": "/api/uploads/5465c880-4e53-4e61-9f6e-cec4821ca48f",
+            "isSleeping": 0,
+            "mobile": "+49 1573 3724442",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-28T17:00:00+02:00",
+        "date_ts": 1779980400,
+        "description": "",
+        "signUpDate": "2026-05-16 10:39:41",
+        "profile": {
+            "id": 416008,
+            "name": "Natascha Riethe",
+            "avatar": "/api/uploads/a5d8952b-d379-4016-a179-7a8a33af2087",
+            "isSleeping": 0,
+            "mobile": "+49 163 7024879",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 0,
+        "date": "2026-05-30T17:00:00+02:00",
+        "date_ts": 1780153200,
+        "description": null,
+        "signUpDate": "2026-05-30 13:16:09",
+        "profile": {
+            "id": 209946,
+            "name": "Gabriele Amekuedi",
+            "avatar": "/api/uploads/97b64a49-e4e6-4017-aa5c-01d54035fb31",
+            "isSleeping": 0,
+            "mobile": "+49 1512 9525865",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

@@ -1,0 +1,290 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-05-02T19:00:00+02:00",
+        "date_ts": 1777741200,
+        "description": null,
+        "signUpDate": "2026-04-30 18:59:18",
+        "profile": {
+            "id": 584071,
+            "name": "Caroline",
+            "avatar": "/api/uploads/5911f199-bda8-4e2b-95ff-5ba0af04ef7f",
+            "isSleeping": 0,
+            "mobile": "+49 176 56828153",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-03T19:00:00+02:00",
+        "date_ts": 1777827600,
+        "description": null,
+        "signUpDate": "2026-04-30 21:55:16",
+        "profile": {
+            "id": 858450,
+            "name": "Tatiana Gheorghita",
+            "avatar": "/api/uploads/620b7564-bf29-45a4-bd0e-87e2e836acfc",
+            "isSleeping": 1,
+            "mobile": "+49 162 9685400",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-05T19:00:00+02:00",
+        "date_ts": 1778000400,
+        "description": "",
+        "signUpDate": "2026-04-21 22:19:32",
+        "profile": {
+            "id": 716693,
+            "name": "Metehan Önal",
+            "avatar": "/api/uploads/7b426f8b-b1d7-4c88-8302-63220fa5a0b2",
+            "isSleeping": 0,
+            "mobile": "+49 1522 4605029",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-07T19:00:00+02:00",
+        "date_ts": 1778173200,
+        "description": null,
+        "signUpDate": "2026-05-04 19:49:52",
+        "profile": {
+            "id": 833503,
+            "name": "Ermana Ribic",
+            "avatar": "/api/uploads/26eb6349-338c-4707-9dac-ffb6acd4f16a",
+            "isSleeping": 0,
+            "mobile": "+49 177 8882046",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-09T19:00:00+02:00",
+        "date_ts": 1778346000,
+        "description": null,
+        "signUpDate": "2026-04-27 16:13:38",
+        "profile": {
+            "id": 686972,
+            "name": "Lale Yarar",
+            "avatar": "/api/uploads/e9133e85-955f-4157-88ed-6cb078431f16",
+            "isSleeping": 0,
+            "mobile": "+49 178 2135416",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-10T19:00:00+02:00",
+        "date_ts": 1778432400,
+        "description": null,
+        "signUpDate": "2026-04-27 08:45:31",
+        "profile": {
+            "id": 267168,
+            "name": "Doris Peck",
+            "avatar": "/api/uploads/678c52e4-e80c-44e4-8439-840d8a3ca6eb",
+            "isSleeping": 0,
+            "mobile": "+49 174 5611901",
+            "landline": "+49 69 735771",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-12T19:00:00+02:00",
+        "date_ts": 1778605200,
+        "description": "",
+        "signUpDate": "2026-04-28 19:00:13",
+        "profile": {
+            "id": 872540,
+            "name": "Stefan Becker",
+            "avatar": "/api/uploads/0681c670-824c-44db-b4f2-8b2f550a5775",
+            "isSleeping": 0,
+            "mobile": "+49 173 3496612",
+            "landline": "+49 69 30838769",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-14T19:00:00+02:00",
+        "date_ts": 1778778000,
+        "description": null,
+        "signUpDate": "2026-04-30 19:00:07",
+        "profile": {
+            "id": 686974,
+            "name": "Sibel Yarar",
+            "avatar": "/api/uploads/7bcfecaf-3296-49b1-ab1d-4cecb28f52eb",
+            "isSleeping": 0,
+            "mobile": "+49 172 6886032",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-16T19:00:00+02:00",
+        "date_ts": 1778950800,
+        "description": null,
+        "signUpDate": "2026-05-13 03:08:20",
+        "profile": {
+            "id": 858450,
+            "name": "Tatiana Gheorghita",
+            "avatar": "/api/uploads/620b7564-bf29-45a4-bd0e-87e2e836acfc",
+            "isSleeping": 1,
+            "mobile": "+49 162 9685400",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-17T19:00:00+02:00",
+        "date_ts": 1779037200,
+        "description": null,
+        "signUpDate": "2026-05-07 12:11:07",
+        "profile": {
+            "id": 978517,
+            "name": "Emmanuel Remus",
+            "avatar": "/api/uploads/4e313b85-fa31-477c-9688-59309d5a8fd4",
+            "isSleeping": 0,
+            "mobile": "+49 1511 5417446",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-19T19:00:00+02:00",
+        "date_ts": 1779210000,
+        "description": "",
+        "signUpDate": "2026-05-05 19:00:44",
+        "profile": {
+            "id": 716693,
+            "name": "Metehan Önal",
+            "avatar": "/api/uploads/7b426f8b-b1d7-4c88-8302-63220fa5a0b2",
+            "isSleeping": 0,
+            "mobile": "+49 1522 4605029",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-21T19:00:00+02:00",
+        "date_ts": 1779382800,
+        "description": null,
+        "signUpDate": "2026-05-16 12:58:08",
+        "profile": {
+            "id": 686972,
+            "name": "Lale Yarar",
+            "avatar": "/api/uploads/e9133e85-955f-4157-88ed-6cb078431f16",
+            "isSleeping": 0,
+            "mobile": "+49 178 2135416",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-23T19:00:00+02:00",
+        "date_ts": 1779555600,
+        "description": null,
+        "signUpDate": "2026-05-16 16:18:28",
+        "profile": {
+            "id": 267168,
+            "name": "Doris Peck",
+            "avatar": "/api/uploads/678c52e4-e80c-44e4-8439-840d8a3ca6eb",
+            "isSleeping": 0,
+            "mobile": "+49 174 5611901",
+            "landline": "+49 69 735771",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-24T19:00:00+02:00",
+        "date_ts": 1779642000,
+        "description": null,
+        "signUpDate": "2026-05-23 03:38:59",
+        "profile": {
+            "id": 872540,
+            "name": "Stefan Becker",
+            "avatar": "/api/uploads/0681c670-824c-44db-b4f2-8b2f550a5775",
+            "isSleeping": 0,
+            "mobile": "+49 173 3496612",
+            "landline": "+49 69 30838769",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-26T19:00:00+02:00",
+        "date_ts": 1779814800,
+        "description": "",
+        "signUpDate": "2026-05-15 00:21:32",
+        "profile": {
+            "id": 681494,
+            "name": "Martina Bahlmann",
+            "avatar": "/api/uploads/f1527d1c-8bee-49d0-989d-6a188506544a",
+            "isSleeping": 0,
+            "mobile": "+49 171 9337752",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-28T19:00:00+02:00",
+        "date_ts": 1779987600,
+        "description": null,
+        "signUpDate": "2026-05-14 19:00:07",
+        "profile": {
+            "id": 872540,
+            "name": "Stefan Becker",
+            "avatar": "/api/uploads/0681c670-824c-44db-b4f2-8b2f550a5775",
+            "isSleeping": 0,
+            "mobile": "+49 173 3496612",
+            "landline": "+49 69 30838769",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-30T19:00:00+02:00",
+        "date_ts": 1780160400,
+        "description": null,
+        "signUpDate": "2026-05-28 13:11:43",
+        "profile": {
+            "id": 686974,
+            "name": "Sibel Yarar",
+            "avatar": "/api/uploads/7bcfecaf-3296-49b1-ab1d-4cecb28f52eb",
+            "isSleeping": 0,
+            "mobile": "+49 172 6886032",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-31T19:00:00+02:00",
+        "date_ts": 1780246800,
+        "description": null,
+        "signUpDate": "2026-05-30 17:50:13",
+        "profile": {
+            "id": 872540,
+            "name": "Stefan Becker",
+            "avatar": "/api/uploads/0681c670-824c-44db-b4f2-8b2f550a5775",
+            "isSleeping": 0,
+            "mobile": "+49 173 3496612",
+            "landline": "+49 69 30838769",
+            "isManager": true
+        }
+    }
+]

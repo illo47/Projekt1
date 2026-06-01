@@ -1,0 +1,642 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-05-01T19:00:00+02:00",
+        "date_ts": 1777654800,
+        "description": "Zeit für Brot",
+        "signUpDate": "2026-04-30 10:24:34",
+        "profile": {
+            "id": 693099,
+            "name": "Lisanne Fleischer",
+            "avatar": "/api/uploads/b1a68907-f2dc-4ca3-b4d3-29e616b25f6c",
+            "isSleeping": 1,
+            "mobile": "+4915736163643",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-01T19:00:00+02:00",
+        "date_ts": 1777654800,
+        "description": "Zeit für Brot",
+        "signUpDate": "2026-04-30 11:46:35",
+        "profile": {
+            "id": 970070,
+            "name": "Sarah Schindler",
+            "avatar": "/api/uploads/1a3d088f-6ed6-4f40-b5d8-b6b203b69d3c",
+            "isSleeping": 0,
+            "mobile": "+49 179 9904775",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-01T19:00:00+02:00",
+        "date_ts": 1777654800,
+        "description": "Zeit für Brot",
+        "signUpDate": "2026-04-30 12:53:49",
+        "profile": {
+            "id": 676235,
+            "name": "Marit Trantel",
+            "avatar": "/api/uploads/9f442e73-04ff-4f41-853b-282c39c8bfdf",
+            "isSleeping": 0,
+            "mobile": "+49 1512 0732461",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-04T21:00:00+02:00",
+        "date_ts": 1777921200,
+        "description": "Tegut auf der Berger Straße 195",
+        "signUpDate": "2026-05-01 11:22:11",
+        "profile": {
+            "id": 1003583,
+            "name": "Wahida Ouhssaine - Azaouagh",
+            "avatar": "/api/uploads/1bae82d7-62a8-4097-b529-0b830d95c012",
+            "isSleeping": 0,
+            "mobile": "+49 178 3600009",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-05T19:15:00+02:00",
+        "date_ts": 1778001300,
+        "description": "Aldi Nieder-Erlenbach",
+        "signUpDate": "2026-05-05 16:00:54",
+        "profile": {
+            "id": 96959,
+            "name": "Anna Babot",
+            "avatar": "/api/uploads/f7cdf635-5bda-44cd-8829-040b02f00b5b",
+            "isSleeping": 0,
+            "mobile": "+49 173 9550471",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-06T21:00:00+02:00",
+        "date_ts": 1778094000,
+        "description": " Tegut Berger Straße",
+        "signUpDate": "2026-05-05 08:50:05",
+        "profile": {
+            "id": 887940,
+            "name": "Ines Müller",
+            "avatar": "/api/uploads/424908a5-7798-4603-8f84-9ce5af496e42",
+            "isSleeping": 0,
+            "mobile": "+49 176 22890032",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-08T21:00:00+02:00",
+        "date_ts": 1778266800,
+        "description": "Tegut Berger Str.",
+        "signUpDate": "2026-05-07 11:47:40",
+        "profile": {
+            "id": 828268,
+            "name": "Aline Eckert",
+            "avatar": "/api/uploads/00149f88-9642-4f4c-b3f1-bf4cc76c7416",
+            "isSleeping": 0,
+            "mobile": "+49 177 4447680",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-09T19:40:00+02:00",
+        "date_ts": 1778348400,
+        "description": "Alnatura-Filiale im Westend",
+        "signUpDate": "2026-05-08 18:17:59",
+        "profile": {
+            "id": 978989,
+            "name": "Kerstin Siebke",
+            "avatar": "/api/uploads/11ebf02d-c2d1-46df-8bc7-3342a62b9958",
+            "isSleeping": 0,
+            "mobile": "+49 163 8271427",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-09T19:40:00+02:00",
+        "date_ts": 1778348400,
+        "description": "Alnatura-Filiale im Westend",
+        "signUpDate": "2026-05-08 19:52:10",
+        "profile": {
+            "id": 887940,
+            "name": "Ines Müller",
+            "avatar": "/api/uploads/424908a5-7798-4603-8f84-9ce5af496e42",
+            "isSleeping": 0,
+            "mobile": "+49 176 22890032",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-12T17:45:00+02:00",
+        "date_ts": 1778600700,
+        "description": "Wochenmarkt Südbahnhof",
+        "signUpDate": "2026-05-12 16:46:36",
+        "profile": {
+            "id": 1003583,
+            "name": "Wahida Ouhssaine - Azaouagh",
+            "avatar": "/api/uploads/1bae82d7-62a8-4097-b529-0b830d95c012",
+            "isSleeping": 0,
+            "mobile": "+49 178 3600009",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-13T19:00:00+02:00",
+        "date_ts": 1778691600,
+        "description": " Rewe Lokalbahnhof",
+        "signUpDate": "2026-05-12 19:19:13",
+        "profile": {
+            "id": 1003583,
+            "name": "Wahida Ouhssaine - Azaouagh",
+            "avatar": "/api/uploads/1bae82d7-62a8-4097-b529-0b830d95c012",
+            "isSleeping": 0,
+            "mobile": "+49 178 3600009",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-16T19:00:00+02:00",
+        "date_ts": 1778950800,
+        "description": "Alnatura Bockenheim",
+        "signUpDate": "2026-05-16 18:50:46",
+        "profile": {
+            "id": 978517,
+            "name": "Emmanuel Remus",
+            "avatar": "/api/uploads/4e313b85-fa31-477c-9688-59309d5a8fd4",
+            "isSleeping": 0,
+            "mobile": "+49 1511 5417446",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-16T19:40:00+02:00",
+        "date_ts": 1778953200,
+        "description": "Alnatura Westend",
+        "signUpDate": "2026-05-14 19:33:05",
+        "profile": {
+            "id": 828268,
+            "name": "Aline Eckert",
+            "avatar": "/api/uploads/00149f88-9642-4f4c-b3f1-bf4cc76c7416",
+            "isSleeping": 0,
+            "mobile": "+49 177 4447680",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-16T19:40:00+02:00",
+        "date_ts": 1778953200,
+        "description": "Alnatura Westend",
+        "signUpDate": "2026-05-16 19:09:37",
+        "profile": {
+            "id": 267370,
+            "name": "Julia Wagner",
+            "avatar": "/api/uploads/0a004c58-4707-45ed-8d3b-48eb5cf0e947",
+            "isSleeping": 1,
+            "mobile": "+491775909617",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-16T20:01:00+02:00",
+        "date_ts": 1778954460,
+        "description": "Rewe Lokalbahnhof",
+        "signUpDate": "2026-05-16 11:11:19",
+        "profile": {
+            "id": 1003583,
+            "name": "Wahida Ouhssaine - Azaouagh",
+            "avatar": "/api/uploads/1bae82d7-62a8-4097-b529-0b830d95c012",
+            "isSleeping": 0,
+            "mobile": "+49 178 3600009",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-16T20:30:00+02:00",
+        "date_ts": 1778956200,
+        "description": "Penny in Bonames",
+        "signUpDate": "2026-05-14 10:42:30",
+        "profile": {
+            "id": 899316,
+            "name": "Nadine Bauer",
+            "avatar": "/api/uploads/66a944e0-47e4-4ab8-8127-e6ad23d0a818",
+            "isSleeping": 0,
+            "mobile": "+49 172 2947207",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-20T19:00:00+02:00",
+        "date_ts": 1779296400,
+        "description": "Rewe Lokalbahnhof",
+        "signUpDate": "2026-05-19 12:29:20",
+        "profile": {
+            "id": 828268,
+            "name": "Aline Eckert",
+            "avatar": "/api/uploads/00149f88-9642-4f4c-b3f1-bf4cc76c7416",
+            "isSleeping": 0,
+            "mobile": "+49 177 4447680",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-23T15:55:00+02:00",
+        "date_ts": 1779544500,
+        "description": "Vogelsbergbäcker",
+        "signUpDate": "2026-05-23 11:41:20",
+        "profile": {
+            "id": 772113,
+            "name": "Dominic Kaniyamparampil",
+            "avatar": "/api/uploads/16bfdd89-6864-487c-a154-0e860ad6e110",
+            "isSleeping": 0,
+            "mobile": "+49 1522 4325137",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-23T17:00:00+02:00",
+        "date_ts": 1779548400,
+        "description": "Alnatura Schweizer Straße",
+        "signUpDate": "2026-05-23 10:33:57",
+        "profile": {
+            "id": 935091,
+            "name": "Thies Hagewald",
+            "avatar": "/api/uploads/8bcf5432-abcc-4578-afb5-5bad00add2ad",
+            "isSleeping": 0,
+            "mobile": "+49 173 5405564",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-23T19:40:00+02:00",
+        "date_ts": 1779558000,
+        "description": "Alnatura Westend",
+        "signUpDate": "2026-05-23 08:57:22",
+        "profile": {
+            "id": 39907,
+            "name": "Katharina Andres",
+            "avatar": "/api/uploads/984830cb-000a-49af-b918-ec448bb2e07a",
+            "isSleeping": 1,
+            "mobile": "+49 172 6183074",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-23T20:45:00+02:00",
+        "date_ts": 1779561900,
+        "description": "Aldi auf der Darmstädter Landstraße",
+        "signUpDate": "2026-05-21 17:55:06",
+        "profile": {
+            "id": 935091,
+            "name": "Thies Hagewald",
+            "avatar": "/api/uploads/8bcf5432-abcc-4578-afb5-5bad00add2ad",
+            "isSleeping": 0,
+            "mobile": "+49 173 5405564",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-23T21:00:00+02:00",
+        "date_ts": 1779562800,
+        "description": " Tegut auf der Berger Straße 195",
+        "signUpDate": "2026-05-21 19:33:32",
+        "profile": {
+            "id": 920008,
+            "name": "Rifat Halili",
+            "avatar": "/api/uploads/5e9cd13f-7aee-4081-aac1-ed0c72229450",
+            "isSleeping": 0,
+            "mobile": "+49 172 7720449",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-24T15:55:00+02:00",
+        "date_ts": 1779630900,
+        "description": "Vogelsbergbäcker",
+        "signUpDate": "2026-05-23 20:45:02",
+        "profile": {
+            "id": 964211,
+            "name": "Alexandra Päzolt",
+            "avatar": "/api/uploads/fa68fe27-1d3d-4084-a8e5-4cabfc855ffc",
+            "isSleeping": 0,
+            "mobile": "+49 172 4271057",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-24T19:00:00+02:00",
+        "date_ts": 1779642000,
+        "description": "Zeit für Brot in der Schweizer Straße (autofrei)",
+        "signUpDate": "2026-05-22 21:36:38",
+        "profile": {
+            "id": 487210,
+            "name": "Julian Zimmermann",
+            "avatar": "/api/uploads/b65c1484-2e31-4b2e-b03b-314c1d8b78d3",
+            "isSleeping": 0,
+            "mobile": "+49 1577 2107180",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-24T19:00:00+02:00",
+        "date_ts": 1779642000,
+        "description": "Zeit für Brot in der Schweizer Straße (autofrei)",
+        "signUpDate": "2026-05-22 22:43:24",
+        "profile": {
+            "id": 792959,
+            "name": "Nineli Tandilashvili Jalali",
+            "avatar": "/api/uploads/27998d2c-57a7-4980-8598-2112dff599f2",
+            "isSleeping": 0,
+            "mobile": "+49 1575 0134343",
+            "landline": "+49 1575 0134343",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-27T18:00:00+02:00",
+        "date_ts": 1779897600,
+        "description": "Aldi Ginnheim; 1x Auto, 1x flexibel",
+        "signUpDate": "2026-05-27 12:46:58",
+        "profile": {
+            "id": 660626,
+            "name": "Manuela Schwinghammer",
+            "avatar": "/api/uploads/0d634aa1-4ed3-49a7-8e93-799cc5516e49",
+            "isSleeping": 0,
+            "mobile": "+49 176 24244548",
+            "landline": "+49 176 24244548",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-27T18:59:00+02:00",
+        "date_ts": 1779901140,
+        "description": "Zeit für Brot in der Kaiserstraße Fußgänger ",
+        "signUpDate": "2026-05-27 16:32:33",
+        "profile": {
+            "id": 875441,
+            "name": "Christoph Lokotsch-Schmidt",
+            "avatar": "/api/uploads/98180a11-8fef-4f89-9192-5b854709734a",
+            "isSleeping": 0,
+            "mobile": "+49 176 38200374",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-27T19:00:00+02:00",
+        "date_ts": 1779901200,
+        "description": "Rewe Lokalbahnhof",
+        "signUpDate": "2026-05-27 08:27:13",
+        "profile": {
+            "id": 542923,
+            "name": "Almuth Turré",
+            "avatar": "/api/uploads/5b58bbbc-8774-4269-9be6-cea8c0d1f8ae",
+            "isSleeping": 0,
+            "mobile": "+49 173 9259103",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-27T20:00:00+02:00",
+        "date_ts": 1779904800,
+        "description": "Zeit für Brot in der Schweizer Straße ",
+        "signUpDate": "2026-05-27 14:41:18",
+        "profile": {
+            "id": 859332,
+            "name": "Friedhelm Schmitt",
+            "avatar": "/api/uploads/e89290b7-b9f2-4594-a183-6385b960285e",
+            "isSleeping": 0,
+            "mobile": "+49 160 8547852",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-27T20:00:00+02:00",
+        "date_ts": 1779904800,
+        "description": "Zeit für Brot in der Schweizer Straße ",
+        "signUpDate": "2026-05-27 14:44:51",
+        "profile": {
+            "id": 378759,
+            "name": "Katharine Cloppenburg",
+            "avatar": "/api/uploads/2488b561-d695-47c8-babd-29d91503e1ce",
+            "isSleeping": 0,
+            "mobile": "+491707272153",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-28T19:00:00+02:00",
+        "date_ts": 1779987600,
+        "description": "Backfactory Bornheim Mitte",
+        "signUpDate": "2026-05-28 10:30:17",
+        "profile": {
+            "id": 1015038,
+            "name": "Stefanie Timm",
+            "avatar": "/api/uploads/2449563f-ff8e-4555-a20b-594349f082ba",
+            "isSleeping": 0,
+            "mobile": "+49 163 9765761",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-28T19:59:00+02:00",
+        "date_ts": 1779991140,
+        "description": "Rewe Cronberg-Platz",
+        "signUpDate": "2026-05-26 21:27:26",
+        "profile": {
+            "id": 233605,
+            "name": "Vanessa Fascher",
+            "avatar": "/api/uploads/1a63e8be-9ad5-4e06-ab38-9baa860c7493",
+            "isSleeping": 0,
+            "mobile": "+49 177 6383933",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-28T20:00:00+02:00",
+        "date_ts": 1779991200,
+        "description": "Aldi Töngesgasse, nahe Hauptwache",
+        "signUpDate": "2026-05-28 12:10:49",
+        "profile": {
+            "id": 340877,
+            "name": "Heidrun Janke",
+            "avatar": "/api/uploads/d17fac8d-b608-4473-9a74-4ee40c97bb06",
+            "isSleeping": 0,
+            "mobile": "+4915758238065",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-28T21:50:00+02:00",
+        "date_ts": 1779997800,
+        "description": "Bäckerei Tradita in Frankfurt-Höchst ",
+        "signUpDate": "2026-05-28 13:19:21",
+        "profile": {
+            "id": 518980,
+            "name": "Monika Schmidt",
+            "avatar": "/api/uploads/3cdead52-8379-468d-a4cc-7c7e2227ce5a",
+            "isSleeping": 0,
+            "mobile": "+49 177 4752089",
+            "landline": "+49 177 4752089",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-29T19:00:00+02:00",
+        "date_ts": 1780074000,
+        "description": "Rewe Lokalbahnhof",
+        "signUpDate": "2026-05-28 15:29:56",
+        "profile": {
+            "id": 828268,
+            "name": "Aline Eckert",
+            "avatar": "/api/uploads/00149f88-9642-4f4c-b3f1-bf4cc76c7416",
+            "isSleeping": 0,
+            "mobile": "+49 177 4447680",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-29T19:59:00+02:00",
+        "date_ts": 1780077540,
+        "description": "Rewe Cronberg-Platz",
+        "signUpDate": "2026-05-26 12:23:47",
+        "profile": {
+            "id": 674990,
+            "name": "Susanne Dürr",
+            "avatar": "/api/uploads/9538aaa5-2ef3-405e-b755-e825468d05e7",
+            "isSleeping": 0,
+            "mobile": "+49 172 2845051",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-30T18:00:00+02:00",
+        "date_ts": 1780156800,
+        "description": "Backfactory Bornheim Mitte",
+        "signUpDate": "2026-05-28 14:52:44",
+        "profile": {
+            "id": 514839,
+            "name": "Kirsten Rössel",
+            "avatar": "/api/uploads/7c3b0891-e26e-42f9-b1ac-b6ffa34f1e9c",
+            "isSleeping": 0,
+            "mobile": "+49 163 4207910",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-30T18:01:00+02:00",
+        "date_ts": 1780156860,
+        "description": "ZfB Kaiserstraße",
+        "signUpDate": "2026-05-30 17:20:57",
+        "profile": {
+            "id": 978989,
+            "name": "Kerstin Siebke",
+            "avatar": "/api/uploads/11ebf02d-c2d1-46df-8bc7-3342a62b9958",
+            "isSleeping": 0,
+            "mobile": "+49 163 8271427",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-31T19:00:00+02:00",
+        "date_ts": 1780246800,
+        "description": "Zeit für Brot in der Schweizer Straße",
+        "signUpDate": "2026-05-30 09:04:07",
+        "profile": {
+            "id": 1003583,
+            "name": "Wahida Ouhssaine - Azaouagh",
+            "avatar": "/api/uploads/1bae82d7-62a8-4097-b529-0b830d95c012",
+            "isSleeping": 0,
+            "mobile": "+49 178 3600009",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-31T19:00:00+02:00",
+        "date_ts": 1780246800,
+        "description": "Zeit für Brot in der Schweizer Straße",
+        "signUpDate": "2026-05-30 09:04:53",
+        "profile": {
+            "id": 970070,
+            "name": "Sarah Schindler",
+            "avatar": "/api/uploads/1a3d088f-6ed6-4f40-b5d8-b6b203b69d3c",
+            "isSleeping": 0,
+            "mobile": "+49 179 9904775",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

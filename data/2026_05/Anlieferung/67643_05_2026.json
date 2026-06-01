@@ -1,0 +1,130 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-05-07T22:00:00+02:00",
+        "date_ts": 1778184000,
+        "description": "Anlieferung Do Abend zw. 18 und 22 Uhr ",
+        "signUpDate": "2026-05-06 18:22:44",
+        "profile": {
+            "id": 873830,
+            "name": "Corina Vlas",
+            "avatar": "/api/uploads/e3cc0c18-48bc-4b27-ad6b-52cfa5dea607",
+            "isSleeping": 0,
+            "mobile": "+49 176 56849210",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-07T22:00:00+02:00",
+        "date_ts": 1778184000,
+        "description": "Anlieferung Do Abend zw. 18 und 22 Uhr ",
+        "signUpDate": "2026-05-07 17:27:23",
+        "profile": {
+            "id": 905187,
+            "name": "Tatjana Abich",
+            "avatar": "/api/uploads/a83e8247-b1b9-4f52-ac50-26ec2105bce7",
+            "isSleeping": 0,
+            "mobile": "+49 173 6508516",
+            "landline": "+49 6172 8552481",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-13T22:00:00+02:00",
+        "date_ts": 1778702400,
+        "description": "Anlieferung Mittwoch Abend vor dem Feiertag zw. 18-22 Uhr",
+        "signUpDate": "2026-05-13 18:52:44",
+        "profile": {
+            "id": 873830,
+            "name": "Corina Vlas",
+            "avatar": "/api/uploads/e3cc0c18-48bc-4b27-ad6b-52cfa5dea607",
+            "isSleeping": 0,
+            "mobile": "+49 176 56849210",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-14T22:00:00+02:00",
+        "date_ts": 1778788800,
+        "description": "Anlieferung Do Abend zw. 18 und 22 Uhr ",
+        "signUpDate": "2026-05-13 15:28:47",
+        "profile": {
+            "id": 970070,
+            "name": "Sarah Schindler",
+            "avatar": "/api/uploads/1a3d088f-6ed6-4f40-b5d8-b6b203b69d3c",
+            "isSleeping": 0,
+            "mobile": "+49 179 9904775",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-14T22:00:00+02:00",
+        "date_ts": 1778788800,
+        "description": "Anlieferung Do Abend zw. 18 und 22 Uhr ",
+        "signUpDate": "2026-05-13 15:48:17",
+        "profile": {
+            "id": 132132,
+            "name": "Lisa Weipert",
+            "avatar": "/api/uploads/3841ddc5-5571-4faf-bf79-256270c21f1f",
+            "isSleeping": 0,
+            "mobile": "+49 176 31671626",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-21T22:00:00+02:00",
+        "date_ts": 1779393600,
+        "description": "Anlieferung Do Abend zw. 18 und 22 Uhr ",
+        "signUpDate": "2026-05-18 14:35:02",
+        "profile": {
+            "id": 831512,
+            "name": "Annette Prohl",
+            "avatar": "/api/uploads/4d44a8ff-b903-4138-a3fe-4aaeb2bff5bd",
+            "isSleeping": 0,
+            "mobile": "+49 176 83695954",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-21T22:00:00+02:00",
+        "date_ts": 1779393600,
+        "description": "Anlieferung Do Abend zw. 18 und 22 Uhr ",
+        "signUpDate": "2026-05-18 16:02:41",
+        "profile": {
+            "id": 869668,
+            "name": "Marianne Anna Bauder",
+            "avatar": "/api/uploads/a3da78a6-cbe1-4e28-ab27-7f075fad12cd",
+            "isSleeping": 1,
+            "mobile": "+49 171 1716757",
+            "landline": "+49 69 95102823",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-28T22:00:00+02:00",
+        "date_ts": 1779998400,
+        "description": "Anlieferung Do Abend zw. 18 und 22 Uhr ",
+        "signUpDate": "2026-05-01 10:05:10",
+        "profile": {
+            "id": 789902,
+            "name": "Maja Krawczyk-Sünder",
+            "avatar": "/api/uploads/260d7f4a-eeeb-4f74-a4d5-a6b4c6171ed7",
+            "isSleeping": 0,
+            "mobile": "+49 1577 1380280",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

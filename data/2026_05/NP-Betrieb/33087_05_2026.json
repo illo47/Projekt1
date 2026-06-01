@@ -1,0 +1,498 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-05-01T18:10:00+02:00",
+        "date_ts": 1777651800,
+        "description": "Abholung heute um 17 Uhr ",
+        "signUpDate": "2026-04-19 23:47:59",
+        "profile": {
+            "id": 266487,
+            "name": "Florian Schöniger",
+            "avatar": "/api/uploads/e1561556-73d4-4928-bfc4-9bbefbf7499c",
+            "isSleeping": 1,
+            "mobile": "+49 179 6913746",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-02T18:15:00+02:00",
+        "date_ts": 1777738500,
+        "description": null,
+        "signUpDate": "2026-04-30 14:54:21",
+        "profile": {
+            "id": 196573,
+            "name": "Felix Podewils",
+            "avatar": "/api/uploads/704ebe78-08c5-4cd5-bcc2-e53201f1e93f",
+            "isSleeping": 0,
+            "mobile": "+491796662461",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-03T18:00:00+02:00",
+        "date_ts": 1777824000,
+        "description": null,
+        "signUpDate": "2026-04-26 20:48:42",
+        "profile": {
+            "id": 196573,
+            "name": "Felix Podewils",
+            "avatar": "/api/uploads/704ebe78-08c5-4cd5-bcc2-e53201f1e93f",
+            "isSleeping": 0,
+            "mobile": "+491796662461",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-04T18:10:00+02:00",
+        "date_ts": 1777911000,
+        "description": null,
+        "signUpDate": "2026-05-01 02:31:48",
+        "profile": {
+            "id": 449352,
+            "name": "Marco von der Heyden",
+            "avatar": "/api/uploads/89f5e99e-46ae-4e51-8313-64ada5caa94b",
+            "isSleeping": 0,
+            "mobile": "+49 177 8616534",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-05T18:10:00+02:00",
+        "date_ts": 1777997400,
+        "description": null,
+        "signUpDate": "2026-04-24 19:01:29",
+        "profile": {
+            "id": 541315,
+            "name": "Juliane Link",
+            "avatar": "/api/uploads/6f5d9f20-a88b-480c-b8b7-f9905c7fd0a2",
+            "isSleeping": 1,
+            "mobile": "+4917631152354",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-06T18:10:00+02:00",
+        "date_ts": 1778083800,
+        "description": null,
+        "signUpDate": "2026-04-22 18:40:14",
+        "profile": {
+            "id": 755301,
+            "name": "David Mutschler",
+            "avatar": "/api/uploads/0b9bd455-0a80-4553-bb9b-e869eb8984be",
+            "isSleeping": 0,
+            "mobile": "+49 1590 8697413",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-07T18:10:00+02:00",
+        "date_ts": 1778170200,
+        "description": null,
+        "signUpDate": "2026-05-07 08:30:34",
+        "profile": {
+            "id": 429425,
+            "name": "Sarah Franchini",
+            "avatar": "/api/uploads/c98eacb9-f25c-4dbc-a280-bc7d38fb8aee",
+            "isSleeping": 0,
+            "mobile": "+49 15257692652",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-08T18:10:00+02:00",
+        "date_ts": 1778256600,
+        "description": null,
+        "signUpDate": "2026-05-01 22:47:01",
+        "profile": {
+            "id": 621900,
+            "name": "Florian Petri",
+            "avatar": "/api/uploads/0088c931-b6d6-4d57-9318-00eda6e7ab77",
+            "isSleeping": 0,
+            "mobile": "+49 1578 3847471",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-09T18:15:00+02:00",
+        "date_ts": 1778343300,
+        "description": null,
+        "signUpDate": "2026-05-03 17:13:23",
+        "profile": {
+            "id": 978989,
+            "name": "Kerstin Siebke",
+            "avatar": "/api/uploads/11ebf02d-c2d1-46df-8bc7-3342a62b9958",
+            "isSleeping": 0,
+            "mobile": "+49 163 8271427",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-10T18:00:00+02:00",
+        "date_ts": 1778428800,
+        "description": null,
+        "signUpDate": "2026-05-06 11:10:12",
+        "profile": {
+            "id": 196573,
+            "name": "Felix Podewils",
+            "avatar": "/api/uploads/704ebe78-08c5-4cd5-bcc2-e53201f1e93f",
+            "isSleeping": 0,
+            "mobile": "+491796662461",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-11T18:10:00+02:00",
+        "date_ts": 1778515800,
+        "description": null,
+        "signUpDate": "2026-05-11 06:33:19",
+        "profile": {
+            "id": 1002593,
+            "name": "Corinna Wiedenmann",
+            "avatar": "/api/uploads/4fa47c62-1e4a-4958-bba7-82d6090b0350",
+            "isSleeping": 0,
+            "mobile": "+49 176 42099752",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-12T18:10:00+02:00",
+        "date_ts": 1778602200,
+        "description": null,
+        "signUpDate": "2026-05-11 23:18:57",
+        "profile": {
+            "id": 449352,
+            "name": "Marco von der Heyden",
+            "avatar": "/api/uploads/89f5e99e-46ae-4e51-8313-64ada5caa94b",
+            "isSleeping": 0,
+            "mobile": "+49 177 8616534",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-13T18:10:00+02:00",
+        "date_ts": 1778688600,
+        "description": null,
+        "signUpDate": "2026-04-29 19:36:24",
+        "profile": {
+            "id": 755301,
+            "name": "David Mutschler",
+            "avatar": "/api/uploads/0b9bd455-0a80-4553-bb9b-e869eb8984be",
+            "isSleeping": 0,
+            "mobile": "+49 1590 8697413",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-14T18:10:00+02:00",
+        "date_ts": 1778775000,
+        "description": "Christi Himmelfahrt, Abholung 18:00 Uhr",
+        "signUpDate": "2026-05-01 14:02:10",
+        "profile": {
+            "id": 859332,
+            "name": "Friedhelm Schmitt",
+            "avatar": "/api/uploads/e89290b7-b9f2-4594-a183-6385b960285e",
+            "isSleeping": 0,
+            "mobile": "+49 160 8547852",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-15T18:10:00+02:00",
+        "date_ts": 1778861400,
+        "description": null,
+        "signUpDate": "2026-05-14 19:46:47",
+        "profile": {
+            "id": 266487,
+            "name": "Florian Schöniger",
+            "avatar": "/api/uploads/e1561556-73d4-4928-bfc4-9bbefbf7499c",
+            "isSleeping": 1,
+            "mobile": "+49 179 6913746",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-16T18:15:00+02:00",
+        "date_ts": 1778948100,
+        "description": "Achtung bitte um 15:50 Uhr abholen!",
+        "signUpDate": "2026-05-12 15:26:48",
+        "profile": {
+            "id": 621900,
+            "name": "Florian Petri",
+            "avatar": "/api/uploads/0088c931-b6d6-4d57-9318-00eda6e7ab77",
+            "isSleeping": 0,
+            "mobile": "+49 1578 3847471",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-17T18:00:00+02:00",
+        "date_ts": 1779033600,
+        "description": null,
+        "signUpDate": "2026-05-04 11:28:31",
+        "profile": {
+            "id": 196573,
+            "name": "Felix Podewils",
+            "avatar": "/api/uploads/704ebe78-08c5-4cd5-bcc2-e53201f1e93f",
+            "isSleeping": 0,
+            "mobile": "+491796662461",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-18T18:10:00+02:00",
+        "date_ts": 1779120600,
+        "description": null,
+        "signUpDate": "2026-05-10 23:02:28",
+        "profile": {
+            "id": 266487,
+            "name": "Florian Schöniger",
+            "avatar": "/api/uploads/e1561556-73d4-4928-bfc4-9bbefbf7499c",
+            "isSleeping": 1,
+            "mobile": "+49 179 6913746",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-19T18:10:00+02:00",
+        "date_ts": 1779207000,
+        "description": null,
+        "signUpDate": "2026-05-19 14:29:04",
+        "profile": {
+            "id": 429425,
+            "name": "Sarah Franchini",
+            "avatar": "/api/uploads/c98eacb9-f25c-4dbc-a280-bc7d38fb8aee",
+            "isSleeping": 0,
+            "mobile": "+49 15257692652",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-20T18:10:00+02:00",
+        "date_ts": 1779293400,
+        "description": null,
+        "signUpDate": "2026-05-06 18:13:11",
+        "profile": {
+            "id": 755301,
+            "name": "David Mutschler",
+            "avatar": "/api/uploads/0b9bd455-0a80-4553-bb9b-e869eb8984be",
+            "isSleeping": 0,
+            "mobile": "+49 1590 8697413",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-21T18:10:00+02:00",
+        "date_ts": 1779379800,
+        "description": null,
+        "signUpDate": "2026-05-08 11:55:02",
+        "profile": {
+            "id": 632638,
+            "name": "Francisco Javier Lucas Pena",
+            "avatar": "/api/uploads/01dd9f94-a108-4912-96ba-da0bc5c2ce11",
+            "isSleeping": 0,
+            "mobile": "+49 176 47987165",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-22T18:10:00+02:00",
+        "date_ts": 1779466200,
+        "description": null,
+        "signUpDate": "2026-05-22 12:20:50",
+        "profile": {
+            "id": 621900,
+            "name": "Florian Petri",
+            "avatar": "/api/uploads/0088c931-b6d6-4d57-9318-00eda6e7ab77",
+            "isSleeping": 0,
+            "mobile": "+49 1578 3847471",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-23T18:15:00+02:00",
+        "date_ts": 1779552900,
+        "description": "15:50 Uhr!!",
+        "signUpDate": "2026-05-21 21:31:06",
+        "profile": {
+            "id": 476617,
+            "name": "Manuela Kurze",
+            "avatar": "/api/uploads/59b3d161-3ea3-42e2-b30d-3bab67e7e6ed",
+            "isSleeping": 0,
+            "mobile": "+49 176 34490168",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-24T18:00:00+02:00",
+        "date_ts": 1779638400,
+        "description": null,
+        "signUpDate": "2026-05-11 08:04:11",
+        "profile": {
+            "id": 196573,
+            "name": "Felix Podewils",
+            "avatar": "/api/uploads/704ebe78-08c5-4cd5-bcc2-e53201f1e93f",
+            "isSleeping": 0,
+            "mobile": "+491796662461",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-25T18:10:00+02:00",
+        "date_ts": 1779725400,
+        "description": null,
+        "signUpDate": "2026-05-16 00:38:50",
+        "profile": {
+            "id": 500961,
+            "name": "Mojda Helmand",
+            "avatar": "/api/uploads/7928594d-ab3d-44f4-83c0-e6cc1e50c7c6",
+            "isSleeping": 0,
+            "mobile": "+49 176 43880012",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-26T18:10:00+02:00",
+        "date_ts": 1779811800,
+        "description": null,
+        "signUpDate": "2026-05-16 08:38:52",
+        "profile": {
+            "id": 1002593,
+            "name": "Corinna Wiedenmann",
+            "avatar": "/api/uploads/4fa47c62-1e4a-4958-bba7-82d6090b0350",
+            "isSleeping": 0,
+            "mobile": "+49 176 42099752",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-27T18:10:00+02:00",
+        "date_ts": 1779898200,
+        "description": null,
+        "signUpDate": "2026-05-13 18:31:51",
+        "profile": {
+            "id": 755301,
+            "name": "David Mutschler",
+            "avatar": "/api/uploads/0b9bd455-0a80-4553-bb9b-e869eb8984be",
+            "isSleeping": 0,
+            "mobile": "+49 1590 8697413",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-28T18:10:00+02:00",
+        "date_ts": 1779984600,
+        "description": null,
+        "signUpDate": "2026-05-28 07:51:01",
+        "profile": {
+            "id": 248981,
+            "name": "Alicia Koch",
+            "avatar": "/api/uploads/4752cb98-f3d0-4a09-bdae-49287a043af8",
+            "isSleeping": 0,
+            "mobile": "+49 1791064182",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-29T18:10:00+02:00",
+        "date_ts": 1780071000,
+        "description": null,
+        "signUpDate": "2026-05-27 07:17:58",
+        "profile": {
+            "id": 629424,
+            "name": "Anja Lobbenmeier",
+            "avatar": "/api/uploads/131e67b5-15a5-408d-bb41-b06b50b6a27f",
+            "isSleeping": 0,
+            "mobile": "+4917656776453",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-30T18:15:00+02:00",
+        "date_ts": 1780157700,
+        "description": "16:00 Uhr!",
+        "signUpDate": "2026-05-25 18:28:39",
+        "profile": {
+            "id": 178109,
+            "name": "Ariane Kaehlbrandt",
+            "avatar": "/api/uploads/ff99c39e-1ed2-414a-8818-72e49e72decb",
+            "isSleeping": 1,
+            "mobile": "+49 176 34526691",
+            "landline": "+49 69 40326047",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-31T18:00:00+02:00",
+        "date_ts": 1780243200,
+        "description": null,
+        "signUpDate": "2026-05-18 16:52:40",
+        "profile": {
+            "id": 196573,
+            "name": "Felix Podewils",
+            "avatar": "/api/uploads/704ebe78-08c5-4cd5-bcc2-e53201f1e93f",
+            "isSleeping": 0,
+            "mobile": "+491796662461",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

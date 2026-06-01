@@ -1,0 +1,98 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-05-04T15:15:00+02:00",
+        "date_ts": 1777900500,
+        "description": null,
+        "signUpDate": "2026-04-13 17:25:02",
+        "profile": {
+            "id": 610024,
+            "name": "Tanja Kraushaar",
+            "avatar": "/api/uploads/f81f8c0c-e9b8-4a6e-9bbc-9e072e5e29f6",
+            "isSleeping": 1,
+            "mobile": "+49 1525 9777666",
+            "landline": "+49 1525 9777666",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-11T15:15:00+02:00",
+        "date_ts": 1778505300,
+        "description": null,
+        "signUpDate": "2026-04-20 18:26:44",
+        "profile": {
+            "id": 588433,
+            "name": "Monika Röske",
+            "avatar": "/api/uploads/667a3af4-8cbb-4cac-ad3e-3d6c14120a7e",
+            "isSleeping": 0,
+            "mobile": "+49 1577 4154240",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-11T15:15:00+02:00",
+        "date_ts": 1778505300,
+        "description": null,
+        "signUpDate": "2026-05-11 12:46:55",
+        "profile": {
+            "id": 794490,
+            "name": "Carina Volkmer",
+            "avatar": "/api/uploads/ef16243b-aa67-42c1-8895-d44330d50507",
+            "isSleeping": 0,
+            "mobile": "+49 1512 9500678",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-18T15:15:00+02:00",
+        "date_ts": 1779110100,
+        "description": null,
+        "signUpDate": "2026-05-15 15:24:37",
+        "profile": {
+            "id": 794490,
+            "name": "Carina Volkmer",
+            "avatar": "/api/uploads/ef16243b-aa67-42c1-8895-d44330d50507",
+            "isSleeping": 0,
+            "mobile": "+49 1512 9500678",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-18T15:15:00+02:00",
+        "date_ts": 1779110100,
+        "description": null,
+        "signUpDate": "2026-05-18 14:26:09",
+        "profile": {
+            "id": 923674,
+            "name": "Rolf Täumer",
+            "avatar": "/api/uploads/85dac244-4ce4-4a3e-87fa-b5d7724c617e",
+            "isSleeping": 0,
+            "mobile": "+49 176 96521602",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-18T15:15:00+02:00",
+        "date_ts": 1779110100,
+        "description": null,
+        "signUpDate": "2026-05-18 14:27:21",
+        "profile": {
+            "id": 510212,
+            "name": "Hannah Steinert",
+            "avatar": "/api/uploads/72df578d-154d-40a9-b8f2-5abc650d5422",
+            "isSleeping": 0,
+            "mobile": "+49 1577 4155308",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

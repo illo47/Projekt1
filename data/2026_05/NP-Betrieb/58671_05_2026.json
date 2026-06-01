@@ -1,0 +1,290 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-05-02T20:00:00+02:00",
+        "date_ts": 1777744800,
+        "description": null,
+        "signUpDate": "2026-05-02 19:34:03",
+        "profile": {
+            "id": 872540,
+            "name": "Stefan Becker",
+            "avatar": "/api/uploads/0681c670-824c-44db-b4f2-8b2f550a5775",
+            "isSleeping": 0,
+            "mobile": "+49 173 3496612",
+            "landline": "+49 69 30838769",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-04T20:00:00+02:00",
+        "date_ts": 1777917600,
+        "description": null,
+        "signUpDate": "2026-04-20 18:00:02",
+        "profile": {
+            "id": 344349,
+            "name": "Judith Steinmetz",
+            "avatar": "/api/uploads/da512257-c1b9-4d56-9a40-e123c53b2014",
+            "isSleeping": 0,
+            "mobile": "+49 1573 1645776",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-05T20:00:00+02:00",
+        "date_ts": 1778004000,
+        "description": null,
+        "signUpDate": "2026-04-28 13:30:37",
+        "profile": {
+            "id": 518980,
+            "name": "Monika Schmidt",
+            "avatar": "/api/uploads/3cdead52-8379-468d-a4cc-7c7e2227ce5a",
+            "isSleeping": 0,
+            "mobile": "+49 177 4752089",
+            "landline": "+49 177 4752089",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-07T20:00:00+02:00",
+        "date_ts": 1778176800,
+        "description": null,
+        "signUpDate": "2026-04-27 14:03:52",
+        "profile": {
+            "id": 872540,
+            "name": "Stefan Becker",
+            "avatar": "/api/uploads/0681c670-824c-44db-b4f2-8b2f550a5775",
+            "isSleeping": 0,
+            "mobile": "+49 173 3496612",
+            "landline": "+49 69 30838769",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-08T20:00:00+02:00",
+        "date_ts": 1778263200,
+        "description": null,
+        "signUpDate": "2026-05-07 10:49:39",
+        "profile": {
+            "id": 872540,
+            "name": "Stefan Becker",
+            "avatar": "/api/uploads/0681c670-824c-44db-b4f2-8b2f550a5775",
+            "isSleeping": 0,
+            "mobile": "+49 173 3496612",
+            "landline": "+49 69 30838769",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-11T20:00:00+02:00",
+        "date_ts": 1778522400,
+        "description": null,
+        "signUpDate": "2026-05-10 11:06:06",
+        "profile": {
+            "id": 875441,
+            "name": "Christoph Lokotsch-Schmidt",
+            "avatar": "/api/uploads/98180a11-8fef-4f89-9192-5b854709734a",
+            "isSleeping": 0,
+            "mobile": "+49 176 38200374",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-13T20:00:00+02:00",
+        "date_ts": 1778695200,
+        "description": null,
+        "signUpDate": "2026-05-08 08:11:25",
+        "profile": {
+            "id": 175002,
+            "name": "Detlef Saemann",
+            "avatar": "/api/uploads/0dccec9a-3875-4b58-b372-c8af51d9a3d8",
+            "isSleeping": 0,
+            "mobile": "+49 171 8950408",
+            "landline": "+49 69 97981599",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-15T20:00:00+02:00",
+        "date_ts": 1778868000,
+        "description": null,
+        "signUpDate": "2026-05-05 11:13:19",
+        "profile": {
+            "id": 872540,
+            "name": "Stefan Becker",
+            "avatar": "/api/uploads/0681c670-824c-44db-b4f2-8b2f550a5775",
+            "isSleeping": 0,
+            "mobile": "+49 173 3496612",
+            "landline": "+49 69 30838769",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-16T20:00:00+02:00",
+        "date_ts": 1778954400,
+        "description": null,
+        "signUpDate": "2026-05-16 19:20:17",
+        "profile": {
+            "id": 496999,
+            "name": "Tobias von Essen",
+            "avatar": "/api/uploads/86083d6a-d086-426b-94ea-c5d0735ac468",
+            "isSleeping": 0,
+            "mobile": "+4915141202212",
+            "landline": "",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-18T20:00:00+02:00",
+        "date_ts": 1779127200,
+        "description": null,
+        "signUpDate": "2026-05-14 23:33:15",
+        "profile": {
+            "id": 875441,
+            "name": "Christoph Lokotsch-Schmidt",
+            "avatar": "/api/uploads/98180a11-8fef-4f89-9192-5b854709734a",
+            "isSleeping": 0,
+            "mobile": "+49 176 38200374",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-19T20:00:00+02:00",
+        "date_ts": 1779213600,
+        "description": null,
+        "signUpDate": "2026-04-23 18:10:36",
+        "profile": {
+            "id": 872540,
+            "name": "Stefan Becker",
+            "avatar": "/api/uploads/0681c670-824c-44db-b4f2-8b2f550a5775",
+            "isSleeping": 0,
+            "mobile": "+49 173 3496612",
+            "landline": "+49 69 30838769",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-20T20:00:00+02:00",
+        "date_ts": 1779300000,
+        "description": null,
+        "signUpDate": "2026-05-20 19:50:20",
+        "profile": {
+            "id": 872540,
+            "name": "Stefan Becker",
+            "avatar": "/api/uploads/0681c670-824c-44db-b4f2-8b2f550a5775",
+            "isSleeping": 0,
+            "mobile": "+49 173 3496612",
+            "landline": "+49 69 30838769",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-21T20:00:00+02:00",
+        "date_ts": 1779386400,
+        "description": null,
+        "signUpDate": "2026-05-05 11:14:44",
+        "profile": {
+            "id": 872540,
+            "name": "Stefan Becker",
+            "avatar": "/api/uploads/0681c670-824c-44db-b4f2-8b2f550a5775",
+            "isSleeping": 0,
+            "mobile": "+49 173 3496612",
+            "landline": "+49 69 30838769",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-26T20:00:00+02:00",
+        "date_ts": 1779818400,
+        "description": null,
+        "signUpDate": "2026-05-21 21:02:21",
+        "profile": {
+            "id": 872540,
+            "name": "Stefan Becker",
+            "avatar": "/api/uploads/0681c670-824c-44db-b4f2-8b2f550a5775",
+            "isSleeping": 0,
+            "mobile": "+49 173 3496612",
+            "landline": "+49 69 30838769",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-27T20:00:00+02:00",
+        "date_ts": 1779904800,
+        "description": null,
+        "signUpDate": "2026-05-04 09:39:56",
+        "profile": {
+            "id": 872540,
+            "name": "Stefan Becker",
+            "avatar": "/api/uploads/0681c670-824c-44db-b4f2-8b2f550a5775",
+            "isSleeping": 0,
+            "mobile": "+49 173 3496612",
+            "landline": "+49 69 30838769",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-28T20:00:00+02:00",
+        "date_ts": 1779991200,
+        "description": null,
+        "signUpDate": "2026-05-27 16:40:09",
+        "profile": {
+            "id": 982372,
+            "name": "Beatrice Mahnicke",
+            "avatar": "/api/uploads/e48b58cc-e792-4cbc-9582-eabb12fbc853",
+            "isSleeping": 0,
+            "mobile": "+49 1512 8882525",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-29T20:00:00+02:00",
+        "date_ts": 1780077600,
+        "description": null,
+        "signUpDate": "2026-05-29 19:10:42",
+        "profile": {
+            "id": 872540,
+            "name": "Stefan Becker",
+            "avatar": "/api/uploads/0681c670-824c-44db-b4f2-8b2f550a5775",
+            "isSleeping": 0,
+            "mobile": "+49 173 3496612",
+            "landline": "+49 69 30838769",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-30T20:00:00+02:00",
+        "date_ts": 1780164000,
+        "description": null,
+        "signUpDate": "2026-05-26 23:27:43",
+        "profile": {
+            "id": 982372,
+            "name": "Beatrice Mahnicke",
+            "avatar": "/api/uploads/e48b58cc-e792-4cbc-9582-eabb12fbc853",
+            "isSleeping": 0,
+            "mobile": "+49 1512 8882525",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

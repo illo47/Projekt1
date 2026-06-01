@@ -1,0 +1,178 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-05-04T13:15:00+02:00",
+        "date_ts": 1777893300,
+        "description": null,
+        "signUpDate": "2026-04-08 14:23:25",
+        "profile": {
+            "id": 277668,
+            "name": "Renate Rosco",
+            "avatar": "/api/uploads/31cdd939-c0b8-41af-a473-d117c90aa34f",
+            "isSleeping": 0,
+            "mobile": "+49 176 84373978",
+            "landline": "+49 176 84373978",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-06T13:15:00+02:00",
+        "date_ts": 1778066100,
+        "description": null,
+        "signUpDate": "2026-04-10 13:37:58",
+        "profile": {
+            "id": 871845,
+            "name": "Alexander Vainshtein",
+            "avatar": "/api/uploads/9b1883f0-1a57-4302-a9df-3d48277bd68f",
+            "isSleeping": 0,
+            "mobile": "+49 176 34934453",
+            "landline": "+49 176 34934453",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-08T13:15:00+02:00",
+        "date_ts": 1778238900,
+        "description": null,
+        "signUpDate": "2026-04-15 13:31:32",
+        "profile": {
+            "id": 686972,
+            "name": "Lale Yarar",
+            "avatar": "/api/uploads/e9133e85-955f-4157-88ed-6cb078431f16",
+            "isSleeping": 0,
+            "mobile": "+49 178 2135416",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-11T13:15:00+02:00",
+        "date_ts": 1778498100,
+        "description": null,
+        "signUpDate": "2026-04-19 10:28:20",
+        "profile": {
+            "id": 687118,
+            "name": "Laura Stanke",
+            "avatar": "/api/uploads/9250fb17-0aea-4086-b60c-14dd1a20fa4c",
+            "isSleeping": 0,
+            "mobile": "+49 1578 9307124",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-13T13:15:00+02:00",
+        "date_ts": 1778670900,
+        "description": null,
+        "signUpDate": "2026-04-20 09:19:52",
+        "profile": {
+            "id": 277668,
+            "name": "Renate Rosco",
+            "avatar": "/api/uploads/31cdd939-c0b8-41af-a473-d117c90aa34f",
+            "isSleeping": 0,
+            "mobile": "+49 176 84373978",
+            "landline": "+49 176 84373978",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-15T13:15:00+02:00",
+        "date_ts": 1778843700,
+        "description": null,
+        "signUpDate": "2026-04-18 18:04:55",
+        "profile": {
+            "id": 686972,
+            "name": "Lale Yarar",
+            "avatar": "/api/uploads/e9133e85-955f-4157-88ed-6cb078431f16",
+            "isSleeping": 0,
+            "mobile": "+49 178 2135416",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-18T13:15:00+02:00",
+        "date_ts": 1779102900,
+        "description": null,
+        "signUpDate": "2026-04-21 13:24:28",
+        "profile": {
+            "id": 735827,
+            "name": "Carina Meidert",
+            "avatar": "/api/uploads/0685c251-5021-4801-a799-e27cd107978e",
+            "isSleeping": 0,
+            "mobile": "+49 176 45669630",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-20T13:15:00+02:00",
+        "date_ts": 1779275700,
+        "description": null,
+        "signUpDate": "2026-04-24 11:21:26",
+        "profile": {
+            "id": 716693,
+            "name": "Metehan Önal",
+            "avatar": "/api/uploads/7b426f8b-b1d7-4c88-8302-63220fa5a0b2",
+            "isSleeping": 0,
+            "mobile": "+49 1522 4605029",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-22T13:15:00+02:00",
+        "date_ts": 1779448500,
+        "description": null,
+        "signUpDate": "2026-04-24 14:08:44",
+        "profile": {
+            "id": 686972,
+            "name": "Lale Yarar",
+            "avatar": "/api/uploads/e9133e85-955f-4157-88ed-6cb078431f16",
+            "isSleeping": 0,
+            "mobile": "+49 178 2135416",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-27T13:15:00+02:00",
+        "date_ts": 1779880500,
+        "description": null,
+        "signUpDate": "2026-04-30 09:55:02",
+        "profile": {
+            "id": 871845,
+            "name": "Alexander Vainshtein",
+            "avatar": "/api/uploads/9b1883f0-1a57-4302-a9df-3d48277bd68f",
+            "isSleeping": 0,
+            "mobile": "+49 176 34934453",
+            "landline": "+49 176 34934453",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-29T13:15:00+02:00",
+        "date_ts": 1780053300,
+        "description": null,
+        "signUpDate": "2026-05-04 13:57:43",
+        "profile": {
+            "id": 686974,
+            "name": "Sibel Yarar",
+            "avatar": "/api/uploads/7bcfecaf-3296-49b1-ab1d-4cecb28f52eb",
+            "isSleeping": 0,
+            "mobile": "+49 172 6886032",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

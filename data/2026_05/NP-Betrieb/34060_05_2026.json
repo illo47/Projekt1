@@ -1,0 +1,482 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-05-01T18:00:00+02:00",
+        "date_ts": 1777651200,
+        "description": null,
+        "signUpDate": "2026-04-19 19:21:57",
+        "profile": {
+            "id": 554842,
+            "name": "Nadia Belkacim",
+            "avatar": "/api/uploads/32e1099b-c073-422e-8e58-2c95964f5040",
+            "isSleeping": 0,
+            "mobile": "+49 176 64303653",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-02T17:40:00+02:00",
+        "date_ts": 1777736400,
+        "description": null,
+        "signUpDate": "2026-04-20 22:37:10",
+        "profile": {
+            "id": 914365,
+            "name": "Maria Mokhova",
+            "avatar": "/api/uploads/b4edbab6-3381-47ad-9c34-d4c9c53728b4",
+            "isSleeping": 0,
+            "mobile": "+49 176 61168024",
+            "landline": "+49 6171 8665879",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-03T16:15:00+02:00",
+        "date_ts": 1777817700,
+        "description": null,
+        "signUpDate": "2026-04-16 21:48:18",
+        "profile": {
+            "id": 632638,
+            "name": "Francisco Javier Lucas Pena",
+            "avatar": "/api/uploads/01dd9f94-a108-4912-96ba-da0bc5c2ce11",
+            "isSleeping": 0,
+            "mobile": "+49 176 47987165",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-04T18:00:00+02:00",
+        "date_ts": 1777910400,
+        "description": null,
+        "signUpDate": "2026-04-15 14:26:57",
+        "profile": {
+            "id": 772113,
+            "name": "Dominic Kaniyamparampil",
+            "avatar": "/api/uploads/16bfdd89-6864-487c-a154-0e860ad6e110",
+            "isSleeping": 0,
+            "mobile": "+49 1522 4325137",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-05T18:00:00+02:00",
+        "date_ts": 1777996800,
+        "description": null,
+        "signUpDate": "2026-04-14 18:01:02",
+        "profile": {
+            "id": 593512,
+            "name": "Bogumila Brod",
+            "avatar": "/api/uploads/998387b4-e367-46f9-b609-49267115d6f6",
+            "isSleeping": 0,
+            "mobile": "+49 163 8695421",
+            "landline": "+49 69 468863",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-06T18:00:00+02:00",
+        "date_ts": 1778083200,
+        "description": null,
+        "signUpDate": "2026-04-27 11:12:15",
+        "profile": {
+            "id": 496999,
+            "name": "Tobias von Essen",
+            "avatar": "/api/uploads/86083d6a-d086-426b-94ea-c5d0735ac468",
+            "isSleeping": 0,
+            "mobile": "+4915141202212",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-07T18:00:00+02:00",
+        "date_ts": 1778169600,
+        "description": null,
+        "signUpDate": "2026-04-16 18:00:33",
+        "profile": {
+            "id": 477377,
+            "name": "Andrea Morbe",
+            "avatar": "/api/uploads/f0cdd2e1-0889-4c95-83cc-383cfe36a655",
+            "isSleeping": 0,
+            "mobile": "+49 171 3220676",
+            "landline": "069 564498",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-08T18:00:00+02:00",
+        "date_ts": 1778256000,
+        "description": null,
+        "signUpDate": "2026-04-23 18:15:08",
+        "profile": {
+            "id": 888948,
+            "name": "Vincent Gewert",
+            "avatar": "/api/uploads/a5b185e8-1a72-4dd3-9164-7dd64dfff8fc",
+            "isSleeping": 0,
+            "mobile": "+49 1575 7609702",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-09T17:40:00+02:00",
+        "date_ts": 1778341200,
+        "description": null,
+        "signUpDate": "2026-05-07 12:59:45",
+        "profile": {
+            "id": 772113,
+            "name": "Dominic Kaniyamparampil",
+            "avatar": "/api/uploads/16bfdd89-6864-487c-a154-0e860ad6e110",
+            "isSleeping": 0,
+            "mobile": "+49 1522 4325137",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-10T16:15:00+02:00",
+        "date_ts": 1778422500,
+        "description": null,
+        "signUpDate": "2026-04-28 10:57:38",
+        "profile": {
+            "id": 858791,
+            "name": "Gerlando Cavaleri",
+            "avatar": "/api/uploads/042dbd4d-9752-4276-9835-d9619d7f90fc",
+            "isSleeping": 0,
+            "mobile": "+49 1522 8964230",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-11T18:00:00+02:00",
+        "date_ts": 1778515200,
+        "description": null,
+        "signUpDate": "2026-05-10 16:01:51",
+        "profile": {
+            "id": 772113,
+            "name": "Dominic Kaniyamparampil",
+            "avatar": "/api/uploads/16bfdd89-6864-487c-a154-0e860ad6e110",
+            "isSleeping": 0,
+            "mobile": "+49 1522 4325137",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-12T18:00:00+02:00",
+        "date_ts": 1778601600,
+        "description": null,
+        "signUpDate": "2026-04-21 18:00:39",
+        "profile": {
+            "id": 809076,
+            "name": "Wolfram Brod",
+            "avatar": "/api/uploads/f59f9437-cea3-48f2-a43b-dde96a899c5f",
+            "isSleeping": 0,
+            "mobile": "+49 176 42020314",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-13T18:00:00+02:00",
+        "date_ts": 1778688000,
+        "description": null,
+        "signUpDate": "2026-04-27 15:44:34",
+        "profile": {
+            "id": 554842,
+            "name": "Nadia Belkacim",
+            "avatar": "/api/uploads/32e1099b-c073-422e-8e58-2c95964f5040",
+            "isSleeping": 0,
+            "mobile": "+49 176 64303653",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-14T18:00:00+02:00",
+        "date_ts": 1778774400,
+        "description": "Christi Himmelfahrt, Abholung ganz normal um 18 Uhr",
+        "signUpDate": "2026-04-23 18:03:13",
+        "profile": {
+            "id": 477377,
+            "name": "Andrea Morbe",
+            "avatar": "/api/uploads/f0cdd2e1-0889-4c95-83cc-383cfe36a655",
+            "isSleeping": 0,
+            "mobile": "+49 171 3220676",
+            "landline": "069 564498",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-15T18:00:00+02:00",
+        "date_ts": 1778860800,
+        "description": null,
+        "signUpDate": "2026-04-26 11:56:19",
+        "profile": {
+            "id": 914365,
+            "name": "Maria Mokhova",
+            "avatar": "/api/uploads/b4edbab6-3381-47ad-9c34-d4c9c53728b4",
+            "isSleeping": 0,
+            "mobile": "+49 176 61168024",
+            "landline": "+49 6171 8665879",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-16T17:40:00+02:00",
+        "date_ts": 1778946000,
+        "description": null,
+        "signUpDate": "2026-05-09 10:34:55",
+        "profile": {
+            "id": 729487,
+            "name": "Assia Maaziz-Cinar",
+            "avatar": "/api/uploads/d8190f8e-c7de-409a-aac0-8b6a42de0627",
+            "isSleeping": 0,
+            "mobile": "+49 177 7943709",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-17T16:15:00+02:00",
+        "date_ts": 1779027300,
+        "description": null,
+        "signUpDate": "2026-05-04 14:50:56",
+        "profile": {
+            "id": 585909,
+            "name": "Sabine Müller",
+            "avatar": "/api/uploads/bed77b79-fce4-43c5-8719-59147c332529",
+            "isSleeping": 0,
+            "mobile": "+49 1577 9700220",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-18T18:00:00+02:00",
+        "date_ts": 1779120000,
+        "description": null,
+        "signUpDate": "2026-04-27 18:05:00",
+        "profile": {
+            "id": 858791,
+            "name": "Gerlando Cavaleri",
+            "avatar": "/api/uploads/042dbd4d-9752-4276-9835-d9619d7f90fc",
+            "isSleeping": 0,
+            "mobile": "+49 1522 8964230",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-19T18:00:00+02:00",
+        "date_ts": 1779206400,
+        "description": null,
+        "signUpDate": "2026-05-15 14:34:40",
+        "profile": {
+            "id": 183984,
+            "name": "Monika Romstein",
+            "avatar": "/api/uploads/ecf514d9-6e99-4ad7-9d00-38fe22fbdd52",
+            "isSleeping": 1,
+            "mobile": "+49 176 41412001",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-20T18:00:00+02:00",
+        "date_ts": 1779292800,
+        "description": null,
+        "signUpDate": "2026-04-30 09:49:05",
+        "profile": {
+            "id": 554842,
+            "name": "Nadia Belkacim",
+            "avatar": "/api/uploads/32e1099b-c073-422e-8e58-2c95964f5040",
+            "isSleeping": 0,
+            "mobile": "+49 176 64303653",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-21T18:00:00+02:00",
+        "date_ts": 1779379200,
+        "description": null,
+        "signUpDate": "2026-04-30 18:29:25",
+        "profile": {
+            "id": 477377,
+            "name": "Andrea Morbe",
+            "avatar": "/api/uploads/f0cdd2e1-0889-4c95-83cc-383cfe36a655",
+            "isSleeping": 0,
+            "mobile": "+49 171 3220676",
+            "landline": "069 564498",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-22T18:00:00+02:00",
+        "date_ts": 1779465600,
+        "description": null,
+        "signUpDate": "2026-05-02 12:48:16",
+        "profile": {
+            "id": 888948,
+            "name": "Vincent Gewert",
+            "avatar": "/api/uploads/a5b185e8-1a72-4dd3-9164-7dd64dfff8fc",
+            "isSleeping": 0,
+            "mobile": "+49 1575 7609702",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-24T16:15:00+02:00",
+        "date_ts": 1779632100,
+        "description": null,
+        "signUpDate": "2026-05-22 13:25:35",
+        "profile": {
+            "id": 729487,
+            "name": "Assia Maaziz-Cinar",
+            "avatar": "/api/uploads/d8190f8e-c7de-409a-aac0-8b6a42de0627",
+            "isSleeping": 0,
+            "mobile": "+49 177 7943709",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-25T18:00:00+02:00",
+        "date_ts": 1779724800,
+        "description": null,
+        "signUpDate": "2026-05-09 13:00:15",
+        "profile": {
+            "id": 554842,
+            "name": "Nadia Belkacim",
+            "avatar": "/api/uploads/32e1099b-c073-422e-8e58-2c95964f5040",
+            "isSleeping": 0,
+            "mobile": "+49 176 64303653",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-26T18:00:00+02:00",
+        "date_ts": 1779811200,
+        "description": null,
+        "signUpDate": "2026-05-05 18:01:18",
+        "profile": {
+            "id": 809076,
+            "name": "Wolfram Brod",
+            "avatar": "/api/uploads/f59f9437-cea3-48f2-a43b-dde96a899c5f",
+            "isSleeping": 0,
+            "mobile": "+49 176 42020314",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-27T18:00:00+02:00",
+        "date_ts": 1779897600,
+        "description": null,
+        "signUpDate": "2026-05-06 18:43:20",
+        "profile": {
+            "id": 772113,
+            "name": "Dominic Kaniyamparampil",
+            "avatar": "/api/uploads/16bfdd89-6864-487c-a154-0e860ad6e110",
+            "isSleeping": 0,
+            "mobile": "+49 1522 4325137",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-28T18:00:00+02:00",
+        "date_ts": 1779984000,
+        "description": null,
+        "signUpDate": "2026-05-07 18:05:59",
+        "profile": {
+            "id": 477377,
+            "name": "Andrea Morbe",
+            "avatar": "/api/uploads/f0cdd2e1-0889-4c95-83cc-383cfe36a655",
+            "isSleeping": 0,
+            "mobile": "+49 171 3220676",
+            "landline": "069 564498",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-29T18:00:00+02:00",
+        "date_ts": 1780070400,
+        "description": null,
+        "signUpDate": "2026-05-19 09:37:14",
+        "profile": {
+            "id": 302687,
+            "name": "Michaela Lohrmann",
+            "avatar": "/api/uploads/e0acfe4a-7c32-47c0-be94-cc527d8f26a9",
+            "isSleeping": 0,
+            "mobile": "+4915772510684",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-30T17:40:00+02:00",
+        "date_ts": 1780155600,
+        "description": null,
+        "signUpDate": "2026-05-18 14:13:36",
+        "profile": {
+            "id": 751054,
+            "name": "Bianca Burkard",
+            "avatar": "/api/uploads/ba06ebf6-888e-464f-871b-f9b3f5e53e7b",
+            "isSleeping": 0,
+            "mobile": "+49 175 5648744",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-31T16:15:00+02:00",
+        "date_ts": 1780236900,
+        "description": null,
+        "signUpDate": "2026-05-19 05:43:10",
+        "profile": {
+            "id": 858791,
+            "name": "Gerlando Cavaleri",
+            "avatar": "/api/uploads/042dbd4d-9752-4276-9835-d9619d7f90fc",
+            "isSleeping": 0,
+            "mobile": "+49 1522 8964230",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

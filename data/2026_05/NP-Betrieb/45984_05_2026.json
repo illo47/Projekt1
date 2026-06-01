@@ -1,0 +1,66 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-05-08T17:00:00+02:00",
+        "date_ts": 1778252400,
+        "description": "die Abholung kann auch immer etwas früher sein, bitte darauf einstellen",
+        "signUpDate": "2026-04-10 17:43:50",
+        "profile": {
+            "id": 210824,
+            "name": "Natalie Debus",
+            "avatar": "/api/uploads/1b4d56cc-3e9a-4b0f-b739-72b53ccd1ae8",
+            "isSleeping": 0,
+            "mobile": "+49 177 2328048",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-15T17:00:00+02:00",
+        "date_ts": 1778857200,
+        "description": "die Abholung kann auch immer etwas früher sein, bitte darauf einstellen",
+        "signUpDate": "2026-04-24 16:55:38",
+        "profile": {
+            "id": 729156,
+            "name": "Fouzia Elasraoui",
+            "avatar": "/api/uploads/5a84b5d7-7de1-47e9-94b8-598c18b90f44",
+            "isSleeping": 0,
+            "mobile": "+49 178 8730642",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-22T17:00:00+02:00",
+        "date_ts": 1779462000,
+        "description": "die Abholung kann auch immer etwas früher sein, bitte darauf einstellen",
+        "signUpDate": "2026-05-01 20:14:51",
+        "profile": {
+            "id": 210824,
+            "name": "Natalie Debus",
+            "avatar": "/api/uploads/1b4d56cc-3e9a-4b0f-b739-72b53ccd1ae8",
+            "isSleeping": 0,
+            "mobile": "+49 177 2328048",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-29T17:00:00+02:00",
+        "date_ts": 1780066800,
+        "description": "die Abholung kann auch immer etwas früher sein, bitte darauf einstellen",
+        "signUpDate": "2026-05-19 19:59:56",
+        "profile": {
+            "id": 476617,
+            "name": "Manuela Kurze",
+            "avatar": "/api/uploads/59b3d161-3ea3-42e2-b30d-3bab67e7e6ed",
+            "isSleeping": 0,
+            "mobile": "+49 176 34490168",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]

@@ -1,0 +1,418 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-05-01T19:00:00+02:00",
+        "date_ts": 1777654800,
+        "description": null,
+        "signUpDate": "2026-04-28 20:48:06",
+        "profile": {
+            "id": 1003583,
+            "name": "Wahida Ouhssaine - Azaouagh",
+            "avatar": "/api/uploads/1bae82d7-62a8-4097-b529-0b830d95c012",
+            "isSleeping": 0,
+            "mobile": "+49 178 3600009",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-02T18:00:00+02:00",
+        "date_ts": 1777737600,
+        "description": null,
+        "signUpDate": "2026-05-02 10:03:19",
+        "profile": {
+            "id": 990225,
+            "name": "Keman Ba",
+            "avatar": "/api/uploads/8f2c4908-274c-405a-8ec5-b2a5bf091a96",
+            "isSleeping": 0,
+            "mobile": "+49 1521 8286458",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-03T20:00:00+02:00",
+        "date_ts": 1777831200,
+        "description": null,
+        "signUpDate": "2026-04-21 21:53:13",
+        "profile": {
+            "id": 1003583,
+            "name": "Wahida Ouhssaine - Azaouagh",
+            "avatar": "/api/uploads/1bae82d7-62a8-4097-b529-0b830d95c012",
+            "isSleeping": 0,
+            "mobile": "+49 178 3600009",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-04T19:00:00+02:00",
+        "date_ts": 1777914000,
+        "description": null,
+        "signUpDate": "2026-05-02 11:04:35",
+        "profile": {
+            "id": 887315,
+            "name": "Sofia Raza",
+            "avatar": "/api/uploads/83bb7971-b3ad-48f8-96e0-b6cda56428e6",
+            "isSleeping": 0,
+            "mobile": "+49 179 2007176",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-05T19:00:00+02:00",
+        "date_ts": 1778000400,
+        "description": null,
+        "signUpDate": "2026-04-28 20:48:47",
+        "profile": {
+            "id": 1003583,
+            "name": "Wahida Ouhssaine - Azaouagh",
+            "avatar": "/api/uploads/1bae82d7-62a8-4097-b529-0b830d95c012",
+            "isSleeping": 0,
+            "mobile": "+49 178 3600009",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-06T19:00:00+02:00",
+        "date_ts": 1778086800,
+        "description": null,
+        "signUpDate": "2026-04-25 08:34:25",
+        "profile": {
+            "id": 262000,
+            "name": "Gabriele Behr-Döhn",
+            "avatar": "/api/uploads/2595b826-e7c5-4dd6-95d1-d85fc867c2b2",
+            "isSleeping": 0,
+            "mobile": "+4915781680637",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-07T19:00:00+02:00",
+        "date_ts": 1778173200,
+        "description": null,
+        "signUpDate": "2026-04-29 22:57:32",
+        "profile": {
+            "id": 1003583,
+            "name": "Wahida Ouhssaine - Azaouagh",
+            "avatar": "/api/uploads/1bae82d7-62a8-4097-b529-0b830d95c012",
+            "isSleeping": 0,
+            "mobile": "+49 178 3600009",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-08T19:00:00+02:00",
+        "date_ts": 1778259600,
+        "description": null,
+        "signUpDate": "2026-05-05 11:06:49",
+        "profile": {
+            "id": 216555,
+            "name": "Adrian Deptuch",
+            "avatar": "/api/uploads/09931727-f861-477b-b347-690f883c85cd",
+            "isSleeping": 0,
+            "mobile": "+49 170 6237956",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-09T18:00:00+02:00",
+        "date_ts": 1778342400,
+        "description": null,
+        "signUpDate": "2026-05-09 14:58:23",
+        "profile": {
+            "id": 887315,
+            "name": "Sofia Raza",
+            "avatar": "/api/uploads/83bb7971-b3ad-48f8-96e0-b6cda56428e6",
+            "isSleeping": 0,
+            "mobile": "+49 179 2007176",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-10T20:00:00+02:00",
+        "date_ts": 1778436000,
+        "description": null,
+        "signUpDate": "2026-05-06 12:06:07",
+        "profile": {
+            "id": 1003583,
+            "name": "Wahida Ouhssaine - Azaouagh",
+            "avatar": "/api/uploads/1bae82d7-62a8-4097-b529-0b830d95c012",
+            "isSleeping": 0,
+            "mobile": "+49 178 3600009",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-11T19:00:00+02:00",
+        "date_ts": 1778518800,
+        "description": null,
+        "signUpDate": "2026-05-11 18:14:42",
+        "profile": {
+            "id": 875441,
+            "name": "Christoph Lokotsch-Schmidt",
+            "avatar": "/api/uploads/98180a11-8fef-4f89-9192-5b854709734a",
+            "isSleeping": 0,
+            "mobile": "+49 176 38200374",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-12T19:00:00+02:00",
+        "date_ts": 1778605200,
+        "description": null,
+        "signUpDate": "2026-05-09 22:56:15",
+        "profile": {
+            "id": 982372,
+            "name": "Beatrice Mahnicke",
+            "avatar": "/api/uploads/e48b58cc-e792-4cbc-9582-eabb12fbc853",
+            "isSleeping": 0,
+            "mobile": "+49 1512 8882525",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-13T19:00:00+02:00",
+        "date_ts": 1778691600,
+        "description": null,
+        "signUpDate": "2026-05-09 23:40:12",
+        "profile": {
+            "id": 887315,
+            "name": "Sofia Raza",
+            "avatar": "/api/uploads/83bb7971-b3ad-48f8-96e0-b6cda56428e6",
+            "isSleeping": 0,
+            "mobile": "+49 179 2007176",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-14T19:00:00+02:00",
+        "date_ts": 1778778000,
+        "description": null,
+        "signUpDate": "2026-05-13 07:46:12",
+        "profile": {
+            "id": 990225,
+            "name": "Keman Ba",
+            "avatar": "/api/uploads/8f2c4908-274c-405a-8ec5-b2a5bf091a96",
+            "isSleeping": 0,
+            "mobile": "+49 1521 8286458",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-15T19:00:00+02:00",
+        "date_ts": 1778864400,
+        "description": null,
+        "signUpDate": "2026-05-14 10:14:09",
+        "profile": {
+            "id": 648771,
+            "name": "Oleh Koptsev",
+            "avatar": "/api/uploads/7849afcd-1b34-47cf-88dc-1c2e876b154b",
+            "isSleeping": 0,
+            "mobile": "+49 15563 204063",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-16T18:00:00+02:00",
+        "date_ts": 1778947200,
+        "description": null,
+        "signUpDate": "2026-05-16 13:56:52",
+        "profile": {
+            "id": 887315,
+            "name": "Sofia Raza",
+            "avatar": "/api/uploads/83bb7971-b3ad-48f8-96e0-b6cda56428e6",
+            "isSleeping": 0,
+            "mobile": "+49 179 2007176",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-17T20:00:00+02:00",
+        "date_ts": 1779040800,
+        "description": null,
+        "signUpDate": "2026-05-17 11:40:29",
+        "profile": {
+            "id": 1003583,
+            "name": "Wahida Ouhssaine - Azaouagh",
+            "avatar": "/api/uploads/1bae82d7-62a8-4097-b529-0b830d95c012",
+            "isSleeping": 0,
+            "mobile": "+49 178 3600009",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-18T19:00:00+02:00",
+        "date_ts": 1779123600,
+        "description": null,
+        "signUpDate": "2026-05-14 23:32:43",
+        "profile": {
+            "id": 875441,
+            "name": "Christoph Lokotsch-Schmidt",
+            "avatar": "/api/uploads/98180a11-8fef-4f89-9192-5b854709734a",
+            "isSleeping": 0,
+            "mobile": "+49 176 38200374",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-21T19:00:00+02:00",
+        "date_ts": 1779382800,
+        "description": null,
+        "signUpDate": "2026-05-13 18:45:43",
+        "profile": {
+            "id": 725703,
+            "name": "Lea Sophie Rohe",
+            "avatar": "/api/uploads/1b9e5bcc-da7d-4580-81b2-c1e50418efca",
+            "isSleeping": 0,
+            "mobile": "+49 176 84633111",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-22T19:00:00+02:00",
+        "date_ts": 1779469200,
+        "description": null,
+        "signUpDate": "2026-05-13 23:23:54",
+        "profile": {
+            "id": 748316,
+            "name": "Laura Sengeboden",
+            "avatar": "/api/uploads/11abdac6-de62-4e0c-8a67-1b261388b1da",
+            "isSleeping": 0,
+            "mobile": "+49 171 1913005",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-23T18:00:00+02:00",
+        "date_ts": 1779552000,
+        "description": null,
+        "signUpDate": "2026-05-23 16:51:26",
+        "profile": {
+            "id": 923674,
+            "name": "Rolf Täumer",
+            "avatar": "/api/uploads/85dac244-4ce4-4a3e-87fa-b5d7724c617e",
+            "isSleeping": 0,
+            "mobile": "+49 176 96521602",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-24T20:00:00+02:00",
+        "date_ts": 1779645600,
+        "description": null,
+        "signUpDate": "2026-05-24 18:55:39",
+        "profile": {
+            "id": 923674,
+            "name": "Rolf Täumer",
+            "avatar": "/api/uploads/85dac244-4ce4-4a3e-87fa-b5d7724c617e",
+            "isSleeping": 0,
+            "mobile": "+49 176 96521602",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-25T19:00:00+02:00",
+        "date_ts": 1779728400,
+        "description": null,
+        "signUpDate": "2026-05-11 07:41:13",
+        "profile": {
+            "id": 1003583,
+            "name": "Wahida Ouhssaine - Azaouagh",
+            "avatar": "/api/uploads/1bae82d7-62a8-4097-b529-0b830d95c012",
+            "isSleeping": 0,
+            "mobile": "+49 178 3600009",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-26T19:00:00+02:00",
+        "date_ts": 1779814800,
+        "description": null,
+        "signUpDate": "2026-05-21 22:08:06",
+        "profile": {
+            "id": 875441,
+            "name": "Christoph Lokotsch-Schmidt",
+            "avatar": "/api/uploads/98180a11-8fef-4f89-9192-5b854709734a",
+            "isSleeping": 0,
+            "mobile": "+49 176 38200374",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-27T19:00:00+02:00",
+        "date_ts": 1779901200,
+        "description": null,
+        "signUpDate": "2026-05-11 22:52:33",
+        "profile": {
+            "id": 262000,
+            "name": "Gabriele Behr-Döhn",
+            "avatar": "/api/uploads/2595b826-e7c5-4dd6-95d1-d85fc867c2b2",
+            "isSleeping": 0,
+            "mobile": "+4915781680637",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-31T20:00:00+02:00",
+        "date_ts": 1780250400,
+        "description": null,
+        "signUpDate": "2026-05-11 19:57:17",
+        "profile": {
+            "id": 792959,
+            "name": "Nineli Tandilashvili Jalali",
+            "avatar": "/api/uploads/27998d2c-57a7-4980-8598-2112dff599f2",
+            "isSleeping": 0,
+            "mobile": "+49 1575 0134343",
+            "landline": "+49 1575 0134343",
+            "isManager": false
+        }
+    }
+]

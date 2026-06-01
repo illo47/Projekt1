@@ -1,0 +1,242 @@
+[
+    {
+        "confirmed": 1,
+        "date": "2026-05-02T19:00:00+02:00",
+        "date_ts": 1777741200,
+        "description": null,
+        "signUpDate": "2026-04-30 06:28:01",
+        "profile": {
+            "id": 310787,
+            "name": "Florian Miehle",
+            "avatar": "/api/uploads/3170c2d1-59a3-4737-9681-c0fe9a6159ee",
+            "isSleeping": 0,
+            "mobile": "+491707368115",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-04T19:00:00+02:00",
+        "date_ts": 1777914000,
+        "description": null,
+        "signUpDate": "2026-04-23 18:02:16",
+        "profile": {
+            "id": 734566,
+            "name": "Claudia Jakob",
+            "avatar": "/api/uploads/480796a3-e436-41e5-8ae4-c47c73938811",
+            "isSleeping": 0,
+            "mobile": "+49 1522 2572125",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-06T19:00:00+02:00",
+        "date_ts": 1778086800,
+        "description": null,
+        "signUpDate": "2026-04-20 07:20:53",
+        "profile": {
+            "id": 510959,
+            "name": "Stephen Murphy",
+            "avatar": "/api/uploads/6355a9d0-c908-424d-885c-b8b2fe1f70da",
+            "isSleeping": 0,
+            "mobile": "+49 176 87931121",
+            "landline": "+49 176 87931121",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-08T19:00:00+02:00",
+        "date_ts": 1778259600,
+        "description": null,
+        "signUpDate": "2026-04-20 20:11:22",
+        "profile": {
+            "id": 887940,
+            "name": "Ines Müller",
+            "avatar": "/api/uploads/424908a5-7798-4603-8f84-9ce5af496e42",
+            "isSleeping": 0,
+            "mobile": "+49 176 22890032",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-10T19:00:00+02:00",
+        "date_ts": 1778432400,
+        "description": null,
+        "signUpDate": "2026-05-08 20:38:40",
+        "profile": {
+            "id": 887940,
+            "name": "Ines Müller",
+            "avatar": "/api/uploads/424908a5-7798-4603-8f84-9ce5af496e42",
+            "isSleeping": 0,
+            "mobile": "+49 176 22890032",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-12T19:00:00+02:00",
+        "date_ts": 1778605200,
+        "description": null,
+        "signUpDate": "2026-05-12 10:12:52",
+        "profile": {
+            "id": 745275,
+            "name": "Habiba Amallah",
+            "avatar": "/api/uploads/2d89ecc7-11f2-4896-9d68-fa3a4be72168",
+            "isSleeping": 0,
+            "mobile": "+49 176 84877775",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-14T19:00:00+02:00",
+        "date_ts": 1778778000,
+        "description": null,
+        "signUpDate": "2026-05-12 19:34:08",
+        "profile": {
+            "id": 887940,
+            "name": "Ines Müller",
+            "avatar": "/api/uploads/424908a5-7798-4603-8f84-9ce5af496e42",
+            "isSleeping": 0,
+            "mobile": "+49 176 22890032",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-16T19:00:00+02:00",
+        "date_ts": 1778950800,
+        "description": null,
+        "signUpDate": "2026-05-15 16:54:38",
+        "profile": {
+            "id": 887940,
+            "name": "Ines Müller",
+            "avatar": "/api/uploads/424908a5-7798-4603-8f84-9ce5af496e42",
+            "isSleeping": 0,
+            "mobile": "+49 176 22890032",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-18T19:00:00+02:00",
+        "date_ts": 1779123600,
+        "description": null,
+        "signUpDate": "2026-04-20 14:28:29",
+        "profile": {
+            "id": 310787,
+            "name": "Florian Miehle",
+            "avatar": "/api/uploads/3170c2d1-59a3-4737-9681-c0fe9a6159ee",
+            "isSleeping": 0,
+            "mobile": "+491707368115",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-20T19:00:00+02:00",
+        "date_ts": 1779296400,
+        "description": null,
+        "signUpDate": "2026-04-20 07:19:36",
+        "profile": {
+            "id": 509374,
+            "name": "Alena Korbut",
+            "avatar": "/api/uploads/8371560d-6688-47ca-8cb2-7e41b406d1d3",
+            "isSleeping": 0,
+            "mobile": "+49 17671221951",
+            "landline": "+49 17671221951",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-22T19:00:00+02:00",
+        "date_ts": 1779469200,
+        "description": null,
+        "signUpDate": "2026-05-18 19:19:39",
+        "profile": {
+            "id": 887940,
+            "name": "Ines Müller",
+            "avatar": "/api/uploads/424908a5-7798-4603-8f84-9ce5af496e42",
+            "isSleeping": 0,
+            "mobile": "+49 176 22890032",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-24T19:00:00+02:00",
+        "date_ts": 1779642000,
+        "description": null,
+        "signUpDate": "2026-05-20 20:44:54",
+        "profile": {
+            "id": 887940,
+            "name": "Ines Müller",
+            "avatar": "/api/uploads/424908a5-7798-4603-8f84-9ce5af496e42",
+            "isSleeping": 0,
+            "mobile": "+49 176 22890032",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-26T19:00:00+02:00",
+        "date_ts": 1779814800,
+        "description": null,
+        "signUpDate": "2026-05-24 10:34:33",
+        "profile": {
+            "id": 209946,
+            "name": "Gabriele",
+            "avatar": "/api/uploads/97b64a49-e4e6-4017-aa5c-01d54035fb31",
+            "isSleeping": 0,
+            "mobile": "+49 1512 9525865",
+            "landline": "",
+            "isManager": false
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-28T19:00:00+02:00",
+        "date_ts": 1779987600,
+        "description": null,
+        "signUpDate": "2026-05-27 07:07:27",
+        "profile": {
+            "id": 386173,
+            "name": "Jenny Reith",
+            "avatar": "/api/uploads/1ef2230f-f917-4e29-9b99-6e97db3c6a90",
+            "isSleeping": 0,
+            "mobile": "+4915775979699",
+            "landline": "+4915775979699",
+            "isManager": true
+        }
+    },
+    {
+        "confirmed": 1,
+        "date": "2026-05-30T19:00:00+02:00",
+        "date_ts": 1780160400,
+        "description": null,
+        "signUpDate": "2026-05-27 05:55:11",
+        "profile": {
+            "id": 887940,
+            "name": "Ines Müller",
+            "avatar": "/api/uploads/424908a5-7798-4603-8f84-9ce5af496e42",
+            "isSleeping": 0,
+            "mobile": "+49 176 22890032",
+            "landline": "",
+            "isManager": false
+        }
+    }
+]
